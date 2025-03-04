@@ -33,14 +33,13 @@ Hello! I’m **Sourav Kumar**, a passionate **Computer Science Engineering (CSE)
 - **Web Dev Journey** – 🌐 Hands-on HTML & CSS projects
 - **Java Projects** – 🏗️ Real-world applications and problem-solving
 
-Check out my repositories [here](https://github.com/your-github-username)!
+Check out my repositories https://github.com/sourav-kumar-357 
 
 ---
 ## 🌐 Let's Connect & Collaborate
 I’m always open to discussions, collaborations, and learning from like-minded developers. Let’s build something amazing together!
 
-📌 **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)  
-📌 **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)  
-📌 **Twitter/X:** [twitter.com/your-twitter-handle](https://twitter.com/your-twitter-handle)  
+📌 **GitHub:** [github.com/sourav-kumar-357](https://github.com/sourav-kumar-357)  
+📌 **LinkedIn:** [linkedin.com/in/souravkumar1976](https://linkedin.com/in/souravkumar1976)   
 
 ✨ **Keep learning, keep building, and keep pushing boundaries!** 🚀
