@@ -1,13 +1,13 @@
 <!-- 🚀 Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I’m+Sourav+Kumar+👋;CSE+Student+@+UCET+Hazaribagh;A+Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+App+Developer+📱;Cloud+Computing+Explorer+☁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I’m+Sourav+Kumar+👋;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Learner+🧠;A+Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+App+Developer+📱;Cloud+Computing+Explorer+☁️" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 **About Me**  
 
-🔹 **Hello there!** I’m **Sourav Kumar**, a **Computer Science Engineering (CSE) student** at **UCET Hazaribagh** with an insatiable curiosity for **technology, coding, and problem-solving**.  
+🔹 Hi, I'm **Sourav Kumar**, a 2nd-semester B.Tech CSE student at **UCET Hazaribagh**, passionate about **software development**, **problem solving**, and turning ideas into **real-world applications**.  
 🔹 I am on a mission to **transform ideas into reality through code** while constantly evolving as a **developer and innovator**.  
 🔹 My core strengths lie in **programming, development, and tech exploration** as I prepare myself for the **ever-changing world of technology**.  
 
@@ -44,6 +44,17 @@
 
 ---
 
+## 🚀 Current Learning & Focus
+
+| Area                  | Details                                                                 |
+|-----------------------|-------------------------------------------------------------------------|
+| 🧠 Java & DSA         | Learning via Udemy (Tim Buchalka) + GFG Self-Paced Course               |
+| 🌐 Web Development    | HTML, CSS mastery, and JavaScript fundamentals                          |
+| 💼 Java Projects      | Real-world Java applications & mini-tools [Java Projects Repo](https://github.com/sourav-kumar-357/Java-Projects) |
+| 🔜 App Dev & Cloud    | Exploring Android Development & Cloud Computing basics                  |
+
+---
+
 ## **📌 My GitHub Stats & Activity**  
 
 <p align="center">
@@ -58,10 +69,14 @@
 
 ---
 
-## **🚀 Featured Projects & Repositories**  
-📂 **[Java Learning Repository](https://github.com/sourav-kumar-357)** – A collection of Java concepts & problem-solving techniques  
-🌐 **[Web Dev Journey](https://github.com/sourav-kumar-357)** – Hands-on projects with HTML, CSS, and JS  
-🏗 **[Java Projects](https://github.com/sourav-kumar-357)** – Real-world applications built in Java  
+## 🏗 Featured Repositories
+
+- 📂 **[Java-Learning-Codes](https://github.com/sourav-kumar-357/Java-Learning-Codes)** — All Java theory + practice from Udemy  
+- 📂 **[DSA-GFG](https://github.com/sourav-kumar-357/DSA-GFG)** — My complete GeeksforGeeks self-paced course journey  
+- 🌐 **[web-dev-projects](https://github.com/sourav-kumar-357/web-dev-projects)** — Real frontend websites and UI components  
+- 💻 **[Java-Projects](https://github.com/sourav-kumar-357/Java-Projects)** — Java apps using OOPs and Java SE concepts  
+
+---
 
 💡 Explore more on my **[GitHub Repositories](https://github.com/sourav-kumar-357)**  
 
