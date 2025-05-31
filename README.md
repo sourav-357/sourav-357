@@ -1,4 +1,4 @@
-<!-- 🚀 Welcome Banner -->
+<!-- 🚀 Welcome Banners -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I’m+Sourav+Kumar+👋;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Learner+🧠;A+Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+App+Developer+📱;Cloud+Computing+Explorer+☁️" alt="Typing SVG" />
 </p>
