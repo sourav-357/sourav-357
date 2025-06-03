@@ -24,9 +24,9 @@ I'm **Sourav Kumar**, a 2nd-semester Computer Science student at **UCET Hazariba
 | Timeline       | Focus Areas                                                                 |
 |----------------|------------------------------------------------------------------------------|
 | 🚩 Now         | Java SE, OOPs, DSA (Tim Buchalka + GFG Self-Paced)                          |
-| 🛠 Next 10 Days | Full Frontend (HTML, CSS, JavaScript), GitHub Projects                      |
-| ⚙️ Next 10 Days | Node.js, Express.js, MongoDB, REST APIs, Mongoose (Namaste Node.js)         |
-| ⚡️ Next 10 Days | React.js crash course + mini projects before **Hackathon (July 10)**         |
+| 🛠 This Sem | Full Frontend (HTML, CSS, JavaScript), GitHub Projects                      |
+| ⚙️ This Sem | Node.js, Express.js, MongoDB, REST APIs, Mongoose (Namaste Node.js)         |
+| ⚡️ This Sem | React.js crash course + mini projects before **Hackathon (July 10)**         |
 | 📱 Later        | App Development (Flutter, Android) + Cloud Basics (AWS/GCP/Azure)           |
 
 📌 *I document everything through my GitHub repos—check them out!*
