@@ -36,16 +36,16 @@ I'm **Sourav Kumar**, a 2nd-semester Computer Science student at **UCET Hazariba
 ## 💻 Tech Toolbox & Skills
 
 ### 🧠 Languages
-- `Java` – OOP, DSA, Java SE (Core)
-- `C` – Structured programming
-- `JavaScript` – Web interactivity (in progress)
-- `HTML & CSS` – Frontend structure and design
+- Java – OOP, DSA, Java SE (Core)
+- C – Structured programming
+- JavaScript – Web interactivity (in progress)
+- HTML & CSS – Frontend structure and design
 
 ### 🌐 Web Development
-- `Frontend:` HTML, CSS, JavaScript (projects ongoing)
-- `Backend:` Node.js, Express.js (learning now)
-- `Database:` MongoDB + Mongoose (in progress)
-- `Full Stack:` MERN (coming soon)
+- Frontend: HTML, CSS, JavaScript (projects ongoing)
+- Backend: Node.js, Express.js (learning now)
+- Database: MongoDB + Mongoose (in progress)
+- Full Stack: MERN (coming soon)
 
 ### ☁️ Other Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -65,9 +65,9 @@ I'm **Sourav Kumar**, a 2nd-semester Computer Science student at **UCET Hazariba
 | [**Java-Projects**](https://github.com/sourav-kumar-357/Java-Projects) | Java applications using OOP principles |
 
 🧩 Coming soon:
-- 🔥 `Hackathon-ready mini-apps (React + MongoDB)`
-- 📲 `Flutter-based Android apps`
-- ☁️ `Cloud micro-projects & APIs`
+- 🔥 Hackathon-ready mini-apps (React + MongoDB)
+- 📲 Flutter-based Android apps
+- ☁️ Cloud micro-projects & APIs
 
 ---
 
@@ -75,10 +75,7 @@ I'm **Sourav Kumar**, a 2nd-semester Computer Science student at **UCET Hazariba
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sourav-kumar-357&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sourav-kumar-357&theme=radical&hide_border=true" />
-</p>
-
-
+  <img src="https://streak-stats.demolab.com?user=sourav-kumar-357&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
