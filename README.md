@@ -75,7 +75,7 @@ I'm **Sourav Kumar**, a 2nd-semester Computer Science student at **UCET Hazariba
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sourav-kumar-357&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  ![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-View%20Insights-blueviolet?style=for-the-badge)
+  <img src="https://streak-stats.demolab.com?user=sourav-kumar-357&theme=radical&hide_border=true" />
 </p>
 
 
