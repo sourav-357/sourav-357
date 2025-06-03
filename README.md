@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Welcome -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I'm+Sourav+Kumar+👋;A+Curious+Tech+Explorer+from+India+🌍;Java+%26+DSA+Fanatic+💻;Frontend+to+Backend+Builder+🛠;Hackathon+Ready+💡;Let’s+Build+the+Future+Together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=450&lines=Hey+there!+I'm+Sourav+Kumar+👋;A+Curious+Tech+Explorer+from+India+🌍;Java+%26+DSA+Fanatic+💻;Frontend+to+Backend+Builder+🛠;Hackathon+Ready+💡;Let’s+Build+the+Future+Together!+🚀" alt="Typing SVG" />
 </p>
 
 ---
