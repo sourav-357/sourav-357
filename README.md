@@ -1,81 +1,88 @@
 <!-- 🌟 Animated Welcome -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=450&lines=Hey+there!+I'm+Sourav+Kumar+👋;A+Curious+Tech+Explorer+from+India+🌍;Java+%26+DSA+Fanatic+💻;Frontend+to+Backend+Builder+🛠;Hackathon+Ready+💡;Let’s+Build+the+Future+Together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=409EFF&width=600&lines=Hey+there!+I'm+Sourav+Kumar+👋;Full-Stack+Engineer+in+Training+from+India+🌍;Java+%7C+DSA+%7C+NodeJS+%7C+React🚀;Internships+%26+Hackathons+Now+🎯" alt="Typing SVG" />
 </p>
 
 ---
 
-# 👨‍💻 About me
+## 👨‍💻 About Me
 
-I'm **Sourav Kumar**, a 2nd-semester Computer Science student at **UCET Hazaribagh**. I'm passionate about **software engineering**, **problem solving**, and **bringing ideas to life through code**. Despite a low-resource environment, I’m grinding daily toward a **top-tier tech placement**, driven by curiosity and self-discipline.
+Hi, I’m **Sourav Kumar** — a Computer Science student from **UCET Hazaribagh** (Jharkhand, India), actively shaping my path into full-stack development.
 
-💡 I don’t just learn tech—I **apply, break, rebuild, and scale** it. Whether it’s building web apps, solving DSA problems, or exploring cloud, I strive to **go beyond tutorials**.
+Despite studying in a low-resource environment, I’ve made it my mission to self-learn, build, and grow through consistent effort. I don't just consume tutorials — I **apply, break, rebuild, and optimize** everything I learn.
 
----
-
-## 🚀 My Mission Statement
-
-🔭 *“To become a **skilled full-stack developer** and Java expert, capable of building scalable real-world products, contributing to open source, and making an impact in global hackathons and startups.”*
-
----
-
-## 🌱 My Learning Journey: Roadmap
-
-| Timeline       | Focus Areas                                                                 |
-|----------------|------------------------------------------------------------------------------|
-| 🚩 Now         | Java SE, OOPs, DSA (Tim Buchalka + GFG Self-Paced)                          |
-| 🛠 This Sem | Full Frontend (HTML, CSS, JavaScript), GitHub Projects                      |
-| ⚙️ This Sem | Node.js, Express.js, MongoDB, REST APIs, Mongoose (Namaste Node.js)         |
-| ⚡️ This Sem | React.js crash course + mini projects before **Hackathon (July 10)**         |
-| 📱 Later        | App Development (Flutter, Android) + Cloud Basics (AWS/GCP/Azure)           |
-
-📌 *I document everything through my GitHub repos—check them out!*
+### 🚀 What I Stand For:
+- **Clarity over clutter** — clean code, structured thoughts.
+- **Learning by doing** — every skill I pick up ends in a repo.
+- **Hackathon-driven development** — shipping fast, learning faster.
+- **Consistency beats talent** — I show up daily, no matter what.
 
 ---
 
-## 💻 Tech Toolbox & Skills
+## 📚 What I'm Learning (in-depth)
 
-### 🧠 Languages
-- Java – OOP, DSA, Java SE (Core)
-- C – Structured programming
-- JavaScript – Web interactivity (in progress)
-- HTML & CSS – Frontend structure and design
+| 📅 Timeline        | 🎯 Skill Areas                                                                 |
+|--------------------|--------------------------------------------------------------------------------|
+| ✅ Completed        | **Java SE & OOP (Tim Buchalka)**, **DSA from GeeksforGeeks**, HTML, CSS       |
+| ✅ JavaScript       | Completed **Jonas's Udemy JS Course**, Apna College Series, SuperSimpleDev     |
+| 🛠️ In Progress     | **Node.js + Express + MongoDB** (Udemy Bootcamp) — Building server-side skills |
+| 🔜 Next            | Full **React.js** course → **Next.js** and deep dive backend architecture      |
+| 📌 Side Learning    | Git, GitHub workflows, CLI tools, Notion for tracking, internship prep         |
 
-### 🌐 Web Development
-- Frontend: HTML, CSS, JavaScript (projects ongoing)
-- Backend: Node.js, Express.js (learning now)
-- Database: MongoDB + Mongoose (in progress)
-- Full Stack: MERN (coming soon)
-
-### ☁️ Other Tools & Platforms
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+Every topic I learn is documented through projects or repositories — you can **track my real progress** through my GitHub.
 
 ---
 
-## 🔥 Featured Projects (Actively Maintained)
+## 🛠️ Tech Stack – Tools I Work With
 
-| 🔗 Repository | 📌 Highlights |
-|--------------|----------------|
-| [**Java-Learning-Codes**](https://github.com/sourav-kumar-357/Java-Learning-Codes) | Java basics, OOP, mini programs |
-| [**DSA-GFG**](https://github.com/sourav-kumar-357/DSA-GFG) | GFG course progress with solved problems |
-| [**web-dev-projects**](https://github.com/sourav-kumar-357/web-dev-projects) | Frontend websites, HTML/CSS UI components |
-| [**Java-Projects**](https://github.com/sourav-kumar-357/Java-Projects) | Java applications using OOP principles |
+### 🔹 Core Languages
+- **Java** – Object-Oriented Programming, problem solving, mini projects
+- **JavaScript** – Functional logic, DOM manipulation, browser APIs
+- **HTML & CSS** – Layouts, responsive designs, animations
 
-🧩 Coming soon:
-- 🔥 Hackathon-ready mini-apps (React + MongoDB)
-- 📲 Flutter-based Android apps
-- ☁️ Cloud micro-projects & APIs
+### 🔹 Backend Development
+- **Node.js** – Server-side logic and async workflows
+- **Express.js** – REST API creation, routing, middleware
+- **MongoDB** – NoSQL DB, schema modeling via Mongoose
+
+### 🔹 Frontend Development
+- **(Planned)** React.js – Component-based design, hooks, SPA
+- **(Upcoming)** Next.js – Server-side rendering, file-based routing
+
+### 🔹 Tools & Workflow
+- **Git + GitHub** – Version control, collaboration, open source
+- **VS Code** – My main IDE
+- **Notion** – Learning management + journal
+- **Postman, MongoDB Compass** – API and DB testing
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Major Projects
+
+Here’s what I’m actively building and maintaining:
+
+### 🌐 Frontend & Web Projects
+- **[web-dev-projects](https://github.com/sourav-kumar-357/web-dev-projects)**  
+  ↳ Clean UIs, landing pages, reusable components built using HTML, CSS & vanilla JS
+
+### ☕ Java & OOP Practice
+- **[Java-Learning-Codes](https://github.com/sourav-kumar-357/Java-Learning-Codes)**  
+  ↳ Core Java programs — including real-world OOP implementations and logic building
+
+### 📊 DSA & Competitive Coding
+- **[DSA-GFG](https://github.com/sourav-kumar-357/DSA-GFG)**  
+  ↳ Ongoing progress solving GFG's curated DSA list + problem patterns
+
+### ⚙️ Backend (Current Learning)
+- Building RESTful APIs using Node.js, Express.js, MongoDB (Course-based learning and then custom projects)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav-kumar-357&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sourav-kumar-357&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-kumar-357&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-kumar-357&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
@@ -84,31 +91,29 @@ I'm **Sourav Kumar**, a 2nd-semester Computer Science student at **UCET Hazariba
 
 ---
 
-## 🧠 Learning Platforms I'm Using
+## 🎯 Career & Learning Goals (2024–25)
 
-- 📘 [Tim Buchalka’s Java Masterclass (Udemy)](https://www.udemy.com/course/java-the-complete-java-developer-course/)
-- 💻 [GFG DSA Self-Paced Course](https://practice.geeksforgeeks.org/courses/dsa-self-paced)
-- 📺 [Namaste Node.js (Akshay Saini)](https://www.youtube.com/playlist?list=PLlasXeu85E9eLVl7pza2Nx3Jr6Lki8fAH)
-- 👨‍🎓 YouTube + Docs + Open Source – Learning by doing!
+Here’s what I’m gunning for over the next year:
 
----
-
-## 🎯 Goals for 2025
-
-✅ Master Java + DSA  
-✅ Contribute to real-world open source projects  
-✅ Build solid portfolio apps in Web + Android  
-✅ Crack tech interviews & land off-campus internships  
-✅ Win/participate in 2+ hackathons  
-✅ Stay consistent with GitHub, networking, and tech visibility  
-
-> 🧭 *“From a Tier-3 college to a top-tier placement — one repo, one project, one line of code at a time.”*
+- ✅ Solidify Core Java, OOP, and DS/Algo knowledge  
+- ✅ Finish backend (Node.js, Express, MongoDB) and deploy real-world APIs  
+- 🔄 Master React.js and full-stack architecture  
+- 🛠️ Build 3–5 full-stack apps from scratch  
+- 🧠 Crack remote/off-campus internships  
+- 🏆 Participate in **2+ hackathons** with self-built apps  
+- 👨‍💻 Begin contributing to open-source GitHub projects  
+- 🔗 Build strong LinkedIn + GitHub brand
 
 ---
 
 ## 🤝 Let’s Collaborate!
 
-If you're into **tech, open source, startups, or side projects**, I’d love to connect! I believe in helping others, pair coding, and building cool stuff together.
+I’m looking to connect with:
+- 🧑‍💻 Student developers building in full-stack/web
+- 🧠 Open source contributors
+- 🚀 Hackathon teammates & tech communities
+
+Let’s build, learn, fail, and scale together.
 
 <p align="center">
   <a href="https://github.com/sourav-kumar-357"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -117,19 +122,19 @@ If you're into **tech, open source, startups, or side projects**, I’d love to 
 
 ---
 
-## 🔥 Fun Facts About Me
+## 🔍 Fun Facts About Me
 
-- 🌌 I love learning **tech from scratch** and teaching juniors along the way  
-- 🚧 I treat each GitHub repo like a **mini startup**  
-- ✍️ I journal my learnings using Notion + GitHub  
-- 🧩 I believe “**Focus + Feedback + Consistency**” can beat any background  
+- 🧱 I treat every repo like a startup: MVP, iterate, scale  
+- ✍️ I log my learning journey in Notion and GitHub commits  
+- 🤝 I believe in pair coding, mentorship, and shared growth  
+- 💡 I learn better when I **build and teach simultaneously**
 
 ---
 
-## 🧩 Final Words
+## 📌 Final Words
 
-If you scrolled this far — thank you!  
-You’re awesome. Now let’s build something incredible 💻💡🚀
+If you made it this far — thank you! I’m not from a fancy background, but I’ve got the grit and consistency to get where I want.
 
-> *“Code. Build. Break. Fix. Repeat. That’s how developers are made.”*
+> “Every line of code is a step closer to my dreams. Let’s build something amazing.”
 
+---
