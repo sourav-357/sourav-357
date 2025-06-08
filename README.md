@@ -1,81 +1,118 @@
 <!-- 💻 Animated Welcome -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+%F0%9D%90%92%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%AF+%F0%9D%90%8A%F0%9D%90%AE%F0%9D%90%AE%F0%9D%90%AB+from+%F0%9F%87%AE%F0%9F%87%B3+India!;Aspiring+%F0%9F%9A%80+Full-Stack+Engineer;Java+%E2%9C%94%EF%B8%8C+%7C+DSA+%E2%9C%94%EF%B8%8C+%7C+NodeJS+%E2%9C%94%EF%B8%8C+%7C+React+%E2%9C%94%EF%B8%8C;Hackathons+%7C+Projects+%7C+Internships+%F0%9F%93%9D;Let's+Build+%2B+Learn+Together+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=700&center=true&vCenter=true&width=900&height=80&lines=👋+Hi,+I'm+Sourav+Kumar+from+India!;🚀+Aspiring+Full-Stack+Engineer;💻+Java+|+DSA+|+NodeJS+|+React+🔥;⚡+Hackathons+|+Projects+|+Internships;🤝+Let's+Build+%2B+Learn+Together" alt="Typing SVG"/>
+</div>
 
 ---
 
-<h2 align="center">🚀 Who Am I?</h2>
+## 🚀 About Me
 
-Hey there! I'm <strong>Sourav Kumar</strong> — a driven Computer Science undergrad at <strong>UCET Hazaribagh</strong>, on a mission to become a <strong>professional full-stack engineer</strong> 💻.
+Hello! I'm **Sourav Kumar**, a dedicated Computer Science undergraduate at **UCET Hazaribagh** with a burning passion to become a **top-tier full-stack developer**.  
 
-🌱 I come from a low-resource region in Jharkhand, but I’ve learned how to turn limitations into fuel — all I need is code, caffeine, and a clear goal. I build fast, learn publicly, and iterate like hell.
+Growing up in Jharkhand without abundant resources taught me one powerful lesson — **resilience and relentless self-improvement beat all odds**. Every day, I invest in building skills, crafting meaningful projects, and engaging with the tech community to turn ambition into impact.
 
-### 💡 Core Principles
-- 🔍 <strong>Clarity over complexity</strong> — I prioritize clean, maintainable code.
-- 🛠 <strong>Project-first learning</strong> — every concept turns into a GitHub repo.
-- ⚡ <strong>Hackathon spirit</strong> — rapid MVPs and high-pressure creativity.
-- 📆 <strong>Discipline > Motivation</strong> — consistency beats mood.
+> _"Innovation isn’t about having the best tools—it’s about making the most of what you have."_  
 
----
-
-<h2 align="center">📚 My Learning Journey</h2>
-
-| 🗓️ Stage         | 🚧 Topics & Tools                                                                 |
-|------------------|-----------------------------------------------------------------------------------|
-| ✅ Completed     | Core Java (Tim Buchalka), DSA (GFG), HTML & CSS basics                           |
-| 🔁 JavaScript    | Jonas Schmedtmann’s Udemy course, Apna College series                           |
-| 🔧 Backend Dev   | Node.js, Express.js, MongoDB — CRUD, Auth, REST APIs                            |
-| ⏭️ Up Next       | Advanced React.js, Next.js, scalable architectures                              |
-| 🛠 Supporting    | Git/GitHub, Postman, MongoDB Compass, Notion                                     |
-
-> 🧪 Every concept becomes a <strong>project</strong>, a <strong>repo</strong>, or a <strong>lesson</strong>. No tutorial hell — only real-world muscle.
+My philosophy is simple but powerful:  
+- 🔍 **Clarity over complexity** — code should be clean, readable, and maintainable  
+- 💡 **Build-first learning** — concepts only stick when applied in real projects  
+- ⚡ **Hackathon energy** — fast iterations, MVP focus, and learning under pressure  
+- ⏰ **Discipline > Motivation** — show up consistently, even when it’s tough  
 
 ---
 
-<h2 align="center">🧰 Tech Stack</h2>
+## 📚 My Learning Journey & Approach
 
-### 🖥️ Languages & Logic
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+| Progress     | Topics & Tools                                                                              |
+|--------------|--------------------------------------------------------------------------------------------|
+| ✅ Completed | Core Java (Tim Buchalka), Data Structures & Algorithms (GeeksforGeeks), HTML & CSS basics  |
+| 🔥 In-Depth  | Mastered JavaScript through Jonas Schmedtmann’s Udemy course and Apna College series        |
+| 🚧 Backend   | Building scalable REST APIs with Node.js, Express.js, MongoDB; Implementing JWT auth       |
+| ⏭️ Upcoming | Diving deep into React.js advanced patterns, Next.js for SSR & SSG, and scalable full-stack architectures |
+| 🧰 Tools     | Git/GitHub version control, Postman API testing, MongoDB Compass, and Notion for documentation |
 
-### 🔧 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### ⚛️ Frontend Stack
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-
-### ⚙️ Tools & Productivity
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+Every topic translates into hands-on projects, practical repos, or blog posts. No “tutorial hell” here — only purposeful, **project-driven learning** that sticks.
 
 ---
 
-<h2 align="center">💼 Projects I'm Proud Of</h2>
+## 🛠️ Tech Stack & Why I Use It
 
-### 🌐 Web Interfaces
-**[web-dev-projects](https://github.com/sourav-kumar-357/web-dev-projects)** — Clean UIs, reusable components, responsive design.
+### Languages & Core Fundamentals  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
+Java forms the backbone of my problem-solving skills and object-oriented programming expertise. I use it for mastering complex algorithms, data structures, and real-world system design.  
 
-### ☕ Java & OOP
-**[Java-Learning-Codes](https://github.com/sourav-kumar-357/Java-Learning-Codes)** — Real-world examples of Java OOP, patterns, and system modeling.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+JavaScript is my go-to for building dynamic, interactive web apps — from front-end UI logic to backend server scripting. Its flexibility fuels my full-stack journey.  
 
-### 📊 DSA Tracker
-**[DSA-GFG](https://github.com/sourav-kumar-357/DSA-GFG)** — My journey through GFG's best DSA problems.
-
-### 🔐 Backend APIs (In Progress)
-Auth flows, CRUD apps, clean API structure using Express.js & MongoDB.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+Mastering semantic HTML and responsive CSS lets me create accessible, clean, and visually appealing web interfaces.  
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+### Backend Development  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+Node.js powers my server-side logic — event-driven, fast, and scalable. It lets me build real-time APIs and microservices efficiently.  
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+Express.js is my minimalist framework for building RESTful APIs with clear routing, middleware, and robust error handling.  
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
+MongoDB provides flexible, schema-less NoSQL databases for rapid prototyping and scalable data storage. I pair it with Mongoose for object modeling.  
+
+**Key backend skills:**  
+- Building RESTful API endpoints with CRUD operations  
+- Implementing secure authentication flows using JWT and bcrypt  
+- Writing modular, testable server code  
+- Deploying applications on cloud platforms  
+
+---
+
+### Frontend & Modern UI  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+React.js is my framework of choice for creating reusable, component-driven UI with declarative rendering and efficient state management.  
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
+Next.js adds powerful server-side rendering and static site generation capabilities — improving performance, SEO, and developer experience in my full-stack apps.  
+
+---
+
+### DevOps & Productivity Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+I rely on Git and GitHub for version control, branching strategies, and collaboration. Managing commits and pull requests is second nature.  
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+Postman helps me rigorously test API endpoints and automate workflows.  
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+VS Code is my daily driver — lightweight, extensible, and powerful.  
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)  
+I organize my projects, track progress, and document learnings with Notion — keeping focus and productivity high.  
+
+---
+
+## 💼 Featured Projects
+
+### 🌐 Web Interfaces & UI Components  
+**[web-dev-projects](https://github.com/sourav-kumar-357/web-dev-projects)**  
+A curated collection of clean, responsive landing pages and reusable UI components crafted with HTML, CSS, and vanilla JS.
+
+### ☕ Core Java & OOP Lab  
+**[Java-Learning-Codes](https://github.com/sourav-kumar-357/Java-Learning-Codes)**  
+Practical OOP examples, design patterns, and system modeling projects that deepen my understanding of Java’s real-world application.
+
+### 📊 DSA Problem Solving  
+**[DSA-GFG](https://github.com/sourav-kumar-357/DSA-GFG)**  
+Consistent progress on GeeksforGeeks problem sets focused on strengthening algorithmic thinking and optimization skills.
+
+### ⚙️ Backend APIs  
+Robust RESTful API projects with full authentication flows, CRUD operations, and clean architecture using Node.js, Express, and MongoDB.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sourav-kumar-357&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -87,38 +124,38 @@ Auth flows, CRUD apps, clean API structure using Express.js & MongoDB.
 
 ---
 
-<h2 align="center">🎯 2024–25 Roadmap</h2>
+## 🎯 2024–25 Roadmap
 
-✅ Nail DSA, Core Java & OOP fundamentals  
-🚀 Build real-world REST APIs & backend systems  
-⚛️ Scale full-stack apps using React + Next.js  
-🧱 Complete 3–5 portfolio-grade projects  
-🏆 Join 2–3 high-pressure hackathons  
-💼 Land a strong dev internship (remote preferred)  
-🔗 Contribute to open-source projects  
-📝 Grow my dev presence on LinkedIn + GitHub
+- ✅ Master Core Java, Data Structures, and OOP concepts with real-world coding  
+- 🚀 Build scalable backend APIs and secure authentication systems  
+- ⚛️ Develop fully functional full-stack applications with React.js & Next.js  
+- 🧱 Complete and deploy 3-5 polished full-stack projects with testing and CI/CD practices  
+- 🏆 Actively participate in 2-3 hackathons with MVPs ready to demo  
+- 💼 Secure remote internships in product-focused or developer-centric teams  
+- 📂 Start meaningful open-source contributions to build reputation  
+- 🔗 Grow personal brand on LinkedIn and GitHub with regular content and networking  
 
 ---
 
-<h2 align="center">🤝 Let's Connect & Build</h2>
+## 🤝 Let’s Connect & Collaborate
 
-I'm open to collaborations — hackathons, open-source, or just vibing on tech stuff!
-
-- 👨‍💻 Developers who love clean builds and real-world ideas
-- 🧠 Consistent learners and doers
-- 🌍 Community-focused contributors
+I’m always eager to team up with:  
+- 💻 Developers passionate about building things from scratch  
+- 🌍 Open source contributors seeking collaboration  
+- 🧠 Learners committed to consistent growth and skill-sharing  
 
 <p align="center">
-  <a href="https://github.com/sourav-kumar-357"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/souravkumar1976"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/sourav-kumar-357"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/souravkumar1976"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<h2 align="center">💬 Final Words</h2>
+## 💬 Final Words
 
-Thanks for stopping by! 🙏  
+Thanks for stopping by!  
+I’m not just coding for the sake of it — I’m here to **build meaningful projects, share knowledge openly, and grow relentlessly**.  
 
-> I may not have access to elite resources — but I’ve got relentless curiosity, consistent grind, and a deep belief in open learning.
+Let’s make the next big thing happen **together**.
 
-Let’s create. Let’s connect. Let’s crush it. 🚀
+---
