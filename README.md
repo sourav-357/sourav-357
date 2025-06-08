@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 **About Me** - 
+## 👋 **About Me** 
 
 Hello! I'm **Sourav Kumar**, a dedicated Computer Science undergraduate at **UCET Hazaribagh** with a burning passion to become a **top-tier full-stack developer**.  
 
