@@ -39,7 +39,7 @@ Every topic translates into hands-on projects, practical repos, or blog posts. N
 ## 🛠️ Tech Stack & Why I Use It
 
 ### Languages & Core Fundamentals  
-<div align="center">![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  </div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 Java forms the backbone of my problem-solving skills and object-oriented programming expertise. I use it for mastering complex algorithms, data structures, and real-world system design.  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
