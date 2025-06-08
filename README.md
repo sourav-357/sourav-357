@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+<hr>
 ## 👋 **About Me**
 
 Hello! I'm **Sourav Kumar**, a dedicated Computer Science undergraduate at **UCET Hazaribagh** with a burning passion to become a **top-tier full-stack developer**.
@@ -21,7 +21,7 @@ Growing up in Jharkhand without abundant resources taught me one powerful lesson
 - ⏰ **Discipline > Motivation** — show up consistently, even when it’s tough  
 
 ---
-
+<hr>
 ## 📚 My Learning Journey & Approach
 
 > I don’t just “complete courses” — I **build, break, debug, and deliver.**
@@ -39,28 +39,51 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 | ⚙️ Intermediate | Strong grasp on JavaScript, DOM, ES6+ features, and asynchronous flow          |
 | 🧪 Applied     | Built full backend with Node.js, Express.js, MongoDB, JWT, and secure auth     |
 | 🚀 Advancing   | Deep diving into React, component architecture, and moving to Next.js for SSR |
-                                               |
+
 
 ---
-| 💻 Category          | ⚙️ Tech Stack & Tools | 🚀 Why I Use Them |
-|---------------------|------------------------|------------------|
-| **Programming**      | `Java`, `JavaScript`   | Java sharpens my DSA skills and OOP knowledge. JavaScript bridges my frontend and backend — it’s the fuel of full-stack. |
-| **Frontend**         | `HTML5`, `CSS3`, `React.js`, `Next.js` | HTML & CSS form my design foundation. React adds power with component-driven UIs. Next.js brings SSR & performance boosts. |
-| **Backend**          | `Node.js`, `Express.js` | Node lets me stay in JS across the stack. Express keeps my APIs modular, fast, and clean. |
-| **Databases**        | `MongoDB`, `Mongoose`   | NoSQL flexibility is perfect for modern web apps. Mongoose simplifies schema modeling. |
-| **Version Control**  | `Git`, `GitHub`         | Track changes, collaborate seamlessly, and manage my code like a pro. |
-| **API Testing**      | `Postman`               | Crucial for testing endpoints, debugging responses, and automating workflows. |
-| **Dev Tools**        | `VS Code`, `Notion`     | VS Code is my all-in-one editor. Notion organizes everything — tasks, bugs, learnings, and goals. |
+
+<hr>
+## ⚙️ **My Tech Stack: Built for Speed, Scale & Learning**
+> I build with a **“modern but pragmatic” stack** — optimized for quick delivery and strong fundamentals.
+
+| 🧩 Layer         | Tech I Use                                     | Why It Works for Me                                                                 |
+|------------------|------------------------------------------------|--------------------------------------------------------------------------------------|
+| 🖥️ Frontend      | HTML, CSS, JavaScript, React.js, Next.js       | React + Next is the sweet spot: fast, SEO-friendly, and component-based             |
+| 🧠 Programming   | Java, JavaScript                               | Java for DSA/OOP mastery. JS for full-stack power and web versatility               |
+| 🔙 Backend       | Node.js, Express.js, JWT, Bcrypt               | Blazing-fast APIs, modular structure, and secure auth systems                       |
+| 🧬 Database      | MongoDB, Mongoose                              | Flexible schemas and smooth integration with Node ecosystem                         |
+| 🧪 Testing/Tools | Postman, Thunder Client, MongoDB Compass       | Debug APIs fast and visualize data like a pro                                       |
+| 🧰 Dev Workflow  | Git, GitHub, Notion, VS Code                   | Source control + organized docs + customized dev environment                        |
+
 ---
 
+<hr>
 ## 💼 Featured Projects
 
-- **[web-dev-projects](https://github.com/sourav-kumar-357/web-dev-projects)** – Responsive UIs and landing pages  
-- **[Java-Learning-Codes](https://github.com/sourav-kumar-357/Java-Learning-Codes)** – OOP + Java practice projects  
-- **[DSA-GFG](https://github.com/sourav-kumar-357/DSA-GFG)** – Solving problems on GeeksforGeeks  
-- ⚙️ Backend APIs – RESTful APIs with secure auth and clean structure
+> Every project = a learning battleground. Here’s what I’ve shipped and what it taught me.
 
----
+#### 🔹 [Web Dev Lab](https://github.com/sourav-kumar-357/web-dev-projects)
+- **What it is**: A growing repo of responsive UIs, landing pages, and micro-interactions
+- **Takeaway**: CSS Grid, Flexbox, media queries, and UI polish
+
+#### 🔹 [Java Mastery Projects](https://github.com/sourav-kumar-357/Java-Learning-Codes)
+- **What it is**: Java-based practice apps and algorithmic problems
+- **Takeaway**: Clean OOP patterns, exception handling, input parsing
+
+#### 🔹 [DSA Tracker (GFG)](https://github.com/sourav-kumar-357/DSA-GFG)
+- **What it is**: A public log of my GFG problem-solving progress
+- **Takeaway**: Debugging under pressure, writing optimal code, building pattern recognition
+
+#### 🔹 🔐 Secure REST API (Private)
+- **What it is**: Full backend system with Express, JWT auth, protected routes
+- **Takeaway**: Auth logic, token validation, folder structuring best practices
+
+#### 🧪 [API Playground (Coming Soon)]()
+- **What it will be**: A mini API-first product using Node + MongoDB + Postman docs
+- **Why**: To showcase clean, testable, and secure API architecture
+
+-------------------
 
 ## 📈 GitHub Stats
 
@@ -74,6 +97,7 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 
 ---
 
+<hr>
 ## 🎯 2024–25 Roadmap
 
 - ✅ Master Java, DSA, OOP  
