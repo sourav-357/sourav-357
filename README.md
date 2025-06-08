@@ -12,9 +12,7 @@
 
 Hello! I'm **Sourav Kumar**, a dedicated Computer Science undergraduate at **UCET Hazaribagh** with a burning passion to become a **top-tier full-stack developer**.  
 
-Growing up in Jharkhand without abundant resources taught me one powerful lesson — **resilience and relentless self-improvement beat all odds**. Every day, I invest in building skills, crafting meaningful projects, and engaging with the tech community to turn ambition into impact.
-
-> _"Innovation isn’t about having the best tools—it’s about making the most of what you have."_  
+Growing up in Jharkhand without abundant resources taught me one powerful lesson — **resilience and relentless self-improvement beat all odds**. Every day, I invest in building skills, crafting meaningful projects, and engaging with the tech community to turn ambition into impact. 
 
 My philosophy is simple but powerful:  
 - 🔍 **Clarity over complexity** — code should be clean, readable, and maintainable  
@@ -41,7 +39,7 @@ Every topic translates into hands-on projects, practical repos, or blog posts. N
 ## 🛠️ Tech Stack & Why I Use It
 
 ### Languages & Core Fundamentals  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
+<div align="center">![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  </div>
 Java forms the backbone of my problem-solving skills and object-oriented programming expertise. I use it for mastering complex algorithms, data structures, and real-world system design.  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
