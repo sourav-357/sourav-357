@@ -100,19 +100,15 @@ I organize my projects, track progress, and document learnings with Notion — k
 ## 💼 Featured Projects
 
 ### 🌐 Web Interfaces & UI Components  
-**[web-dev-projects](https://github.com/sourav-kumar-357/web-dev-projects)**  
-A curated collection of clean, responsive landing pages and reusable UI components crafted with HTML, CSS, and vanilla JS.
+**[web-dev-projects](https://github.com/sourav-kumar-357/web-dev-projects)**  A curated collection of clean, responsive landing pages and reusable UI components crafted with HTML, CSS, and vanilla JS.
 
 ### ☕ Core Java & OOP Lab  
-**[Java-Learning-Codes](https://github.com/sourav-kumar-357/Java-Learning-Codes)**  
-Practical OOP examples, design patterns, and system modeling projects that deepen my understanding of Java’s real-world application.
+**[Java-Learning-Codes](https://github.com/sourav-kumar-357/Java-Learning-Codes)**  Practical OOP examples, design patterns, and system modeling projects that deepen my understanding of Java’s real-world application.
 
 ### 📊 DSA Problem Solving  
-**[DSA-GFG](https://github.com/sourav-kumar-357/DSA-GFG)**  
-Consistent progress on GeeksforGeeks problem sets focused on strengthening algorithmic thinking and optimization skills.
+**[DSA-GFG](https://github.com/sourav-kumar-357/DSA-GFG)**  Consistent progress on GeeksforGeeks problem sets focused on strengthening algorithmic thinking and optimization skills.
 
-### ⚙️ Backend APIs  
-Robust RESTful API projects with full authentication flows, CRUD operations, and clean architecture using Node.js, Express, and MongoDB.
+### ⚙️ Backend APIs  Robust RESTful API projects with full authentication flows, CRUD operations, and clean architecture using Node.js, Express, and MongoDB.
 
 ---
 
@@ -123,7 +119,7 @@ Robust RESTful API projects with full authentication flows, CRUD operations, and
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-kumar-357&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-kumar-357&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-kumar-357&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
