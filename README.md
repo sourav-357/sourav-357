@@ -7,7 +7,8 @@
 </p>
 
 ---
-<hr>
+---
+
 ## 👋 **About Me**
 
 Hello! I'm **Sourav Kumar**, a dedicated Computer Science undergraduate at **UCET Hazaribagh** with a burning passion to become a **top-tier full-stack developer**.
@@ -21,7 +22,8 @@ Growing up in Jharkhand without abundant resources taught me one powerful lesson
 - ⏰ **Discipline > Motivation** — show up consistently, even when it’s tough  
 
 ---
-<hr>
+---
+
 ## 📚 My Learning Journey & Approach
 
 > I don’t just “complete courses” — I **build, break, debug, and deliver.**
@@ -42,8 +44,8 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 
 
 ---
+---
 
-<hr>
 ## ⚙️ **My Tech Stack: Built for Speed, Scale & Learning**
 > I build with a **“modern but pragmatic” stack** — optimized for quick delivery and strong fundamentals.
 
@@ -57,8 +59,8 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 | 🧰 Dev Workflow  | Git, GitHub, Notion, VS Code                   | Source control + organized docs + customized dev environment                        |
 
 ---
+---
 
-<hr>
 ## 💼 Featured Projects
 
 > Every project = a learning battleground. Here’s what I’ve shipped and what it taught me.
@@ -83,7 +85,8 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 - **What it will be**: A mini API-first product using Node + MongoDB + Postman docs
 - **Why**: To showcase clean, testable, and secure API architecture
 
--------------------
+---
+---
 
 ## 📈 GitHub Stats
 
@@ -96,8 +99,8 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 </p>
 
 ---
+---
 
-<hr>
 ## 🎯 2024–25 Roadmap
 
 - ✅ Master Java, DSA, OOP  
@@ -109,6 +112,7 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 - 🌍 Open-source contributions  
 - 💡 Building personal brand
 
+---
 ---
 
 ## 🤝 Connect with Me
