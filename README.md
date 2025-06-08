@@ -33,55 +33,15 @@ Growing up in Jharkhand without abundant resources taught me one powerful lesson
 | 🧰 Tools     | Git, GitHub, Postman, MongoDB Compass, Notion                                                |
 
 ---
-
-## 🛠️ **Tech Stack & Why I Use It**
-
-### Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
-Java powers my object-oriented fundamentals and algorithm skills.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-JavaScript brings my web apps to life — both frontend & backend.
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-Semantic HTML & responsive CSS let me build solid UI foundations.
-
----
-
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-Fast, scalable REST APIs with modular logic & JWT auth.
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
-Flexible schema design and Mongoose for scalable data modeling.
-
----
-
-### Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-Component-driven UIs and efficient state management.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
-Hybrid rendering for better performance and SEO.
-
----
-
-### Dev Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-Version control, branching, and collaboration.
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
-Testing APIs with precision.
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-Lightweight, extensible, and powerful.
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)  
-Organizing my projects and docs for max productivity.
-
+| 💻 Category          | ⚙️ Tech Stack & Tools | 🚀 Why I Use Them |
+|---------------------|------------------------|------------------|
+| **Programming**      | `Java`, `JavaScript`   | Java sharpens my DSA skills and OOP knowledge. JavaScript bridges my frontend and backend — it’s the fuel of full-stack. |
+| **Frontend**         | `HTML5`, `CSS3`, `React.js`, `Next.js` | HTML & CSS form my design foundation. React adds power with component-driven UIs. Next.js brings SSR & performance boosts. |
+| **Backend**          | `Node.js`, `Express.js` | Node lets me stay in JS across the stack. Express keeps my APIs modular, fast, and clean. |
+| **Databases**        | `MongoDB`, `Mongoose`   | NoSQL flexibility is perfect for modern web apps. Mongoose simplifies schema modeling. |
+| **Version Control**  | `Git`, `GitHub`         | Track changes, collaborate seamlessly, and manage my code like a pro. |
+| **API Testing**      | `Postman`               | Crucial for testing endpoints, debugging responses, and automating workflows. |
+| **Dev Tools**        | `VS Code`, `Notion`     | VS Code is my all-in-one editor. Notion organizes everything — tasks, bugs, learnings, and goals. |
 ---
 
 ## 💼 Featured Projects
