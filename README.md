@@ -1,119 +1,125 @@
-<!-- 🌟 Animated Welcome -->
+<!-- 💻 Animated Welcome -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=409EFF&width=600&lines=Hey+there!+I'm+Sourav+Kumar+👋;Full-Stack+Engineer+in+Training+from+India+🌍;Java+%7C+DSA+%7C+NodeJS+%7C+React🚀;Internships+%26+Hackathons+Now+🎯" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sourav+Kumar+from+India!;Aspiring+Full-Stack+Engineer+%F0%9F%9A%80;Java+%7C+DSA+%7C+NodeJS+%7C+React+%F0%9F%94%A5;Hackathons+%7C+Projects+%7C+Internships+%F0%9F%93%9D;Let%27s+Build+%2B+Learn+Together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">🚀 Who Am I?</h2>
 
-Hi, I’m **Sourav Kumar** — a Computer Science student from **UCET Hazaribagh** (Jharkhand, India), actively shaping my path into full-stack development.
+Hello! I'm **Sourav Kumar**, a passionate Computer Science undergraduate at **UCET Hazaribagh**, on a mission to become a **professional full-stack developer**. Coming from a low-resource background in Jharkhand, I've chosen to take charge of my growth through consistent self-learning, building projects, and engaging deeply with the developer community.
 
-Despite studying in a low-resource environment, I’ve made it my mission to self-learn, build, and grow through consistent effort. I don't just consume tutorials — I **apply, break, rebuild, and optimize** everything I learn.
+I believe you don’t need fancy infrastructure to build world-class skills — just an internet connection, strong intent, and the will to **build, break, and rebuild**.
 
-### 🚀 What I Stand For:
-- **Clarity over clutter** — clean code, structured thoughts.
-- **Learning by doing** — every skill I pick up ends in a repo.
-- **Hackathon-driven development** — shipping fast, learning faster.
-- **Consistency beats talent** — I show up daily, no matter what.
-
----
-
-## 📚 What I'm Learning (in-depth)
-
-| 📅 Timeline        | 🎯 Skill Areas                                                                 |
-|--------------------|--------------------------------------------------------------------------------|
-| ✅ Completed        | **Java SE & OOP (Tim Buchalka)**, **DSA from GeeksforGeeks**, HTML, CSS       |
-| ✅ JavaScript       | Completed **Jonas's Udemy JS Course**, Apna College Series, SuperSimpleDev     |
-| 🛠️ In Progress     | **Node.js + Express + MongoDB** (Udemy Bootcamp) — Building server-side skills |
-| 🔜 Next            | Full **React.js** course → **Next.js** and deep dive backend architecture      |
-| 📌 Side Learning    | Git, GitHub workflows, CLI tools, Notion for tracking, internship prep         |
-
-Every topic I learn is documented through projects or repositories — you can **track my real progress** through my GitHub.
+### 🧠 My Core Beliefs
+- **Clarity over complexity** — I strive for readable, maintainable code.
+- **Project-first learning** — every concept gets implemented, no matter how small.
+- **Hackathon energy** — fast MVPs, real-world pressure, and speed-driven learning.
+- **Discipline > Motivation** — I show up, even on days I don’t feel like it.
 
 ---
 
-## 🛠️ Tech Stack – Tools I Work With
+<h2 align="center">📚 My Learning Journey</h2>
 
-### 🔹 Core Languages
-- **Java** – Object-Oriented Programming, problem solving, mini projects
-- **JavaScript** – Functional logic, DOM manipulation, browser APIs
-- **HTML & CSS** – Layouts, responsive designs, animations
+Here's how I'm leveling up as a developer, step by step:
 
-### 🔹 Backend Development
-- **Node.js** – Server-side logic and async workflows
-- **Express.js** – REST API creation, routing, middleware
-- **MongoDB** – NoSQL DB, schema modeling via Mongoose
+| 📅 Timeline      | 📌 Topics & Tools                                                                 |
+|------------------|-----------------------------------------------------------------------------------|
+| ✅ Completed     | **Core Java (Tim Buchalka)**, **DSA (GeeksforGeeks)**, HTML & CSS basics         |
+| ⚙️ JavaScript    | Completed **Jonas Schmedtmann’s Udemy course**, **Apna College series**, etc.    |
+| 🧪 Backend Dev   | Deep dive into **Node.js, Express.js, MongoDB** (REST APIs, CRUD, auth flows)     |
+| 🔄 Up Next       | Advanced **React.js** + **Next.js**, learning scalable full-stack architectures    |
+| 🎯 Supporting    | Git & GitHub workflows, Postman, MongoDB Compass, Notion-based tracking system    |
 
-### 🔹 Frontend Development
-- **(Planned)** React.js – Component-based design, hooks, SPA
-- **(Upcoming)** Next.js – Server-side rendering, file-based routing
-
-### 🔹 Tools & Workflow
-- **Git + GitHub** – Version control, collaboration, open source
-- **VS Code** – My main IDE
-- **Notion** – Learning management + journal
-- **Postman, MongoDB Compass** – API and DB testing
+> Each topic I touch becomes a **project**, a **repo**, or a **blog post**. No tutorial hell here — only practical learning that sticks.
 
 ---
 
-## 💼 Major Projects
+<h2 align="center">🧰 My Tech Stack</h2>
 
-Here’s what I’m actively building and maintaining:
+### 🖥️ Languages & Fundamentals
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🌐 Frontend & Web Projects
-- **[web-dev-projects](https://github.com/sourav-kumar-357/web-dev-projects)**  
-  ↳ Clean UIs, landing pages, reusable components built using HTML, CSS & vanilla JS
+I use Java for logic building, object-oriented designs, and DSA. JS is my go-to for dynamic UIs and backend scripting.
 
-### ☕ Java & OOP Practice
-- **[Java-Learning-Codes](https://github.com/sourav-kumar-357/Java-Learning-Codes)**  
-  ↳ Core Java programs — including real-world OOP implementations and logic building
+### 🛠 Backend Toolkit
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-### 📊 DSA & Competitive Coding
-- **[DSA-GFG](https://github.com/sourav-kumar-357/DSA-GFG)**  
-  ↳ Ongoing progress solving GFG's curated DSA list + problem patterns
+Currently focused on writing RESTful APIs, implementing JWT authentication, and deploying Node/Express apps.
 
-### ⚙️ Backend (Current Learning)
-- Building RESTful APIs using Node.js, Express.js, MongoDB (Course-based learning and then custom projects)
+### ⚛️ Frontend Focus (Current + Next)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+
+Transitioning from static pages to dynamic SPAs and server-rendered React-based projects.
+
+### ⚙️ Tools, DevOps & Productivity
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+I manage my workflows with Git/GitHub and document everything in Notion — from tasks to learnings.
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">💼 Featured Projects</h2>
+
+### 🌐 Web Interfaces & Components
+**[web-dev-projects](https://github.com/sourav-kumar-357/web-dev-projects)**  
+Includes clean landing pages, responsive UIs, and reusable HTML/CSS/JS components.
+
+### ☕ Core Java & OOP Lab
+**[Java-Learning-Codes](https://github.com/sourav-kumar-357/Java-Learning-Codes)**  
+Collection of structured, real-world OOP examples, from design patterns to system modeling.
+
+### 📊 DSA Problem Solving
+**[DSA-GFG](https://github.com/sourav-kumar-357/DSA-GFG)**  
+Ongoing challenge to complete GFG’s curated list of data structure problems.
+
+### ⚙️ Backend APIs (Current)
+Building authentication flows, CRUD apps, and structured API endpoints using Node, Express, and MongoDB.
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav-kumar-357&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-kumar-357&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-kumar-357&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-kumar-357&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-kumar-357&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-kumar-357&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🎯 Career & Learning Goals (2024–25)
+<h2 align="center">🎯 2024–25 Roadmap</h2>
 
-Here’s what I’m gunning for over the next year:
-
-- ✅ Solidify Core Java, OOP, and DS/Algo knowledge  
-- ✅ Finish backend (Node.js, Express, MongoDB) and deploy real-world APIs  
-- 🔄 Master React.js and full-stack architecture  
-- 🛠️ Build 3–5 full-stack apps from scratch  
-- 🧠 Crack remote/off-campus internships  
-- 🏆 Participate in **2+ hackathons** with self-built apps  
-- 👨‍💻 Begin contributing to open-source GitHub projects  
-- 🔗 Build strong LinkedIn + GitHub brand
+✅ Solidify DSA, Core Java, and OOP fundamentals  
+🚀 Master backend development with real-world API projects  
+⚛️ Transition to full-stack apps using React.js and Next.js  
+🧱 Build, test, and deploy 3–5 solid full-stack web applications  
+🏆 Participate in at least **2–3 hackathons** with working MVPs  
+💼 Land remote internship(s) in product or dev-focused teams  
+📂 Start contributing to real-world open-source repositories  
+🔗 Build a personal brand across LinkedIn and GitHub
 
 ---
 
-## 🤝 Let’s Collaborate!
+<h2 align="center">🤝 Let’s Collaborate</h2>
 
-I’m looking to connect with:
-- 🧑‍💻 Student developers building in full-stack/web
-- 🧠 Open source contributors
-- 🚀 Hackathon teammates & tech communities
+I’m always up for collaboration — whether it’s a side project, a hackathon, or helping each other grow technically.
 
-Let’s build, learn, fail, and scale together.
+- 💻 Developers who love building things from scratch  
+- 🌍 Open source contributors looking for team-ups  
+- 🧠 Curious minds who value consistency and learning
 
 <p align="center">
   <a href="https://github.com/sourav-kumar-357"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -122,19 +128,12 @@ Let’s build, learn, fail, and scale together.
 
 ---
 
-## 🔍 Fun Facts About Me
+<h2 align="center">💬 Final Thoughts</h2>
 
-- 🧱 I treat every repo like a startup: MVP, iterate, scale  
-- ✍️ I log my learning journey in Notion and GitHub commits  
-- 🤝 I believe in pair coding, mentorship, and shared growth  
-- 💡 I learn better when I **build and teach simultaneously**
+Thanks for scrolling through my profile!
 
----
+> I may not come from a well-funded background, but I come with fire in my belly, purpose in my code, and consistency in my work.
 
-## 📌 Final Words
-
-If you made it this far — thank you! I’m not from a fancy background, but I’ve got the grit and consistency to get where I want.
-
-> “Every line of code is a step closer to my dreams. Let’s build something amazing.”
-
----
+Let’s build something together.  
+Let’s learn in public.  
+Let’s make it count.  
