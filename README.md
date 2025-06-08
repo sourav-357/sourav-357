@@ -1,7 +1,11 @@
 <!-- 💻 Animated Welcome -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=700&center=true&vCenter=true&width=900&height=80&lines=👋+Hi,+I'm+Sourav+Kumar+from+India!;🚀+Aspiring+Full-Stack+Engineer;💻+Java+|+DSA+|+NodeJS+|+React+🔥;⚡+Hackathons+|+Projects+|+Internships;🤝+Let's+Build+%2B+Learn+Together" alt="Typing SVG"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFAA&background=0D1117&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hi,+I'm+Sourav+Kumar+from+India!;🚀+Aspiring+Full-Stack+Engineer;💻+Java+%7C+DSA+%7C+NodeJS+%7C+React+🔥;⚡+Hackathons+%7C+Projects+%7C+Internships;🤝+Let's+Build+%2B+Learn+Together" 
+    alt="Typing SVG Banner"
+  />
 </div>
+
 
 ---
 
