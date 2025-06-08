@@ -1,13 +1,10 @@
+<!-- 💻 Animated Welcome -->
 <div align="center">
-
-  <!-- 💻 Animated Welcome -->
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00ff99&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hi,+I'm+Sourav+Kumar+from+India!;🚀+Aspiring+Full-Stack+Engineer;💻+Java+%7C+DSA+%7C+NodeJS+%7C+React+🔥;⚡+Hackathons+%7C+Projects+%7C+Internships;🤝+Let's+Build+%2B+Learn+Together"
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFAA&background=0D1117&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hi,+I'm+Sourav+Kumar+from+India!;🚀+Aspiring+Full-Stack+Engineer;💻+Java+%7C+DSA+%7C+NodeJS+%7C+React+🔥;⚡+Hackathons+%7C+Projects+%7C+Internships;🤝+Let's+Build+%2B+Learn+Together" 
     alt="Typing SVG Banner"
   />
 </div>
-
 
 
 ---
@@ -166,5 +163,3 @@ I’m not just coding for the sake of it — I’m here to **build meaningful pr
 Let’s make the next big thing happen **together**.
 
 ---
-
-</div>
