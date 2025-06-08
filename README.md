@@ -24,13 +24,22 @@ Growing up in Jharkhand without abundant resources taught me one powerful lesson
 
 ## 📚 My Learning Journey & Approach
 
-| Progress     | Topics & Tools                                                                              |
-|--------------|---------------------------------------------------------------------------------------------|
-| ✅ Completed | Core Java (Tim Buchalka), DSA (GeeksforGeeks), HTML & CSS basics                            |
-| 🔥 In-Depth  | JavaScript (Jonas Schmedtmann’s Udemy course + Apna College)                                |
-| 🚧 Backend   | Node.js, Express.js, MongoDB, JWT Auth                                                       |
-| ⏭️ Upcoming | React.js advanced patterns, Next.js (SSR & SSG), scalable full-stack architectures           |
-| 🧰 Tools     | Git, GitHub, Postman, MongoDB Compass, Notion                                                |
+> I don’t just “complete courses” — I **build, break, debug, and deliver.**
+
+My journey is a constant cycle of:
+- 🛠️ **Building projects** that push boundaries
+- 🔍 **Deep-diving docs** to really "get" how things work
+- 🎯 **Solving real problems** — from user auth to REST APIs
+
+I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I pick up.
+
+| Stage        | What I'm Doing                                                                 |
+|--------------|---------------------------------------------------------------------------------|
+| 🧱 Foundation | Mastered Core Java, OOP, DSA (GFG), and problem-solving mindset                |
+| ⚙️ Intermediate | Strong grasp on JavaScript, DOM, ES6+ features, and asynchronous flow          |
+| 🧪 Applied     | Built full backend with Node.js, Express.js, MongoDB, JWT, and secure auth     |
+| 🚀 Advancing   | Deep diving into React, component architecture, and moving to Next.js for SSR |
+                                               |
 
 ---
 | 💻 Category          | ⚙️ Tech Stack & Tools | 🚀 Why I Use Them |
