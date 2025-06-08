@@ -42,9 +42,11 @@ Every topic translates into hands-on projects, practical repos, or blog posts. N
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
 <p>Java forms the backbone of my problem-solving skills and object-oriented programming expertise. I use it for mastering complex algorithms, data structures, and real-world system design.  
 </p>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-JavaScript is my go-to for building dynamic, interactive web apps — from front-end UI logic to backend server scripting. Its flexibility fuels my full-stack journey.  
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+<p>
+JavaScript is my go-to for building dynamic, interactive web apps — from front-end UI logic to backend server scripting. Its flexibility fuels my full-stack journey.  
+</p>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 Mastering semantic HTML and responsive CSS lets me create accessible, clean, and visually appealing web interfaces.  
 
