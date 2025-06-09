@@ -65,23 +65,23 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 
 > Every project = a learning battleground. Here’s what I’ve shipped and what it taught me.
 
-#### 🔹 **Web Dev Lab**
+### 💥 **Web Dev Lab**
 - **What it is**: A growing repo of responsive UIs, landing pages, and micro-interactions
 - **Takeaway**: CSS Grid, Flexbox, media queries, and UI polish
 
-#### 🔹 **Java Mastery Projects**
+### ♨︎ **Java Mastery Projects**
 - **What it is**: Java-based practice apps and algorithmic problems
 - **Takeaway**: Clean OOP patterns, exception handling, input parsing
 
-#### 🔹 **DSA Tracker (GFG)**
+### 📰 **DSA Tracker (GFG)**
 - **What it is**: A public log of my GFG problem-solving progress
 - **Takeaway**: Debugging under pressure, writing optimal code, building pattern recognition
 
-#### 🔹 🔐 **Secure REST API (Private)**
+### 🔐 **Secure REST API (Private)**
 - **What it is**: Full backend system with Express, JWT auth, protected routes
 - **Takeaway**: Auth logic, token validation, folder structuring best practices
 
-#### 🧪 **API Playground (Coming Soon)**
+### 🧪 **API Playground (Coming Soon)**
 - **What it will be**: A mini API-first product using Node + MongoDB + Postman docs
 - **Why**: To showcase clean, testable, and secure API architecture
 
