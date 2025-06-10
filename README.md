@@ -52,7 +52,7 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 | 🧩 Layer         | Tech I Use                                     | Why It Works for Me                                                                 |
 |------------------|------------------------------------------------|--------------------------------------------------------------------------------------|
 | 🖥️ Frontend      | HTML, CSS, JavaScript, React.js, Next.js       | React + Next is the sweet spot: fast, SEO-friendly, and component-based             |
-| 🧠 Programming   | Java, JavaScript                               | Java for DSA/OOP mastery. JS for full-stack power and web versatility               |
+|  Programming🧠 Language    | Java, JavaScript                               | Java for DSA/OOP mastery. JS for full-stack power and web versatility               |
 | 🔙 Backend       | Node.js, Express.js, JWT, Bcrypt               | Blazing-fast APIs, modular structure, and secure auth systems                       |
 | 🧬 Database      | MongoDB, Mongoose                              | Flexible schemas and smooth integration with Node ecosystem                         |
 | 🧪 Testing/Tools | Postman, Thunder Client, MongoDB Compass       | Debug APIs fast and visualize data like a pro                                       |
