@@ -27,19 +27,35 @@ If you're into building clean products, solving real problems, and leveling up r
 
 ## 🚀 Skills & Tech Stack
 
-### 👨‍💻 Programming
-- **Java** – Core, OOP, DSA (Mastered via GFG)
-- **JavaScript** – DOM, ES6+, async/await, fetch API
+> My stack reflects a full-stack mindset — learn deeply, build fast, scale smart.
 
-### 🌐 Web Development
-- **Frontend** – HTML, CSS, JavaScript, React.js, Next.js (SSR, routing)
-- **Backend** – Node.js, Express.js, REST APIs, JWT, Bcrypt
-- **Database** – MongoDB, Mongoose (schema design, aggregation)
-- **Testing & Debugging** – Postman, Thunder Client, MongoDB Compass
+### 🔧 Core Programming
+- **Java (Core + OOP)** – My foundation for DSA, object-oriented design, and logic building
+- **JavaScript (ES6+)** – Asynchronous flow, modern syntax, browser APIs, and beyond
 
-### 🧰 Dev Workflow
-- **Tools** – Git, GitHub, VS Code, Notion
-- **Practices** – Clean code, modularity, API-first approach
+### 🌐 Frontend Development
+- **HTML5, CSS3, JavaScript** – Strong grasp on layout, responsive design, and interactivity
+- **React.js** – Component architecture, hooks, state management, and routing
+- **Next.js** – Server-side rendering (SSR), file-based routing, and SEO optimization
+
+### ⚙️ Backend Development
+- **Node.js + Express.js** – RESTful APIs, modular routing, middleware logic
+- **Authentication** – Secure JWT auth flows, hashed passwords with Bcrypt, token refresh
+- **MVC Folder Structure** – Organized, scalable backend codebase
+
+### 🗃️ Databases & Data Handling
+- **MongoDB + Mongoose** – Schema design, queries, aggregation pipelines
+- **JSON, Axios/Fetch** – Handling data in full-stack applications
+
+### 🧪 Debugging & Testing Tools
+- **Postman, Thunder Client** – API testing, headers, and response validation
+- **MongoDB Compass** – Visual data inspection and schema analysis
+
+### 🚀 Dev Tools & Workflow
+- **Git + GitHub** – Branching, version control, and clean commits
+- **VS Code** – Customized setup with extensions and theming for productivity
+- **Notion + Docs** – Organized learning, roadmaps, and technical documentation
+- **Linux CLI (Basics)** – For backend setup and local server control
 
 ---
 ---
