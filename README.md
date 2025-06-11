@@ -25,18 +25,6 @@ If you're into building clean products, solving real problems, and leveling up r
 ---
 ---
 
-## 🧠 My Learning Approach
-
-> I don’t just watch tutorials — I build, break, debug, and deliver.
-
-My loop is simple but powerful:  
-**Learn → Apply → Reflect → Improve**
-
-This mindset fuels every skill, every project, and every challenge I take on.
-
----
----
-
 ## 🚀 Skills & Tech Stack
 
 ### 👨‍💻 Programming
@@ -90,6 +78,23 @@ An API-first mini SaaS backend with complete Postman documentation.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-kumar-357&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
+
+---
+---
+
+## 🧠 My Learning Approach
+
+> "Learning is only real when it's tested through building."
+
+Here’s how I approach every new technology:
+
+1. **Learn the core** – Start from the docs, official guides, and source code if needed  
+2. **Apply immediately** – Build mini-projects or modules while learning  
+3. **Debug deeply** – Face the "why isn’t this working?" phase head-on  
+4. **Refactor and reflect** – Rebuild for scalability and clarity  
+5. **Share & teach** – Explain to others, blog, or demo on GitHub
+
+This loop helps me **truly internalize** concepts, not just memorize them. It's how I learned DSA, backend auth flows, and now front-end state management.
 
 ---
 ---
