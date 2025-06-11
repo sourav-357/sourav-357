@@ -11,13 +11,16 @@
 
 ## 👋 About Me
 
-I'm **Sourav Kumar**, a Computer Science undergrad at **UCET Hazaribagh**, driven by curiosity, code, and consistent learning. Raised in Jharkhand, I learned early that **resilience > resources** — and that mindset powers my journey in tech.
+Hi there! I’m **Sourav Kumar**, a second-year Computer Science student at **UCET Hazaribagh**, fueled by an obsession with **learning by building**.
 
-I believe in:
-- 💡 Clarity over complexity
-- ⚒️ Building-first learning
-- ⏰ Showing up consistently (discipline beats motivation)
-- ⚡ Hackathon energy — rapid learning, rapid delivery
+Coming from Jharkhand, where tech resources aren’t abundant, I’ve learned to **thrive with intent, grit, and resourcefulness**. I'm not just chasing placements or certificates — I’m focused on mastering the core skills that create **real-world impact**.
+
+What makes me different?
+- I don’t follow tutorials blindly — I **deconstruct, build from scratch**, and **teach others**.
+- I treat every project like a mini startup — with problem-solving, scalability, and ownership in mind.
+- I value **clarity over hype**, **principles over shortcuts**, and **execution over theory**.
+
+If you're into building clean products, solving real problems, and leveling up relentlessly — we already share a mindset.
 
 ---
 ---
