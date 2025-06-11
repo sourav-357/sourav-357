@@ -9,81 +9,71 @@
 ---
 ---
 
-## 👋 **About Me**
+## 👋 About Me
 
-Hello! I'm **Sourav Kumar**, a dedicated Computer Science undergraduate at **UCET Hazaribagh** with a burning passion to become a **top-tier full-stack developer**.
+I'm **Sourav Kumar**, a Computer Science undergrad at **UCET Hazaribagh**, driven by curiosity, code, and consistent learning. Raised in Jharkhand, I learned early that **resilience > resources** — and that mindset powers my journey in tech.
 
-Growing up in Jharkhand without abundant resources taught me one powerful lesson — **resilience and relentless self-improvement beat all odds**. Every day, I invest in building skills, crafting meaningful projects, and engaging with the tech community to turn ambition into impact.
-
-### My Philosophy  
-- 🔍 **Clarity over complexity** — code should be clean, readable, and maintainable  
-- 💡 **Build-first learning** — concepts only stick when applied in real projects  
-- ⚡ **Hackathon energy** — fast iterations, MVP focus, and learning under pressure  
-- ⏰ **Discipline > Motivation** — show up consistently, even when it’s tough  
+I believe in:
+- 💡 Clarity over complexity
+- ⚒️ Building-first learning
+- ⏰ Showing up consistently (discipline beats motivation)
+- ⚡ Hackathon energy — rapid learning, rapid delivery
 
 ---
 ---
 
-## 📚 My Learning Journey & Approach
+## 🧠 My Learning Approach
 
-> I don’t just “complete courses” — I **build, break, debug, and deliver.**
+> I don’t just watch tutorials — I build, break, debug, and deliver.
 
-My journey is a constant cycle of:
-- 🛠️ **Building projects** that push boundaries
-- 🔍 **Deep-diving docs** to really "get" how things work
-- 🎯 **Solving real problems** — from user auth to REST APIs
+My loop is simple but powerful:  
+**Learn → Apply → Reflect → Improve**
 
-I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I pick up.
-
-| Stage        | What I'm Doing                                                                 |
-|--------------|---------------------------------------------------------------------------------|
-| 🧱 Foundation | Mastered Core Java, OOP, DSA (GFG), and problem-solving mindset                |
-| ⚙️ Intermediate | Strong grasp on JavaScript, DOM, ES6+ features, and asynchronous flow          |
-| 🧪 Applied     | Built full backend with Node.js, Express.js, MongoDB, JWT, and secure auth     |
-| 🚀 Advancing   | Deep diving into React, component architecture, and moving to Next.js for SSR |
-
+This mindset fuels every skill, every project, and every challenge I take on.
 
 ---
 ---
 
-## ⚙️ **My Tech Stack: Built for Speed, Scale & Learning**
-> I build with a **“modern but pragmatic” stack** — optimized for quick delivery and strong fundamentals.
+## 🚀 Skills & Tech Stack
 
-| 🧩 Layer         | Tech I Use                                     | Why It Works for Me                                                                 |
-|------------------|------------------------------------------------|--------------------------------------------------------------------------------------|
-| 🖥️ Frontend      | HTML, CSS, JavaScript, React.js, Next.js       | React + Next is the sweet spot: fast, SEO-friendly, and component-based             |
-|  🧠 Programming   Languages    | Java, JavaScript                               | Java for DSA/OOP mastery. JS for full-stack power and web versatility               |
-| 🔙 Backend       | Node.js, Express.js, JWT, Bcrypt               | Blazing-fast APIs, modular structure, and secure auth systems                       |
-| 🧬 Database      | MongoDB, Mongoose                              | Flexible schemas and smooth integration with Node ecosystem                         |
-| 🧪 Testing/Tools | Postman, Thunder Client, MongoDB Compass       | Debug APIs fast and visualize data like a pro                                       |
-| 🧰 Dev Workflow  | Git, GitHub, Notion, VS Code                   | Source control + organized docs + customized dev environment                        |
+### 👨‍💻 Programming
+- **Java** – Core, OOP, DSA (Mastered via GFG)
+- **JavaScript** – DOM, ES6+, async/await, fetch API
+
+### 🌐 Web Development
+- **Frontend** – HTML, CSS, JavaScript, React.js, Next.js (SSR, routing)
+- **Backend** – Node.js, Express.js, REST APIs, JWT, Bcrypt
+- **Database** – MongoDB, Mongoose (schema design, aggregation)
+- **Testing & Debugging** – Postman, Thunder Client, MongoDB Compass
+
+### 🧰 Dev Workflow
+- **Tools** – Git, GitHub, VS Code, Notion
+- **Practices** – Clean code, modularity, API-first approach
 
 ---
 ---
 
 ## 💼 Featured Projects
 
-> Every project = a learning battleground. Here’s what I’ve shipped and what it taught me.
+### 🔹 Web Dev Lab
+A growing collection of responsive UIs, interactive components, and polished landing pages.  
+**Learned**: CSS Grid, Flexbox, UI responsiveness.
 
-### 💥 **Web Dev Lab**
-- **What it is**: A growing repo of responsive UIs, landing pages, and micro-interactions
-- **Takeaway**: CSS Grid, Flexbox, media queries, and UI polish
+### 🔹 Java Mastery Projects
+A suite of practice Java apps solving real-world problems.  
+**Learned**: OOP patterns, exception handling, and clean architecture.
 
-### ♨︎ **Java Mastery Projects**
-- **What it is**: Java-based practice apps and algorithmic problems
-- **Takeaway**: Clean OOP patterns, exception handling, input parsing
+### 🔹 DSA Tracker (GFG)
+A public log of my DSA grind.  
+**Learned**: Debugging under pressure, pattern recognition, time/space optimization.
 
-### 📰 **DSA Tracker (GFG)**
-- **What it is**: A public log of my GFG problem-solving progress
-- **Takeaway**: Debugging under pressure, writing optimal code, building pattern recognition
+### 🔹 Secure REST API
+Private full-stack backend system with full JWT auth, protected routes, and MVC architecture.  
+**Learned**: Secure token flow, structured backend logic, scalable folder design.
 
-### 🔐 **Secure REST API (Private)**
-- **What it is**: Full backend system with Express, JWT auth, protected routes
-- **Takeaway**: Auth logic, token validation, folder structuring best practices
-
-### 🧪 **API Playground (Coming Soon)**
-- **What it will be**: A mini API-first product using Node + MongoDB + Postman docs
-- **Why**: To showcase clean, testable, and secure API architecture
+### 🔹 API Playground (Coming Soon)
+An API-first mini SaaS backend with complete Postman documentation.  
+**Goal**: Showcase clean and testable backend architecture.
 
 ---
 ---
@@ -103,10 +93,10 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 
 ## 🎯 2024–25 Roadmap
 
-- ✅ Master Java, DSA, OOP  
-- 🔐 Backend APIs + Auth systems  
-- ⚛️ React + Next.js full-stack apps  
-- 🧱 CI/CD and deployed projects  
+- ✅ Strengthen Java, DSA & OOP foundations  
+- 🔐 Build scalable backend systems with authentication  
+- ⚛️ Develop full-stack apps using React + Next.js  
+- 🚀 Learn CI/CD, Docker, and deploy projects  
 - 🏆 Hackathons (2–3 MVPs)  
 - 💼 Remote internships  
 - 🌍 Open-source contributions  
@@ -115,18 +105,11 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 ---
 ---
 
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/sourav-kumar-357"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/souravkumar1976"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
 ## 💬 Final Words
 
 Thanks for stopping by!  
 I’m not just coding for the sake of it — I’m here to **build meaningful projects, share knowledge openly, and grow relentlessly**.  
 
 Let’s make the next big thing happen **together**.
+
+---
