@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Hi there! I’m **Sourav Kumar**, a second-year Computer Science student at **UCET Hazaribagh**, fueled by an obsession with **learning by building**.
+Hi there! I’m **Sourav Kumar**, a second semester Computer Science student at **UCET Hazaribagh**, fueled by an obsession with **learning by building**.
 
 Coming from Jharkhand, where tech resources aren’t abundant, I’ve learned to **thrive with intent, grit, and resourcefulness**. I'm not just chasing placements or certificates — I’m focused on mastering the core skills that create **real-world impact**.
 
