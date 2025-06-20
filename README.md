@@ -1,4 +1,4 @@
-<!-- 🚀 Welcome Banner -->
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Sourav+Kumar+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Learner+🧠;A+Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+App+Developer+📱;Cloud+Computing+Explorer+☁️" 
