@@ -7,7 +7,6 @@
 </p>
 
 ---
----
 
 ## 👋 About Me
 
@@ -22,7 +21,6 @@ What makes me different?
 
 If you're into building clean products, solving real problems, and leveling up relentlessly — we already share a mindset.
 
----
 ---
 
 ## 🚀 Skills & Tech Stack
@@ -58,7 +56,6 @@ If you're into building clean products, solving real problems, and leveling up r
 - **Linux CLI (Basics)** – For backend setup and local server control
 
 ---
----
 
 ## 💼 Featured Projects
 
@@ -83,7 +80,6 @@ An API-first mini SaaS backend with complete Postman documentation.
 **Goal**: Showcase clean and testable backend architecture.
 
 ---
----
 
 ## 📈 GitHub Stats
 
@@ -95,7 +91,6 @@ An API-first mini SaaS backend with complete Postman documentation.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-kumar-357&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
----
 ---
 
 ## 🧠 My Learning Approach
@@ -113,7 +108,6 @@ Here’s how I approach every new technology:
 This loop helps me **truly internalize** concepts, not just memorize them. It's how I learned DSA, backend auth flows, and now front-end state management.
 
 ---
----
 
 ## 🎯 2024–25 Roadmap
 
@@ -126,7 +120,6 @@ This loop helps me **truly internalize** concepts, not just memorize them. It's 
 - 🌍 Open-source contributions  
 - 💡 Building personal brand
 
----
 ---
 
 ## 💬 Final Words
