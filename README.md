@@ -90,7 +90,7 @@ An API-first mini SaaS backend with complete Postman documentation.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=radical&hide_border=false" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=radical&hide_border=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=radical&hide_border=false" width="55%" />
 </p>
 
 ---
