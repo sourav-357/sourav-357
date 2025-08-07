@@ -56,15 +56,25 @@ What defines my approach?
 
 ## 🚀 Featured Projects
 
-| Project | Tech | Highlights |
-|--------|------|------------|
-| **Web Dev Lab** | HTML/CSS/JS | Responsive UIs, Grid/Flexbox mastery |
-| **Secure REST API** | Node.js, Express, MongoDB | MVC architecture, JWT auth, error handling |
-| **Java Mastery Series** | Java | CLI apps, exception handling, OOP deep dive |
-| **DSA Tracker** | Java + GFG | Progress tracker with problem breakdown |
-| **API Playground** *(Coming Soon)* | Node.js | SaaS-like backend, Postman collection, dev-focused docs |
+### 🧩 Web Dev Lab
+Responsive landing pages & component-based UIs  
+**Learned:** Flexbox, Grid, CSS modules, mobile-first design.
 
-> 🔗 All code available on [my GitHub repos](https://github.com/sourav-357?tab=repositories)
+### 🔐 Secure REST API
+Backend with full JWT authentication, modular MVC structure  
+**Learned:** Auth flow, error handling, clean code architecture.
+
+### 💻 Java Mastery Series
+Mini-projects and CLI tools in Java  
+**Learned:** OOP principles, exception handling, design patterns.
+
+### 📊 DSA Tracker (Java + GFG)
+Live log of my DSA journey across multiple topics  
+**Learned:** Recursion, Bit Magic, Arrays, Two Pointers, etc.
+
+### 🛠️ API Playground *(Coming Soon)*
+SaaS-like backend with Postman docs  
+**Goal:** Clean REST structure, testing-first dev, dev-focused API design.
 
 ---
 
