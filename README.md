@@ -5,25 +5,27 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 👋 About Me
 
 Hey! I’m **Sourav Kumar**, currently pursuing Computer Science @ **UCET Hazaribagh**, and a builder at heart who believes in learning by doing. 🚀
 
-Hailing from Jharkhand, where tech exposure is limited, I’ve turned constraints into clarity and self-discipline. My mission is not to just land a job — but to become the **kind of engineer** who solves real problems with real solutions. 💡
+I come from Jharkhand, where tech exposure is limited — but I’ve turned that into a strength. I'm here not just to land a job, but to **build solutions** that solve real-world problems.
 
-What makes me different?
+**What makes me different?**
 
-- 🔍 I don’t follow tutorials blindly — I **dissect**, **rebuild**, and **teach** what I learn.
-- 🧠 I treat every project like a micro-startup — with a focus on **problem-solving**, **scalability**, and **user experience**.
-- 🛠️ I believe in **clarity over shortcuts**, **principles over hype**, and **execution over fluff**.
+- 🧠 I dissect, rebuild, and teach what I learn — not just copy-paste.
+- 🚀 I treat every project like a product — with scalability, UX, and maintainability in mind.
+- 🔍 I focus on principles and clarity over shortcuts and hype.
 
 ---
 
-## 🚀 Tech Stack & Tools
-
-> Full-stack, real-world-ready, and focused on clean scalable builds.
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 - Java (OOP + DSA)  
@@ -35,20 +37,17 @@ What makes me different?
 - Next.js (SEO, SSR, App Routing)
 
 ### 🔧 Backend
-- Node.js, Express.js (REST APIs, Middleware, MVC)  
-- Authentication (JWT, Bcrypt, Sessions)
+- Node.js, Express.js (REST APIs, MVC, Middleware)  
+- JWT, Bcrypt, Session-based Auth
 
 ### 🗃️ Databases
-- MongoDB + Mongoose (CRUD, Aggregations)  
-- JSON, Axios, Fetch APIs
+- MongoDB + Mongoose  
+- Axios, Fetch API, JSON
 
-### 🔍 Debugging & Testing
+### 🧪 Tools & Utilities
 - Postman, Thunder Client, MongoDB Compass  
-
-### 🔧 Dev Tools
 - Git & GitHub (Version control, Branching)  
-- VS Code (Customized Dev Env)  
-- Notion (for roadmaps + notes)  
+- VS Code (Custom Dev Env), Notion (Notes & Planning)  
 - Linux CLI (Basic terminal ops)
 
 ---
@@ -56,24 +55,24 @@ What makes me different?
 ## 💼 Featured Projects
 
 ### 🧩 Web Dev Lab
-Responsive UIs, landing pages, and component-based projects.  
-**Learned:** Flexbox, Grid, real-world CSS techniques.
+Responsive landing pages & component-based UIs  
+**Learned:** Flexbox, Grid, CSS modules, mobile-first design.
 
 ### 🔐 Secure REST API
-Scalable backend with full JWT auth, protected routes, and MVC structure.  
-**Learned:** Token flow, modular backend design, error handling.
+Backend with full JWT authentication, modular MVC structure  
+**Learned:** Auth flow, error handling, clean code architecture.
 
 ### 💻 Java Mastery Series
-Real-world Java apps practicing core concepts + OOP.  
-**Learned:** Classes, Inheritance, Exception Handling, Patterns.
+Mini-projects and CLI tools in Java  
+**Learned:** OOP principles, exception handling, design patterns.
 
 ### 📊 DSA Tracker (Java + GFG)
-My live DSA grind log — solving 100s of problems topic-wise.  
-**Learned:** Recursion, Bit Magic, Arrays, Pattern-based solving.
+Live log of my DSA journey across multiple topics  
+**Learned:** Recursion, Bit Magic, Arrays, Two Pointers, etc.
 
-### 🛠️ API Playground (Coming Soon)
-SaaS-like backend services with complete Postman documentation.  
-**Goal:** Clean REST architecture and API-first thinking.
+### 🛠️ API Playground *(Coming Soon)*
+SaaS-like backend with Postman docs  
+**Goal:** Clean REST structure, testing-first dev, dev-focused API design.
 
 ---
 
@@ -92,27 +91,27 @@ SaaS-like backend services with complete Postman documentation.
 
 ## 🧠 Learning Strategy
 
-> "If you can't build with it, you haven't learned it."
+> _“If you can't build with it, you haven't learned it.”_
 
-Here's how I level up:
+Here's my learning loop:
 
-1. Learn from **docs + real docs** (not just YouTube)
-2. Build real mini-projects immediately
-3. Debug deeply until I get clarity
-4. Refactor to improve readability and performance
-5. Share what I learn publicly 💬
+1. Read docs + official sources first  
+2. Build real-world mini-projects  
+3. Debug until I understand deeply  
+4. Refactor for better performance & readability  
+5. Share knowledge publicly 💬
 
-This loop has helped me master not just syntax — but also **problem-solving**, **code design**, and **system thinking**.
+This cycle helped me move beyond tutorials to actual **system thinking** and **problem-solving**.
 
 ---
 
 ## 🎯 2024–25 Roadmap
 
-- 🔵 Complete Java DSA (GFG + Leetcode)  
-- 🟡 Build 5+ full-stack projects (React + Node + MongoDB)  
-- 🟣 Open-source contributions  
-- 🔴 Hackathon MVPs & internships  
-- ⚪ Build my personal brand on LinkedIn  
+- 🔵 Complete Java DSA (GFG + LeetCode)  
+- 🟡 Build 5+ Full-Stack Projects (MERN)  
+- 🟣 Start Open-Source Contributions  
+- 🔴 Participate in Hackathons & Internships  
+- ⚪ Build Personal Brand on LinkedIn  
 - 🟢 Master Git workflows, Docker, CI/CD by year-end  
 
 ---
@@ -120,9 +119,9 @@ This loop has helped me master not just syntax — but also **problem-solving**,
 ## 🌟 Final Note
 
 Thanks for visiting my profile!  
-If you're someone who enjoys building cool stuff, breaking down problems, and pushing yourself — let's connect.  
+If you love solving problems, building stuff, and sharing what you learn — let’s connect.
 
-I’m not here just to code.  
-I’m here to grow, build, share — and make things that matter 💼🚀
+I'm not just here to code —  
+I'm here to **build**, **grow**, and **contribute** 🚀
 
 ---
