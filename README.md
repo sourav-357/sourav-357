@@ -3,7 +3,7 @@
 <!-- 🔥 Animated Typing Banner -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sourav+Kumar+🎓;CSE+Undergrad+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Full-Stack+Web+Dev+Explorer+🌐;Cloud+Computing+Enthusiast+☁️;Team+CodeBlooded+🔥" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sourav+Kumar+🎓;CSE+Undergrad+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+App+Developer+📱;Cloud+Computing+Explorer+☁️" 
     alt="Typing SVG"
   />
 </p>
@@ -16,16 +16,11 @@
 
 ## 👨‍💻 About Me
 
-Hey! I’m **Sourav Kumar**, a CS student from **UCET Hazaribagh**, passionate about building real-world, scalable, and user-first tech solutions. I come from a Tier-5 college with no campus placement — but that hasn't stopped me from chasing a 30+ LPA dream.
+Hey! I’m **Sourav Kumar**,  a first-year BTech student majoring in **Compter Science** at UCET, VBU. I’m passionate about building efficient, scalable systems and constantly evolving as a tech professional.
+
+My academic interests span across core programming, system-level thinking, and leveraging technology to improve my problem solving skills. I strive to excel in Software Development by strengthening my programming skills and applying best practices to solve real-world problems.
 
 🚀 **I believe in earning mastery, not just consuming content.**
-
-What defines my approach?
-
-- 🧠 Learning with depth – from principles to patterns  
-- 🛠 Building like it’s production – not just projects  
-- 📚 Documenting & teaching along the way  
-- 🔍 Debugging until clarity hits
 
 ---
 
@@ -54,27 +49,47 @@ What defines my approach?
 
 ---
 
+
+# 🛠️ Tools & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,express,git,github,vscode,replit" />
+</p>
+
+<div align="center">
+
+| Category         | Tools / Technologies                                          |
+|------------------|--------------------------------------------------------------|
+| **Code Editors**     | **VS Code** – My primary development environment. <br> **Replit** – For quick online prototyping and sharing code. |
+| **Version Control**  | **Git** – Tracking code history and managing changes.<br> **GitHub** – Hosting, sharing, and collaborating on projects. |
+| **Deployment**       | **GitHub Pages** – Hosting static web pages.<br> **Netlify (Learning)** – Exploring for frontend deployment and CI/CD. |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
-### 🧩 Web Dev Lab
-Responsive landing pages & component-based UIs  
-**Learned:** Flexbox, Grid, CSS modules, mobile-first design.
+- **🌐 Web Dev Lab**  
+  Responsive UI components & layouts.  
+  *Focus:* CSS Flex/Grid, animations, responsiveness.
 
-### 🔐 Secure REST API
-Backend with full JWT authentication, modular MVC structure  
-**Learned:** Auth flow, error handling, clean code architecture.
+- **♨️ Java Practice Series**  
+  Hands-on with Java mini-projects and OOP design.  
+  *Focus:* Logic building, abstraction, error handling.
 
-### 💻 Java Mastery Series
-Mini-projects and CLI tools in Java  
-**Learned:** OOP principles, exception handling, design patterns.
+- **🧠 DSA Tracker (GFG)**  
+  My problem-solving archive.  
+  *Focus:* Arrays, strings, stacks, recursion & patterns.
 
-### 📊 DSA Tracker (Java + GFG)
-Live log of my DSA journey across multiple topics  
-**Learned:** Recursion, Bit Magic, Arrays, Two Pointers, etc.
+- **🔐 Secure REST API (Private)**  
+  Backend APIs with JWT-auth and validations.  
+  *Focus:* Secure login flows, token management.
 
-### 🛠️ API Playground *(Coming Soon)*
-SaaS-like backend with Postman docs  
-**Goal:** Clean REST structure, testing-first dev, dev-focused API design.
+- **🧪 API Playground (Coming Soon)**  
+  A modular full-stack API-driven application with clean docs and testing.
+  
+> Every project is a milestone in learning — some public, some private.
 
 ---
 
@@ -87,6 +102,10 @@ SaaS-like backend with Postman docs
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawaz-01&theme=react-dark" width="100%"/>
 </p>
 
 ---
