@@ -53,7 +53,7 @@ My academic interests span across core programming, system-level thinking, and l
 # 🛠️ Tools & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,express,git,github,vscode,replit" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,vscode,nodejs,express,git,github,mongoose,react" />
 </p>
 
 <div align="center">
