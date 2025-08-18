@@ -105,7 +105,7 @@ My academic interests span across core programming, system-level thinking, and l
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" width="100%"/>
 </p>
 
 ---
