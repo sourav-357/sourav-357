@@ -103,7 +103,13 @@ My academic interests span across core programming, system-level thinking, and l
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
-
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav_357&theme=radical" alt="Profile Summary" width="100%"/>
+</td>
+</tr>
+</table>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" width="100%"/>
 </p>
