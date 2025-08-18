@@ -106,7 +106,7 @@ My academic interests span across core programming, system-level thinking, and l
 <table width="100%" align="center">
 <tr>
 <td>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav_357&theme=radical" alt="Profile Summary" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-357&theme=radical" alt="Profile Summary" width="100%"/>
 </td>
 </tr>
 </table>
