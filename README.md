@@ -108,61 +108,63 @@ Every line of code I write is a step closer to my vision: **creating impactful s
 
 ## 🏆 Courses & Practice Challenges 🥇
 
-Learning never stops. Here’s where I sharpen my skills:
+<p align="center">
+  Learning never stops. Here’s where I sharpen my skills:
 
-<table>
-  <tr>
-    <td width="100px"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="80" /></td>
-    <td>
-      <strong>🔥 Java Mastery</strong><br>
-      <ul>
-        <li>✔️ Core Java: OOP, Collections Framework, Exception Handling. ☕</li>
-        <li>✔️ Advanced: File I/O, Multithreading, JDBC. 🛠️</li>
-        <li>✔️ Hands-on: CLI apps built purely with Java. 🖥️</li>
-      </ul>
-    </td>
-  </tr>
+  <table>
+    <tr>
+      <td width="100px"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="80" /></td>
+      <td>
+        <strong>🔥 Java Mastery</strong><br>
+        <ul>
+          <li>✔️ Core Java: OOP, Collections Framework, Exception Handling. ☕</li>
+          <li>✔️ Advanced: File I/O, Multithreading, JDBC. 🛠️</li>
+          <li>✔️ Hands-on: CLI apps built purely with Java. 🖥️</li>
+        </ul>
+      </td>
+    </tr>
 
-  <tr>
-    <td width="100px"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230403183704/gfg_logo.png" alt="GFG Logo" width="80" /></td>
-    <td>
-      <strong>🧠 DSA Practice – GeeksforGeeks</strong><br>
-      <ul>
-        <li>✔️ Arrays, Strings, Stacks, Queues. 📚</li>
-        <li>✔️ Trees & BSTs – mastered problem-solving. 🌳</li>
-        <li>⏳ Advanced focus: Graphs, Greedy, DP. 📈</li>
-      </ul>
-      <a href="https://www.geeksforgeeks.org/user/riyans8254/" target="_blank">🔗 GFG Profile</a>
-    </td>
-  </tr>
+    <tr>
+      <td width="100px"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230403183704/gfg_logo.png" alt="GFG Logo" width="80" /></td>
+      <td>
+        <strong>🧠 DSA Practice – GeeksforGeeks</strong><br>
+        <ul>
+          <li>✔️ Arrays, Strings, Stacks, Queues. 📚</li>
+          <li>✔️ Trees & BSTs – mastered problem-solving. 🌳</li>
+          <li>⏳ Advanced focus: Graphs, Greedy, DP. 📈</li>
+        </ul>
+        <a href="https://www.geeksforgeeks.org/user/riyans8254/" target="_blank">🔗 GFG Profile</a>
+      </td>
+    </tr>
 
-  <tr>
-    <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" width="80" /></td>
-    <td>
-      <strong>🧩 Java Challenges – HackerRank</strong><br>
-      <ul>
-        <li>✅ Solved 50+ diverse problems. 💯</li>
-        <li>✅ Strong in Patterns, Loops, Arrays, Recursion. 🔄</li>
-        <li>🧠 Focused on logic building. 💡</li>
-      </ul>
-      <a href="https://www.hackerrank.com/profile/riyanshu062" target="_blank">🔗 HackerRank Profile</a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="80" /></td>
-    <td>
-      <strong>⚡ DSA Practice – LeetCode</strong><br>
-      <ul>
-        <li>✔️ Solved 50+ problems: Arrays, Strings, HashMaps, Binary Search. 🔍</li>
-        <li>⏳ Actively pushing into Medium/Hard challenges. 💪</li>
-      </ul>
-      <a href="https://leetcode.com/sourav-357/" target="_blank">🔗 LeetCode Profile</a>
-    </td>
-  </tr>
-</table>
+    <tr>
+      <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" width="80" /></td>
+      <td>
+        <strong>🧩 Java Challenges – HackerRank</strong><br>
+        <ul>
+          <li>✅ Solved 50+ diverse problems. 💯</li>
+          <li>✅ Strong in Patterns, Loops, Arrays, Recursion. 🔄</li>
+          <li>🧠 Focused on logic building. 💡</li>
+        </ul>
+        <a href="https://www.hackerrank.com/profile/riyanshu062" target="_blank">🔗 HackerRank Profile</a>
+      </td>
+    </tr>
+    
+    <tr>
+      <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="80" /></td>
+      <td>
+        <strong>⚡ DSA Practice – LeetCode</strong><br>
+        <ul>
+          <li>✔️ Solved 50+ problems: Arrays, Strings, HashMaps, Binary Search. 🔍</li>
+          <li>⏳ Actively pushing into Medium/Hard challenges. 💪</li>
+        </ul>
+        <a href="https://leetcode.com/sourav-357/" target="_blank">🔗 LeetCode Profile</a>
+      </td>
+    </tr>
+  </table>
 
-<br>
+  <br>
+</p>
 
 ---
 
