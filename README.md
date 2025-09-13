@@ -15,13 +15,9 @@
 ## ✨ About Me 🚀  
 
 Hey there! 👋 I’m **Sourav Kumar**, a passionate **Computer Science student at UCET Hazaribagh 🎓**.  
-
 Driven by **curiosity 💡**, **logic 🧠**, and **consistency 💪**, I’m on a mission to craft **scalable, impactful, and innovative solutions** with code.  
-
 💻 For me, tech isn’t just about writing programs — it’s about turning **ideas into robust, user-friendly experiences** that make a real difference. 🚀  
-
 🌍 Growing up in Jharkhand 🇮🇳, I shaped my journey through **open-source learning**, **hands-on projects**, and a **relentless problem-solving mindset**.  
-
 🚀 **I don’t aim to consume content — I aim to earn mastery.**  
 
 ---
@@ -99,7 +95,7 @@ I follow a **Build-First Learning** approach 🧪:
       ✔️ Arrays, Strings, Stack, Queue mastered. <br>
       ✔️ Trees & BST problems solved. <br>
       ⏳ Currently exploring Graphs, Greedy, DP. <br>
-      <a href="https://www.geeksforgeeks.org/user/riyans8254/" target="_blank">🔗 GFG Profile</a>
+      <a href="https://www.geeksforgeeks.org/user/xsouravknik5/" target="_blank">🔗 GFG Profile</a>
     </td>
   </tr>
   <tr>
@@ -109,7 +105,7 @@ I follow a **Build-First Learning** approach 🧪:
       ✅ Solved 50+ problems. <br>
       ✅ Strong in Patterns, Loops, Arrays, Recursion. <br>
       🧠 Focused on logic building. <br>
-      <a href="https://www.hackerrank.com/profile/riyanshu062" target="_blank">🔗 HackerRank Profile</a>
+      <a href="https://www.hackerrank.com/profile/xsouravkumar357" target="_blank">🔗 HackerRank Profile</a>
     </td>
   </tr>
   <tr>
@@ -118,7 +114,7 @@ I follow a **Build-First Learning** approach 🧪:
       <strong>⚡ DSA – LeetCode</strong><br>
       ✔️ 50+ problems solved: Arrays, Strings, HashMaps, Binary Search. <br>
       ⏳ Actively practicing Medium & Hard problems. <br>
-      <a href="https://leetcode.com/sourav-357/" target="_blank">🔗 LeetCode Profile</a>
+      <a href="https://leetcode.com/u/Sourav_357/" target="_blank">🔗 LeetCode Profile</a>
     </td>
   </tr>
 </table>  
@@ -175,8 +171,8 @@ Let’s share ideas, build projects, and grow together.
 
 <p align="center">
   <a href="https://github.com/sourav-357" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/riyanshu-sharma-b1a733221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:riyanshusharma02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/souravkumar357" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:xsouravkumar357@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>  
 
 ---
@@ -184,9 +180,6 @@ Let’s share ideas, build projects, and grow together.
 ## 💬 Final Words ✨  
 
 Thanks for visiting my profile! 🙌  
-
 If you’re also **building from scratch, learning every day, and chasing impact**, let’s connect and **code the future** together.  
-
 💻 Whether it’s **tech talk, debugging war stories, or real project collabs** — I’m always open.  
-
 🔥 Let’s **build, break, and innovate together**. 🚀  
