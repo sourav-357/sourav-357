@@ -9,8 +9,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>                 
+
     
 ---
+
 
 ## ✨ About Me 🚀  
 
@@ -20,7 +22,9 @@ Driven by **curiosity 💡**, **logic 🧠**, and **consistency 💪**, I’m on
 🌍 Growing up in Jharkhand 🇮🇳, I shaped my journey through **open-source learning**, **hands-on projects**, and a **relentless problem-solving mindset**.  
 🚀 **I don’t aim to consume content — I aim to earn mastery.**  
 
+
 ---
+
 
 ## 🌟 My Developer Mindset 💡  
 
@@ -35,7 +39,9 @@ I follow a **Build-First Learning** approach 🧪:
 
 ⚡ Every line of code I write is a step toward **blending logic, creativity, and innovation into impactful software**.  
 
+
 ---
+
 
 ## 📚 My Learning Journey 📈  
 
@@ -50,7 +56,9 @@ I follow a **Build-First Learning** approach 🧪:
 - 🍃 **MongoDB + Mongoose** – Harnessing NoSQL databases for dynamic data.  
 - 🔁 **CI/CD Pipelines** – Automating testing → building → deployment.  
 
+
 ---
+
 
 ## 🛠️ Tech Stack & Tools 🔧  
 
@@ -74,7 +82,9 @@ I follow a **Build-First Learning** approach 🧪:
   <img src="https://skillicons.dev/icons?i=java,cpp,python" />
 </p>  
 
+
 ---
+
 
 ## 🏆 Courses & Practice Challenges 🥇  
 
@@ -119,7 +129,9 @@ I follow a **Build-First Learning** approach 🧪:
   </tr>
 </table>  
 
+
 ---
+
 
 ## 🚀 Featured Projects 🌟  
 
@@ -128,7 +140,9 @@ I follow a **Build-First Learning** approach 🧪:
 - 🏦 **Bankist App** – Banking simulation app with login, transfers & account closure. *(HTML, CSS, JS)*  
 - 🔐 **Auth REST APIs** – Secure API with JWT authentication & CRUD support. *(Node.js, Express, MongoDB)*  
 
+
 ---
+
 
 ## 📊 GitHub Stats & Activity 📈  
 
@@ -145,7 +159,9 @@ I follow a **Build-First Learning** approach 🧪:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" width="100%"/>
 </p>  
 
+
 ---
+
 
 ## 🎯 2024–25 Roadmap 🗺️  
 
@@ -162,7 +178,9 @@ I follow a **Build-First Learning** approach 🧪:
 - 🌍 Open-source contributions  
 - 📈 Always learning, always building  
 
+
 ---
+
 
 ## 🤝 Let’s Connect! 👋  
 
@@ -175,7 +193,9 @@ Let’s share ideas, build projects, and grow together.
   <a href="mailto:xsouravkumar357@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>  
 
+
 ---
+
 
 ## 💬 Final Words ✨  
 
