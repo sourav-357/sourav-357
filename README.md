@@ -1,547 +1,445 @@
-<!-- 🚀 Welcome Banner -->
+# Hi there, I'm Sourav Kumar 👋
+
 <div align="center">
-  <img  
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sourav+Kumar+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Web+Dev+%2B+Cloud+Explorer+☁️;App+Development+Enthusiast+📱;Code.+Build.+Iterate.+Repeat+🔥"  
-    alt="Typing SVG"     
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sourav+Kumar+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Web+Dev+%2B+Cloud+Explorer+☁️;App+Development+Enthusiast+📱;Code.+Build.+Iterate.+Repeat+🔥" alt="Typing SVG" />
 </div>
-        
-<!-- 🎯 Profile Stats Row -->
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</td>
-<td align="center">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=for-the-badge&logo=github" alt="Status" />
-</td>
-<td align="center">
   <img src="https://img.shields.io/badge/Location-Jharkhand%2C%20India-red?style=for-the-badge&logo=location" alt="Location" />
-</td>
-<td align="center">
   <img src="https://img.shields.io/badge/University-UCET%20Hazaribagh-blue?style=for-the-badge&logo=graduation-cap" alt="University" />
-</td>
-</tr>
-</table>
-
-<!-- 🎯 Interactive Navigation -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="#-about-me-">
-          <img src="https://img.shields.io/badge/About%20Me-FF6B6B?style=for-the-badge&logo=user&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#-tech-stack--tools-">
-          <img src="https://img.shields.io/badge/Tech%20Stack-96CEB4?style=for-the-badge&logo=tools&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#-featured-projects-">
-          <img src="https://img.shields.io/badge/Projects-DDA0DD?style=for-the-badge&logo=code&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#-lets-connect-">
-          <img src="https://img.shields.io/badge/Connect-F7DC6F?style=for-the-badge&logo=handshake&logoColor=black" />
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## ✨ About Me 🚀  
+## 🎯 About Me
 
-<table>
-<tr>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation"/>
-  </div>
-</td>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="300" alt="Developer Journey"/>
-  </div>
-</td>
-</tr>
-</table>
+I'm a passionate **Computer Science student** at UCET Hazaribagh with an insatiable thirst for technology and innovation. Driven by curiosity, logic, and consistency, I'm on a mission to craft scalable, impactful, and innovative solutions with code.
 
-### 🎯 **Who Am I?**
-Hey there! 👋 I'm **Sourav Kumar**, a passionate **Computer Science student at UCET Hazaribagh** with an insatiable thirst for technology and innovation.
+### My Journey
+My coding journey began in 2022 when I wrote my first "Hello World" program. Since then, I've evolved from a curious beginner to a dedicated developer who believes in the power of continuous learning and hands-on practice.
 
-<table>
-<tr>
-<td width="33%" align="center">
-  <strong>🎓 Student</strong><br>
-  <img src="https://img.shields.io/badge/Year-3rd%20Year-blue?style=flat-square&logo=graduation-cap" /><br>
-  <img src="https://img.shields.io/badge/Stream-Computer%20Science-green?style=flat-square&logo=computer" /><br>
-  <img src="https://img.shields.io/badge/GPA-8.5%2B-brightgreen?style=flat-square&logo=star" />
-</td>
-<td width="33%" align="center">
-  <strong>💻 Developer</strong><br>
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=flat-square&logo=code" /><br>
-  <img src="https://img.shields.io/badge/Specialization-Full%20Stack-purple?style=flat-square&logo=stackoverflow" /><br>
-  <img src="https://img.shields.io/badge/Projects-10%2B-red?style=flat-square&logo=github" />
-</td>
-<td width="33%" align="center">
-  <strong>🚀 Innovator</strong><br>
-  <img src="https://img.shields.io/badge/Problems%20Solved-200%2B-yellow?style=flat-square&logo=leetcode" /><br>
-  <img src="https://img.shields.io/badge/Contribution-Active-brightgreen?style=flat-square&logo=github" /><br>
-  <img src="https://img.shields.io/badge/Learning-Never%20Stops-blue?style=flat-square&logo=brain" />
-</td>
-</tr>
-</table>
+### Core Philosophy
+- **"I don't aim to consume content — I aim to earn mastery"** - Every tutorial becomes a foundation for innovation
+- **"Every bug is a lesson, every project is a stepping stone"** - Failures are just iterations toward success  
+- **"Code with purpose, build with passion, deploy with pride"** - Quality over quantity, impact over impressiveness
 
-### 🌟 **My Story & Journey**
-Driven by **curiosity**, **logic**, and **consistency**, I'm on a mission to craft **scalable, impactful, and innovative solutions** with code. My journey began in **Jharkhand**, where I discovered my passion for technology through hands-on projects and relentless problem-solving.
-
-### 💡 **My Engineering Philosophy**
-<table>
-<tr>
-<td align="center">
-  <strong>🚀 "I don't aim to consume content — I aim to earn mastery."</strong><br>
-  <em>Every tutorial becomes a foundation for innovation</em>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <strong>🎯 "Every bug is a lesson, every project is a stepping stone."</strong><br>
-  <em>Failures are just iterations toward success</em>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <strong>⚡ "Code with purpose, build with passion, deploy with pride."</strong><br>
-  <em>Quality over quantity, impact over impressiveness</em>
-</td>
-</tr>
-</table>
+### What Makes Me Different
+- **Problem Solver**: Breaking complex problems into manageable pieces
+- **Builder**: Turning ideas into functional, scalable applications
+- **Debugger**: Hunting down issues and optimizing performance
+- **Refiner**: Polishing code for production-ready quality
 
 ---
 
-## 🛠️ Tech Stack & Tools 🔧  
+## 🛠️ Tech Stack & Skills
 
-<table>
-<tr>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Ikk/giphy.gif" width="300" alt="Tech Stack"/>
-  </div>
-</td>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Development Tools"/>
-  </div>
-</td>
-</tr>
-</table>
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 **Frontend Development**
-<table>
-<tr>
-<td width="100%" align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vue,angular,bootstrap,tailwind,sass" />
-</td>
-</tr>
-</table>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### 🧠 **Backend Development**
-<table>
-<tr>
-<td width="100%" align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,jwt,redis,nginx,apache" />
-</td>
-</tr>
-</table>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### ⚙️ **Development Tools**
-<table>
-<tr>
-<td width="100%" align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vercel,vscode,docker,linux,bash" />
-</td>
-</tr>
-</table>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🏁 **Programming Languages**
-<table>
-<tr>
-<td width="100%" align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,go,rust" />
-</td>
-</tr>
-</table>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
 
-## 🏆 Learning Journey 📈  
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="200" alt="Learning Journey"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<table>
-  <tr>
-    <td width="100px" align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="60"/></td>
-    <td>
-      <strong>🔥 Java Mastery Journey</strong><br>
-      ✔️ **Core Java**: OOP principles, Collections framework, Exception handling<br>
-      ✔️ **Advanced Concepts**: File I/O, Multithreading, JDBC connectivity<br>
-      🎯 **Next Level**: Spring Framework, Microservices architecture
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230403183704/gfg_logo.png" width="60"/></td>
-    <td>
-      <strong>🧠 DSA Mastery – GeeksforGeeks</strong><br>
-      ✔️ **Data Structures**: Arrays, Strings, Stack, Queue, Linked Lists<br>
-      ✔️ **Advanced Structures**: Trees, BST, Heaps, Hash Tables<br>
-      🎯 **Goal**: 200+ problems solved by end of 2024<br>
-      <a href="https://www.geeksforgeeks.org/user/xsouravknik5/" target="_blank">🔗 GFG Profile</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60"/></td>
-    <td>
-      <strong>🧩 Java Challenges – HackerRank</strong><br>
-      ✅ **Problem Solving**: 50+ problems solved across multiple domains<br>
-      ✅ **Certification**: Java (Basic) certification achieved<br>
-      <a href="https://www.hackerrank.com/profile/xsouravkumar357" target="_blank">🔗 HackerRank Profile</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60"/></td>
-    <td>
-      <strong>⚡ DSA Excellence – LeetCode</strong><br>
-      ✔️ **Problem Range**: 50+ problems solved across Easy, Medium difficulty<br>
-      ✔️ **Topics Mastered**: Arrays, Strings, HashMaps, Binary Search, Two Pointers<br>
-      <a href="https://leetcode.com/u/Sourav_357/" target="_blank">🔗 LeetCode Profile</a>
-    </td>
-  </tr>
-</table>  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sourav-357&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
-## 🚀 Featured Projects 🌟  
+## 🏆 Learning Journey & Achievements
 
-<table>
-<tr>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Projects"/>
-  </div>
-</td>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="300" alt="Development"/>
-  </div>
-</td>
-</tr>
-</table>
+### Coding Platforms Progress
 
-### 🎮 **Interactive Web Games**
-<table>
-<tr>
-<td width="50%">
-  <img src="https://img.shields.io/badge/Project-Game%20Development-blue?style=for-the-badge&logo=gamepad" /><br>
-  <strong>🎲 Guess My Number Game</strong><br>
-  🎯 **Description**: Interactive number guessing game with real-time DOM feedback<br>
-  🛠️ **Tech Stack**: HTML5, CSS3, Vanilla JavaScript<br>
-  ✨ **Key Features**: Real-time score tracking, intelligent hints system, responsive design<br>
-  🔗 **Skills**: DOM manipulation, event handling, game logic
-</td>
-<td width="50%">
-  <img src="https://img.shields.io/badge/Project-Multiplayer%20Game-green?style=for-the-badge&logo=dice" /><br>
-  <strong>🐷 Pig Game (Multiplayer)</strong><br>
-  🎯 **Description**: Strategic multiplayer dice game with turn management<br>
-  🛠️ **Tech Stack**: HTML5, CSS3, Vanilla JavaScript<br>
-  ✨ **Key Features**: Turn-based gameplay, score persistence, dynamic UI updates<br>
-  🔗 **Skills**: State management, game mechanics, CSS animations
-</td>
-</tr>
-</table>
+#### GeeksforGeeks Profile
+- **Problems Solved**: 100+ DSA problems across multiple difficulty levels
+- **Topics Mastered**: Arrays, Strings, Stack, Queue, Linked Lists, Trees, BST, Heaps, Hash Tables
+- **Algorithms**: Sorting, Searching, Dynamic Programming basics
+- **Current Focus**: Graphs, Greedy algorithms, Advanced DP
+- **Goal**: 200+ problems solved by end of 2024
+- **Profile**: [Visit my GFG Profile](https://www.geeksforgeeks.org/user/xsouravknik5/)
 
-### 🏦 **Financial Applications**
-<table>
-<tr>
-<td width="50%">
-  <img src="https://img.shields.io/badge/Project-Banking%20Simulation-purple?style=for-the-badge&logo=bank" /><br>
-  <strong>🏦 Bankist App</strong><br>
-  🎯 **Description**: Comprehensive banking simulation with account management<br>
-  🛠️ **Tech Stack**: HTML5, CSS3, Vanilla JavaScript, Local Storage<br>
-  ✨ **Key Features**: Secure authentication, money transfer, transaction history<br>
-  🔗 **Skills**: Data persistence, security concepts, form validation
-</td>
-<td width="50%">
-  <img src="https://img.shields.io/badge/Project-Backend%20API-red?style=for-the-badge&logo=server" /><br>
-  <strong>🔐 Authentication REST APIs</strong><br>
-  🎯 **Description**: Secure authentication system with JWT token management<br>
-  🛠️ **Tech Stack**: Node.js, Express.js, MongoDB, JWT, bcrypt<br>
-  ✨ **Key Features**: User registration, secure login, protected routes<br>
-  🔗 **Skills**: Backend development, security, API architecture
-</td>
-</tr>
-</table>
+#### LeetCode Profile
+- **Problems Solved**: 50+ problems across Easy and Medium difficulty
+- **Topics Mastered**: Arrays, Strings, HashMaps, Binary Search, Two Pointers
+- **Skills Developed**: Pattern recognition, time complexity optimization
+- **Current Focus**: Medium & Hard problems, system design basics
+- **Target**: 100+ problems and consistent daily practice
+- **Profile**: [Visit my LeetCode Profile](https://leetcode.com/u/Sourav_357/)
+
+#### HackerRank Profile
+- **Problems Solved**: 50+ problems solved across multiple domains
+- **Core Strengths**: Patterns, Loops, Arrays, Recursion, Strings
+- **Certification**: Java (Basic) certification achieved
+- **Focus Area**: Logic building, algorithmic thinking, code optimization
+- **Next Target**: Advanced Java certification and algorithm challenges
+- **Profile**: [Visit my HackerRank Profile](https://www.hackerrank.com/profile/xsouravkumar357)
+
+### Educational Background
+- **University**: UCET Hazaribagh
+- **Stream**: Computer Science Engineering
+- **Year**: 3rd Year
+- **GPA**: 8.5+
+- **Location**: Jharkhand, India
+
+### Current Learning Focus
+- **React Ecosystem**: Building scalable, SEO-friendly applications with Next.js
+- **Backend Excellence**: RESTful APIs, microservices architecture, database optimization
+- **Database Mastery**: Advanced MongoDB operations, PostgreSQL, Redis caching
+- **DevOps**: CI/CD pipelines, Docker containerization, cloud deployment
+- **Security**: Advanced authentication systems, JWT, OAuth, secure coding practices
 
 ---
 
-## 📊 GitHub Stats & Activity 📈  
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="300" alt="Stats"/>
-  </div>
-</td>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Activity"/>
-  </div>
-</td>
-</tr>
-</table>
+### 🎮 Interactive Web Games Portfolio
 
-### 📈 **Contribution Statistics**
-<table>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
-</td>
-<td width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" width="100%" />
-</td>
-</tr>
-</table>
+#### Guess My Number Game
+- **Description**: Interactive number guessing game with real-time DOM feedback and scoring system
+- **Tech Stack**: HTML5, CSS3, Vanilla JavaScript, Local Storage
+- **Key Features**:
+  - Real-time score tracking and high score persistence
+  - Intelligent hints system with difficulty levels
+  - Responsive design for all device sizes
+  - Smooth animations and user feedback
+- **Skills Demonstrated**: DOM manipulation, event handling, game logic, state management
+- **Impact**: 100+ lines of optimized JavaScript, engaging user experience
 
-### 💻 **Language Distribution**
-<table>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%" />
-</td>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sourav-357&theme=radical&hide_border=true&layout=compact&langs_count=8" width="100%" />
-</td>
-</tr>
-</table>
+#### Pig Game (Multiplayer)
+- **Description**: Strategic multiplayer dice game with real-time score tracking and turn management
+- **Tech Stack**: HTML5, CSS3, Vanilla JavaScript, CSS Grid
+- **Key Features**:
+  - Turn-based gameplay with player switching
+  - Score persistence across game sessions
+  - Win condition detection and celebration
+  - Dynamic UI updates and game state management
+- **Skills Demonstrated**: State management, game mechanics, user interaction, CSS animations
+- **Impact**: 200+ lines of structured code, engaging multiplayer experience
 
-### 🔥 **Activity Graph**
-<table>
-<tr>
-<td width="100%" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
-</td>
-</tr>
-</table>
+### 🏦 Financial Applications Suite
 
----
+#### Bankist App
+- **Description**: Comprehensive banking simulation application with full account management features
+- **Tech Stack**: HTML5, CSS3, Vanilla JavaScript, Local Storage API
+- **Key Features**:
+  - Secure user authentication system
+  - Money transfer between accounts
+  - Transaction history and account statements
+  - Account closure and data management
+  - Responsive design with modern UI/UX
+- **Skills Demonstrated**: Data persistence, security concepts, user experience design, form validation
+- **Impact**: 500+ lines of production-ready code, secure data handling
 
-## 🎯 2024–25 Roadmap 🗺️  
+#### Authentication REST APIs
+- **Description**: Secure authentication system with full CRUD operations and JWT token management
+- **Tech Stack**: Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt
+- **Key Features**:
+  - User registration with email validation
+  - Secure login with password hashing
+  - JWT token-based authentication
+  - Protected routes and middleware
+  - Password reset functionality
+  - User profile management
+- **Skills Demonstrated**: Backend development, security, database design, API architecture
+- **Impact**: 1000+ lines of secure backend code, production-ready authentication
 
-<table>
-<tr>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="300" alt="Roadmap"/>
-  </div>
-</td>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Future Goals"/>
-  </div>
-</td>
-</tr>
-</table>
+### 🚀 Upcoming Projects Pipeline
 
-### 🎯 **Strategic Vision**
-<table>
-<tr>
-<td align="center">
-  <strong>🔑 "The year ahead = growth + impact + innovation"</strong><br>
-  <em>Building a comprehensive skill set while creating meaningful solutions</em>
-</td>
-</tr>
-</table>
+#### React Native Mobile App
+- **Status**: In Development
+- **Description**: Cross-platform mobile application with real-time data synchronization
+- **Features**: Offline-first architecture, push notifications, native performance
+- **Timeline**: Q2 2024
 
-### 📅 **Quarterly Goals**
-<table>
-<tr>
-<td width="25%" align="center">
-  <img src="https://img.shields.io/badge/Q1%202024-Completed-brightgreen?style=for-the-badge" /><br>
-  <strong>🎯 Foundation Building</strong><br>
-  ✅ Java Mastery & DSA Foundation<br>
-  ✅ Security Focus & Learning
-</td>
-<td width="25%" align="center">
-  <img src="https://img.shields.io/badge/Q2%202024-In%20Progress-yellow?style=for-the-badge" /><br>
-  <strong>🚀 Full-Stack Development</strong><br>
-  ⚛️ React Ecosystem<br>
-  🔧 Backend Excellence
-</td>
-<td width="25%" align="center">
-  <img src="https://img.shields.io/badge/Q3%202024-Planned-purple?style=for-the-badge" /><br>
-  <strong>🌟 DevOps & Cloud</strong><br>
-  🚀 CI/CD Mastery<br>
-  ☁️ Cloud Technologies
-</td>
-<td width="25%" align="center">
-  <img src="https://img.shields.io/badge/Q4%202024-Future-blue?style=for-the-badge" /><br>
-  <strong>🎊 Portfolio & Impact</strong><br>
-  🌍 Open Source<br>
-  📱 Mobile Development
-</td>
-</tr>
-</table>
+#### Cloud-First Full-Stack Project
+- **Status**: Planning Phase
+- **Description**: Full-stack application with AWS cloud services
+- **Features**: Microservices architecture, CI/CD pipeline integration, auto-scaling
+- **Timeline**: Q3 2024
+
+#### AI Integration Project
+- **Status**: Research Phase
+- **Description**: Machine learning model integration with web application
+- **Features**: Natural language processing, predictive analytics, recommendation engine
+- **Timeline**: Q4 2024
 
 ---
 
-## 🤝 Let's Connect! 👋  
+## 🎯 2024-25 Development Roadmap
 
-<table>
-<tr>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300" alt="Connect"/>
-  </div>
-</td>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="300" alt="Collaboration"/>
-  </div>
-</td>
-</tr>
-</table>
+### Strategic Vision
+> **"The year ahead = growth + impact + innovation"**
+> 
+> Building a comprehensive skill set while creating meaningful solutions that make a difference
 
-### 🎯 **Connection Philosophy**
-<table>
-<tr>
-<td align="center">
-  <strong>💯 "Collaboration > Competition"</strong><br>
-  <em>Let's share ideas, build projects, and grow together!</em>
-</td>
-</tr>
-</table>
+### Quarterly Development Goals
 
-### 📬 **Contact Channels**
-<table>
-<tr>
-<td width="33%" align="center">
-  <a href="https://github.com/sourav-357" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a><br>
-  <strong>🐙 GitHub</strong><br>
-  Code repositories and projects
-</td>
-<td width="33%" align="center">
-  <a href="https://linkedin.com/in/souravkumar357" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a><br>
-  <strong>💼 LinkedIn</strong><br>
-  Professional networking
-</td>
-<td width="33%" align="center">
-  <a href="mailto:xsouravkumar357@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a><br>
-  <strong>📧 Email</strong><br>
-  Formal inquiries
-</td>
-</tr>
-</table>
+#### Q1 2024 ✅ Foundation Building (Completed)
+- **Java Mastery**: Advanced OOP concepts, design patterns, Spring Framework basics
+- **DSA Foundation**: 100+ problems solved across multiple platforms
+- **Security Focus**: JWT implementation, OAuth integration, secure coding practices
+- **Learning**: System design fundamentals, software engineering principles
 
-### 🌟 **Collaboration Opportunities**
-<table>
-<tr>
-<td width="33%" align="center">
-  <strong>🤝 Open Source</strong><br>
-  Contributing to projects<br>
-  Creating new tools<br>
-  <img src="https://img.shields.io/badge/Interest-High-brightgreen?style=flat-square" />
-</td>
-<td width="33%" align="center">
-  <strong>🏆 Hackathons</strong><br>
-  Team competitions<br>
-  Real-world problem solving<br>
-  <img src="https://img.shields.io/badge/Interest-High-brightgreen?style=flat-square" />
-</td>
-<td width="33%" align="center">
-  <strong>📚 Learning Groups</strong><br>
-  Study groups<br>
-  Skill development<br>
-  <img src="https://img.shields.io/badge/Interest-Medium-yellow?style=flat-square" />
-</td>
-</tr>
-</table>
+#### Q2 2024 🔄 Full-Stack Development (In Progress)
+- **React Ecosystem**: Hooks, Context API, Redux, state management
+- **Backend Excellence**: RESTful APIs, microservices architecture, database optimization
+- **Testing**: Unit testing, integration testing, TDD practices
+- **Next.js**: Server-side rendering, static site generation, performance optimization
+
+#### Q3 2024 📋 DevOps & Cloud (Planned)
+- **CI/CD Mastery**: GitHub Actions, automated testing, deployment pipelines
+- **Cloud Technologies**: AWS services, Docker containerization, Kubernetes basics
+- **Hackathons**: Real-world problem solving, team collaboration
+- **Security**: Advanced authentication systems, API security, data protection
+
+#### Q4 2024 🎊 Portfolio & Impact (Future)
+- **Open Source**: Meaningful contributions to popular projects
+- **Mobile Development**: React Native, Flutter, cross-platform development
+- **Portfolio**: Professional website, project showcase, case studies
+- **AI Integration**: Machine learning model implementation, AI-powered features
+
+### Long-term Vision (2025+)
+
+#### Industry Experience
+- **Target**: Software Engineer position at top tech companies
+- **Focus**: Full-stack development, cloud architecture, team leadership
+- **Timeline**: 2025
+
+#### Advanced Studies
+- **Focus**: AI/ML specialization, Cloud Computing, Advanced System Design
+- **Goals**: Advanced degree programs, research and development
+- **Timeline**: 2026
+
+#### Community Impact
+- **Role**: Mentor, Educator, Open Source Contributor
+- **Goals**: Teaching and mentoring others, knowledge sharing initiatives
+- **Timeline**: Ongoing
 
 ---
 
-## 💬 Final Words ✨  
+## 📈 Key Performance Indicators
 
-<table>
-<tr>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="300" alt="Final Words"/>
-  </div>
-</td>
-<td width="50%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Thank You"/>
-  </div>
-</td>
-</tr>
-</table>
+### Technical Metrics
+- **Code Quality**: Maintain 90%+ test coverage across all projects
+- **Performance**: Achieve <200ms response times for all APIs
+- **Security**: Zero critical vulnerabilities in production code
+- **Documentation**: 100% API documentation coverage
+- **Accessibility**: WCAG AA compliance for all web applications
 
-### 🌟 **My Commitment**
-<table>
-<tr>
-<td align="center">
-  <strong>🚀 "If you're also building from scratch, learning every day, and chasing impact, let's connect and code the future together."</strong><br>
-  <em>Every connection is an opportunity to learn, grow, and create something meaningful</em>
-</td>
-</tr>
-</table>
+### Learning Metrics
+- **Problems Solved**: 200+ DSA problems across multiple platforms
+- **Projects Completed**: 15+ diverse projects showcasing different technologies
+- **Technologies Mastered**: 20+ programming languages, frameworks, and tools
+- **Certifications**: 5+ industry-recognized certifications
+- **Contributions**: 500+ GitHub contributions with consistent daily activity
 
-### 🚀 **Let's Build Together**
-<table>
-<tr>
-<td align="center">
-  <strong>🔥 "Let's build, break, and innovate together."</strong><br>
-  <em>Every expert was once a beginner. Every pro was once an amateur.</em><br>
-  <strong>Don't be afraid to give your dreams wings!</strong> ✨
-</td>
-</tr>
-</table>
+### Professional Metrics
+- **Networking**: Connect with 100+ professionals in the tech industry
+- **Mentorship**: Help 50+ developers through guidance and knowledge sharing
+- **Open Source**: Contribute to 10+ popular open source projects
+- **Community**: Active participation in tech communities and forums
+- **Impact**: Build solutions that serve 1000+ users
+
+---
+
+## 🤝 Let's Connect!
+
+### Connection Philosophy
+> **"Collaboration > Competition"**
+> 
+> Let's share ideas, build projects, and grow together in this amazing tech community!
+
+### What I'm Looking For
+
+#### 🤝 Collaborative Projects
+- Building something amazing together
+- Open source contributions and development
+- Hackathon collaborations and competitions
+- **Priority**: High
+
+#### 💡 Tech Discussions
+- Knowledge sharing and learning exchange
+- Learning from others' experiences and insights
+- Technical problem solving and debugging
+- **Priority**: High
+
+#### 🎯 Mentorship
+- Both giving and receiving guidance
+- Career development discussions
+- Skill enhancement strategies
+- **Priority**: Medium
+
+#### 🚀 Innovation
+- Exploring emerging technologies
+- Research and development projects
+- Innovation challenges and competitions
+- **Priority**: Medium
+
+### Professional Contact Channels
+
+#### 🐙 GitHub Profile
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourav-357)
+- **Purpose**: Code repositories, open source contributions, technical discussions
+- **Response Time**: 6 hours
+- **Best For**: Technical collaborations, project discussions, code reviews
+
+#### 💼 LinkedIn Network
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souravkumar357)
+- **Purpose**: Professional networking, career opportunities, industry insights
+- **Response Time**: 12 hours
+- **Best For**: Job opportunities, professional networking, industry discussions
+
+#### 📧 Email Communication
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xsouravkumar357@gmail.com)
+- **Purpose**: Formal inquiries, project proposals, detailed discussions
+- **Response Time**: 24 hours
+- **Best For**: Business inquiries, detailed project discussions, formal communications
+
+### Availability & Response Times
+
+#### 📅 Availability Schedule
+- **Monday-Friday**: 9 AM - 11 PM IST
+- **Weekends**: 10 AM - 10 PM IST
+- **Holidays**: Flexible availability
+- **Emergency**: Always available for urgent matters
+- **Timezone**: IST (UTC+5:30)
+
+#### ⚡ Response Priorities
+- **High Priority**: Technical collaborations, job opportunities, urgent project issues
+- **Medium Priority**: Learning discussions, mentorship requests, general inquiries
+- **Low Priority**: Networking, casual conversations, non-urgent matters
+- **Emergency**: Critical project issues, urgent deadlines, system failures
+
+### Collaboration Opportunities
+
+#### 🤝 Open Source Contributions
+- Contributing to existing popular projects
+- Creating new open source tools and libraries
+- Documentation improvements and bug fixes
+- **Interest Level**: High
+
+#### 🏆 Hackathons & Competitions
+- Team formation for coding competitions
+- Real-world problem solving challenges
+- Innovation contests and tech challenges
+- **Interest Level**: High
+
+#### 📚 Learning Groups & Study Circles
+- Study groups for specific technologies
+- Coding challenges and practice sessions
+- Skill development programs and workshops
+- **Interest Level**: Medium
+
+---
+
+## 💬 Final Words
+
+### My Commitment to You
+> **"If you're also building from scratch, learning every day, and chasing impact, let's connect and code the future together."**
+> 
+> Every connection is an opportunity to learn, grow, and create something meaningful
+
+### What You Can Expect
+
+#### Professional Standards
+- **Quality Code**: Clean, documented, and maintainable code
+- **Timely Communication**: Respectful of your time and deadlines
+- **Continuous Learning**: Always improving and adapting to new technologies
+- **Collaborative Spirit**: Team-first mentality and open communication
+- **Innovation Focus**: Always seeking better solutions and approaches
+
+#### Partnership Values
+- **Transparency**: Open and honest communication in all interactions
+- **Knowledge Sharing**: Learning from each other and growing together
+- **Reliability**: Consistent and dependable in all commitments
+- **Impact Focus**: Building solutions that matter and create real value
+- **Growth Mindset**: Embracing challenges and learning from failures
+
+### Let's Build Together
+> **"Let's build, break, and innovate together."**
+> 
+> Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown.
+> 
+> **Don't be afraid to give your dreams wings!** ✨
 
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="150" alt="Thank You"/>
-        <br>
-        <strong>Made with ❤️ by Sourav Kumar</strong>
-        <br>
-        <em>"Code with passion, build with purpose, deploy with pride!"</em>
-        <br><br>
-        <img src="https://img.shields.io/badge/Last%20Updated-January%202024-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Version-2.0-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Active%20Development-red?style=flat-square" />
-      </td>
-    </tr>
-  </table>
+
+**Made with ❤️ by Sourav Kumar**
+
+*"Code with passion, build with purpose, deploy with pride!"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=sourav-357&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202024-blue?style=flat-square)
+![Version](https://img.shields.io/badge/Version-3.0-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active%20Development-red?style=flat-square)
+
 </div>
 
 ---
 
 <div align="center">
-  <strong>🌟 Thank you for visiting my profile! 🌟</strong><br>
-  <em>Let's create amazing things together and make a positive impact in the tech world!</em>
+
+**🌟 Thank you for visiting my profile! 🌟**
+
+*Let's create amazing things together and make a positive impact in the tech world!*
+
 </div>
