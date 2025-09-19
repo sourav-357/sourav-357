@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sourav%20Kumar&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=55&fontAlign=50" alt="Header" />
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sourav+Kumar+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Web+Dev+%2B+Cloud+Explorer+☁️;App+Development+Enthusiast+📱;Code.+Build.+Iterate.+Repeat+🔥" alt="Typing SVG" />
