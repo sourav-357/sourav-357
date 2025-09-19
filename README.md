@@ -154,7 +154,7 @@ My coding journey began in 2022 when I wrote my first "Hello World" program. Sin
 
 <table>
   <tr>
-    <td width="100px" align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="60"/></td>
+    <td width="100px" align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="100"/></td>
     <td>
       <strong>🔥 Java Mastery Journey</strong><br>
       ✔️ **Core Java**: OOP principles, Collections framework, Exception handling<br>
@@ -164,7 +164,7 @@ My coding journey began in 2022 when I wrote my first "Hello World" program. Sin
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230403183704/gfg_logo.png" width="60"/></td>
+    <td align="center"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230403183704/gfg_logo.png" width="100"/></td>
     <td>
       <strong>🧠 DSA Mastery – GeeksforGeeks</strong><br>
       ✔️ **Data Structures**: Arrays, Strings, Stack, Queue, Linked Lists<br>
@@ -176,7 +176,7 @@ My coding journey began in 2022 when I wrote my first "Hello World" program. Sin
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="100"/></td>
     <td>
       <strong>🧩 Java Challenges – HackerRank</strong><br>
       ✅ **Problem Solving**: 50+ problems solved across multiple domains<br>
@@ -188,7 +188,7 @@ My coding journey began in 2022 when I wrote my first "Hello World" program. Sin
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100"/></td>
     <td>
       <strong>⚡ DSA Excellence – LeetCode</strong><br>
       ✔️ **Problem Range**: 50+ problems solved across Easy, Medium difficulty<br>
@@ -201,10 +201,6 @@ My coding journey began in 2022 when I wrote my first "Hello World" program. Sin
   </tr>
 </table>
 
-### 📈 Learning Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sourav-357&theme=radical&hide_border=true&layout=compact" width="60%"/>
-</div>
 
 ---
 
