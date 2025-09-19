@@ -1,7 +1,7 @@
 <!-- 🚀 Welcome Banner -->
 <p align="center">          
   <img  
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&lines=Hey+there!+I’m+Sourav+Kumar+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Web+Dev+%2B+Cloud+Explorer+☁️;App+Development+Enthusiast+📱;Code.+Build.+Iterate.+Repeat+🔥"  
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=850&lines=Hey+there!+I’m+Sourav+Kumar+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Web+Dev+%2B+Cloud+Explorer+☁️;App+Development+Enthusiast+📱;Code.+Build.+Iterate.+Repeat+🔥"  
     alt="Typing SVG"     
   />
 </p>   
@@ -10,57 +10,53 @@
   <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>                 
 
-    
 ---
 
-
-## ✨ About Me 🚀  
+# ✨ About Me 🚀  
 
 Hey there! 👋 I’m **Sourav Kumar**, a passionate **Computer Science student at UCET Hazaribagh 🎓**.  
-Driven by **curiosity 💡**, **logic 🧠**, and **consistency 💪**, I’m on a mission to craft **scalable, impactful, and innovative solutions** with code.  
-💻 For me, tech isn’t just about writing programs — it’s about turning **ideas into robust, user-friendly experiences** that make a real difference. 🚀  
-🌍 Growing up in Jharkhand 🇮🇳, I shaped my journey through **open-source learning**, **hands-on projects**, and a **relentless problem-solving mindset**.  
-🚀 **I don’t aim to consume content — I aim to earn mastery.**  
 
+Driven by **curiosity 💡**, **logic 🧠**, and **consistency 💪**, I’m on a mission to craft **scalable, impactful, and innovative solutions** with code.  
+
+💻 For me, tech isn’t just about *writing programs* — it’s about turning **ideas into robust, user-friendly experiences** that create real-world impact.  
+
+🌍 Growing up in Jharkhand 🇮🇳, I shaped my journey through **open-source learning**, **hands-on projects**, and a **relentless problem-solving mindset**.  
+
+🚀 **My mantra:** *I don’t aim to consume content — I aim to master it, break it, and rebuild it better.*  
 
 ---
 
-
-## 🌟 My Developer Mindset 💡  
+# 🌟 My Developer Mindset 💡  
 
 > *“Don’t just copy tutorials. Break them. Rebuild them. Make them yours.”* 🔥  
 
 I follow a **Build-First Learning** approach 🧪:  
 
-- 🧩 **Explore** – Dissect problems and understand the core challenge.  
-- 🛠️ **Build** – Translate concepts into working, functional projects.  
-- 🔍 **Debug** – Hunt down bugs, learn from failures, and grow stronger.  
-- ✅ **Refine** – Polish logic, optimize performance, and improve UX.  
+1. 🧩 **Explore** – Dissect problems, understand the challenge deeply.  
+2. 🛠️ **Build** – Convert concepts into working projects.  
+3. 🔍 **Debug** – Fail fast, fix faster, and extract lessons.  
+4. ✅ **Refine** – Optimize logic, polish UX, and ship scalable solutions.  
 
-⚡ Every line of code I write is a step toward **blending logic, creativity, and innovation into impactful software**.  
-
+⚡ Every line of code = a step toward blending **logic + creativity + innovation**.  
 
 ---
 
-
-## 📚 My Learning Journey 📈  
+# 📚 My Learning Journey 📈  
 
 **Mantra:** *Learn → Apply → Break → Fix → Repeat* 🔄  
 
-✅ Mastered recursion & core DSA concepts by solving 100+ problems.  
+✅ Mastered recursion & core DSA concepts (100+ problems solved).  
 ✅ Built **secure REST APIs** with Node.js + Express.js.  
-✅ Designed **responsive UIs** with accessibility in mind.  
+✅ Designed **responsive UIs** with accessibility focus.  
 
 ### 🔭 Currently Exploring:
-- ⚛️ **React + Next.js** – Building modern, scalable, SEO-friendly apps.  
-- 🍃 **MongoDB + Mongoose** – Harnessing NoSQL databases for dynamic data.  
-- 🔁 **CI/CD Pipelines** – Automating testing → building → deployment.  
-
+- ⚛️ **React + Next.js** → modern, scalable, SEO-friendly apps.  
+- 🍃 **MongoDB + Mongoose** → NoSQL databases for dynamic apps.  
+- 🔁 **CI/CD Pipelines** → automated testing → build → deployment.  
 
 ---
 
-
-## 🛠️ Tech Stack & Tools 🔧  
+# 🛠️ Tech Stack & Tools 🔧  
 
 ### 🎨 Frontend Development  
 <p align="center">
@@ -82,11 +78,9 @@ I follow a **Build-First Learning** approach 🧪:
   <img src="https://skillicons.dev/icons?i=java,cpp,python" />
 </p>  
 
-
 ---
 
-
-## 🏆 Courses & Practice Challenges 🥇  
+# 🏆 Courses & Practice Challenges 🥇  
 
 <table>
   <tr>
@@ -129,22 +123,18 @@ I follow a **Build-First Learning** approach 🧪:
   </tr>
 </table>  
 
+---
+
+# 🚀 Featured Projects 🌟  
+
+- 🎲 **Guess My Number** – Interactive game with DOM feedback. *(HTML, CSS, JS)*  
+- 🐷 **Pig Game** – Multiplayer dice game with live score tracking. *(HTML, CSS, JS)*  
+- 🏦 **Bankist App** – Banking simulation with login, transfers & account closure. *(HTML, CSS, JS)*  
+- 🔐 **Auth REST APIs** – Secure API with JWT + CRUD ops. *(Node.js, Express, MongoDB)*  
 
 ---
 
-
-## 🚀 Featured Projects 🌟  
-
-- 🎲 **Guess My Number** – Interactive number guessing game with DOM feedback. *(HTML, CSS, JS)*  
-- 🐷 **Pig Game** – Multiplayer dice game with real-time score tracking. *(HTML, CSS, JS)*  
-- 🏦 **Bankist App** – Banking simulation app with login, transfers & account closure. *(HTML, CSS, JS)*  
-- 🔐 **Auth REST APIs** – Secure API with JWT authentication & CRUD support. *(Node.js, Express, MongoDB)*  
-
-
----
-
-
-## 📊 GitHub Stats & Activity 📈  
+# 📊 GitHub Stats & Activity 📈  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -159,13 +149,11 @@ I follow a **Build-First Learning** approach 🧪:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" width="100%"/>
 </p>  
 
-
 ---
 
+# 🎯 2024–25 Roadmap 🗺️  
 
-## 🎯 2024–25 Roadmap 🗺️  
-
-🔑 The year ahead = **growth + impact** 🚀  
+🔑 **The year ahead = growth + impact 🚀**  
 
 - ✅ Master **Java + OOP**  
 - ✅ DSA grind on **GFG + LeetCode**  
@@ -178,11 +166,9 @@ I follow a **Build-First Learning** approach 🧪:
 - 🌍 Open-source contributions  
 - 📈 Always learning, always building  
 
-
 ---
 
-
-## 🤝 Let’s Connect! 👋  
+# 🤝 Let’s Connect! 👋  
 
 Collaboration > Competition 💯  
 Let’s share ideas, build projects, and grow together.  
@@ -193,13 +179,13 @@ Let’s share ideas, build projects, and grow together.
   <a href="mailto:xsouravkumar357@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>  
 
-
 ---
 
-
-## 💬 Final Words ✨  
+# 💬 Final Words ✨  
 
 Thanks for visiting my profile! 🙌  
-If you’re also **building from scratch, learning every day, and chasing impact**, let’s connect and **code the future** together.  
+
+If you’re also **building from scratch, learning every day, and chasing impact**, let’s connect and **code the future together**.  
+
 💻 Whether it’s **tech talk, debugging war stories, or real project collabs** — I’m always open.  
 🔥 Let’s **build, break, and innovate together**. 🚀  
