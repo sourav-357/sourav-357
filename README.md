@@ -1,7 +1,6 @@
 <!-- 🚀 Welcome Banner -->
-<p align="center">          
-  
-  <img  
+<p align="center"> 
+  <img 
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sourav+Kumar+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Web+Dev+%2B+Cloud+Explorer+☁️;App+Development+Enthusiast+📱;Code.+Build.+Iterate.+Repeat+🔥"  
     alt="Typing SVG"     
   />
