@@ -91,7 +91,6 @@ I follow a systematic **Build-First Learning** methodology that transforms theor
 </tr>
 </table>
 
-
 ### 🎯 Core Principles
 - ⚡ **Every line of code** I write is a step toward **blending logic, creativity, and innovation into impactful software**
 - 🔄 **Iterative Development**: Build → Test → Learn → Improve → Repeat
