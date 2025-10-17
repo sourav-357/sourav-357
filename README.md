@@ -5,7 +5,6 @@
     alt="Typing SVG"     
   />
 </p>   
-
         
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
