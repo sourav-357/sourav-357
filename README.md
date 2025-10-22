@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🌟+Hey+there!+I'm+Sourav+Kumar+🌟;💻+Full-Stack+Developer+%26+CS+Student+💻;🚀+Building+the+Future+One+Line+at+a+Time+🚀;⚡+Java+%26+DSA+Enthusiast+⚡;☁️+Cloud+%26+DevOps+Explorer+☁️;🎯+Available+for+Collaboration+%26+Internships+🎯" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+my+Digital+Universe+✨;🚀+Sourav+Kumar+%7C+Full-Stack+Developer+🚀;💻+Crafting+Digital+Experiences+with+Code+💻;⚡+Building+the+Future%2C+One+Commit+at+a+Time+⚡;🌟+Available+for+Collaboration+%26+Opportunities+🌟" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sourav%20Kumar&fontSize=100&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Innovation%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling&fontColor=ffffff" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 <div align="center">
@@ -10,14 +18,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sourav%20Kumar&fontSize=90&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Innovator&descAlignY=51&descAlign=50&animation=twinkling" alt="Header" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### 💡 My Story
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=I'm+a+passionate+Computer+Science+student+at+UCET+Hazaribagh+🎓;Driven+by+the+endless+possibilities+of+technology+💻;My+journey+is+fueled+by+curiosity%2C+persistence%2C+and+innovation+🚀;Creating+meaningful+digital+solutions+that+make+a+difference+✨" alt="Story" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=I'm+a+passionate+Computer+Science+student+at+UCET+Hazaribagh+🎓;Driven+by+the+endless+possibilities+of+technology+💻;My+journey+is+fueled+by+curiosity%2C+persistence%2C+and+innovation+🚀;Creating+meaningful+digital+solutions+that+make+a+difference+✨" alt="Story" />
 </div>
 
 <div align="center">
@@ -104,7 +104,7 @@
 
 ### 🎯 My Philosophy
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Code+with+purpose%2C+build+with+passion%2C+deploy+with+pride+⚡;Every+line+of+code+tells+a+story+📖;Innovation+is+the+key+to+the+future+🔑;Learning+never+stops%2C+growth+never+ends+🌱" alt="Philosophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Code+with+purpose%2C+build+with+passion%2C+deploy+with+pride+⚡;Every+line+of+code+tells+a+story+📖;Innovation+is+the+key+to+the+future+🔑;Learning+never+stops%2C+growth+never+ends+🌱" alt="Philosophy" />
 </div>
 
 <div align="center">
@@ -287,7 +287,7 @@
 
 ### 🔮 Upcoming Projects
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Building+the+Future+One+Project+at+a+Time+🚀;📱+React+Native+Mobile+App+📱;☁️+AWS+Cloud+Project+☁️;🤖+AI-Powered+Web+App+🤖;🔒+Advanced+Security+System+🔒" alt="Upcoming Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Building+the+Future+One+Project+at+a+Time+🚀;📱+React+Native+Mobile+App+📱;☁️+AWS+Cloud+Project+☁️;🤖+AI-Powered+Web+App+🤖;🔒+Advanced+Security+System+🔒" alt="Upcoming Projects" />
 </div>
 
 <table>
@@ -632,7 +632,7 @@
 
 ### 🔮 Long-term Vision (2025+)
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🏢+Industry+Experience%3A+Internships+and+real-world+projects+🏢;🎓+Advanced+Studies%3A+AI%2FML+or+Cloud+Computing+specialization+🎓;🌟+Community+Impact%3A+Teaching%2C+mentoring%2C+knowledge+sharing+🌟;🚀+Building+the+Future+of+Technology+🚀" alt="Long-term Vision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🏢+Industry+Experience%3A+Internships+and+real-world+projects+🏢;🎓+Advanced+Studies%3A+AI%2FML+or+Cloud+Computing+specialization+🎓;🌟+Community+Impact%3A+Teaching%2C+mentoring%2C+knowledge+sharing+🌟;🚀+Building+the+Future+of+Technology+🚀" alt="Long-term Vision" />
 </div>
 
 <div align="center">
@@ -800,7 +800,7 @@
 
 ### 🎯 Current Focus
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Building+the+next+big+thing+🚀;📱+Learning+React+Native+📱;🤖+Exploring+AI%2FML+🤖;☁️+Mastering+Cloud+Technologies+☁️;🔒+Advanced+Security+Systems+🔒;🌟+Creating+Impact+Through+Code+🌟" alt="Current Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Building+the+next+big+thing+🚀;📱+Learning+React+Native+📱;🤖+Exploring+AI%2FML+🤖;☁️+Mastering+Cloud+Technologies+☁️;🔒+Advanced+Security+Systems+🔒;🌟+Creating+Impact+Through+Code+🌟" alt="Current Focus" />
 </div>
 
 <div align="center">
@@ -817,7 +817,7 @@
 
 ### 🌟 My Commitment
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=If+you're+also+building+from+scratch%2C+learning+every+day%2C+and+chasing+impact+🚀;Let's+connect+and+code+the+future+together+💻;Whether+it's+tech+talk%2C+debugging+war+stories%2C+or+real+project+collaborations+🤝;I'm+always+open+to+meaningful+conversations+and+partnerships+✨" alt="Commitment" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=If+you're+also+building+from+scratch%2C+learning+every+day%2C+and+chasing+impact+🚀;Let's+connect+and+code+the+future+together+💻;Whether+it's+tech+talk%2C+debugging+war+stories%2C+or+real+project+collaborations+🤝;I'm+always+open+to+meaningful+conversations+and+partnerships+✨" alt="Commitment" />
 </div>
 
 <div align="center">
@@ -826,7 +826,7 @@
 
 ### 🚀 Let's Build Together
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines="Every+expert+was+once+a+beginner.+Every+pro+was+once+an+amateur.+Every+icon+was+once+an+unknown.+Don't+be+afraid+to+give+your+dreams+wings!"+✨" alt="Inspiration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines="Every+expert+was+once+a+beginner.+Every+pro+was+once+an+amateur.+Every+icon+was+once+an+unknown.+Don't+be+afraid+to+give+your+dreams+wings!"+✨" alt="Inspiration" />
 </div>
 
 <div align="center">
@@ -840,7 +840,7 @@
   <br>
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Sourav%20Kumar-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines="Code+with+passion%2C+build+with+purpose%2C+deploy+with+pride!"+⚡" alt="Signature" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines="Code+with+passion%2C+build+with+purpose%2C+deploy+with+pride!"+⚡" alt="Signature" />
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
