@@ -2,12 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+my+Digital+Universe+✨;🚀+Sourav+Kumar+%7C+Full-Stack+Developer+🚀;💻+Crafting+Digital+Experiences+with+Code+💻;⚡+Building+the+Future%2C+One+Commit+at+a+Time+⚡;🌟+Available+for+Collaboration+%26+Opportunities+🌟;🎯+Let's+Build+Something+Amazing+Together+🎯" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sourav%20Kumar&fontSize=100&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Innovation%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling&fontColor=ffffff" alt="Header" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sourav%20Kumar&fontSize=100&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Innovation%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling&fontColor=ffffff" alt="Header" />
 </div>
 
 <div align="center">
@@ -48,6 +46,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  <br>
+  
+Hey! I’m Sourav Kumar, a passionate Computer Science student at UCET Hazaribagh 🎓, driven by a commitment to innovation and impactful software development. Fueled by 💡 curiosity, 🧠 logic, and 💪 consistency, I specialize in crafting robust and scalable solutions with code! 💻
+
+With a solid foundation in Java and DSA, and hands-on experience in full-stack development (MERN stack), I thrive on transforming complex challenges into elegant, high-performance applications. I've actively contributed to open-source projects and honed my skills through rigorous problem-solving, consistently delivering functional and efficient code.
+
+My journey, rooted in Jharkhand 🇮🇳, has been shaped by continuous learning and a relentless pursuit of knowledge 🛠️. I am passionate about leveraging technology to create real-world value and am always eager to collaborate on projects that push the boundaries of what's possible.
 </div>
 
 <div align="center">
