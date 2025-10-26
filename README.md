@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+my+Digital+Universe+✨;🚀+Sourav+Kumar+%7C+Full-Stack+Developer+🚀;💻+Crafting+Digital+Experiences+with+Code+💻;⚡+Building+the+Future%2C+One+Commit+at+a+Time+⚡;🌟+Available+for+Collaboration+%26+Opportunities+🌟;🎯+Let's+Build+Something+Amazing+Together+🎯" alt="Typing SVG" />
 </div>
 
-
 <br>
 
 <div align="center">
