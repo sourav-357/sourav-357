@@ -1,6 +1,4 @@
 <!-- 🚀 Welcome Banner -->
-
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Sourav+Kumar+👋;CSE+Student+@+UCET+Hazaribagh;MERN+Stack+Developer+🌐;DSA+%26+Problem+Solving+⚙️;Building+Projects+That+Scale+🚀"  
