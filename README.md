@@ -1,67 +1,84 @@
-
 <!-- 🚀 Welcome Banner -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Sourav+Kumar+👋;CSE+Student+@+UCET+Hazaribagh;MERN+Stack+Developer+🌐;DSA+%26+Problem+Solving+⚙️;Building+Projects+That+Scale+🚀"  
-    alt="Typing SVG"     
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00C3FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sourav+Kumar+👋;CSE+Student+@+UCET+Hazaribagh;Full+Stack+%7C+DSA+Enthusiast;500%2B+DSA+Problems+Solved;Always+Learning+%26+Building+🚀"  
+    alt="Typing SVG"
   />
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile+Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile+Views&color=blue&style=flat" />
 </p>
 
 ---
 
 ## 📝 Table of Contents
 - [✨ About Me](#-about-me)
-- [🚀 What Drives Me](#-what-drives-me)
-- [🧠 Learning Journey](#-learning-journey)
+- [🚀 Highlights & Achievements](#-highlights--achievements)
+- [🧠 Learning Journey & Internships](#-learning-journey--internships)
 - [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
 - [🏆 Practice Profiles](#-practice-profiles)
 - [💻 Featured Projects](#-featured-projects)
 - [📊 GitHub Stats](#-github-stats)
-- [🎯 2024–25 Roadmap](#-202425-roadmap)
+- [🎯 Roadmap 2024–26](#-roadmap-202426)
 - [🤝 Connect With Me](#-connect-with-me)
-- [💬 Final Words](#-final-words)
+- [💬 Final Thoughts](#-final-thoughts)
 
 ---
 
 ## ✨ About Me
 
-Hey there! I’m **Sourav Kumar**, a passionate **Computer Science student at UCET Hazaribagh (B.Tech, 2024–2028)** with a relentless drive to achieve **20+ LPA** at a top product-based company.  
+Hi! I’m **Sourav Kumar**, a **CSE student (2024–2028)** driven by a simple mission:
 
-I’m deeply committed to **Data Structures, Algorithms, and Full Stack Development (MERN)** — constantly building, debugging, and optimizing real-world applications. I love solving complex problems and turning them into scalable, production-ready solutions.  
+**Build skills → Build projects → Build a great career.**
 
-> “I don’t believe in luck. I believe in relentless learning, daily consistency, and building what others just plan.”
+I’m passionate about:
+- Data Structures & Algorithms (500+ problems solved and counting)
+- Full Stack Development (MERN + Java backend)
+- System Design fundamentals  
+- Building meaningful products that scale
 
----
-
-## 🚀 What Drives Me
-
-> **Code. Build. Break. Rebuild. Repeat.**
-
-I follow a strict **Build-First Learning** approach:
-- 🧠 **Understand deeply:** Don’t just memorize — break concepts until they make sense.  
-- ⚙️ **Implement fast:** Apply theory into real-world code immediately.  
-- 🧩 **Debug & Learn:** Every bug is a chance to grow.  
-- 🚀 **Iterate:** Continuously refine performance and design.  
-
-My vision is clear — **crack FAANG-level interviews, master DSA, and build industry-grade full-stack products.**
+Every day is about getting **1% better** — whether it’s refining logic, writing cleaner code, or learning a new concept.
 
 ---
 
-## 🧠 Learning Journey
+## 🚀 Highlights & Achievements
 
-Currently focusing on:
-- **C++** for DSA mastery (LeetCode + GFG)
-- **JavaScript, React, Node.js, MongoDB** for development
-- **System Design fundamentals** for scalability and architecture
+- 🧩 **Solved 500+ DSA problems** across LeetCode, GFG & HackerRank  
+- 💻 **Completed 3 internships** in my first year itself  
+    - Frontend Developer @ Edunet (IBM)  
+    - Full Stack Developer @ iHUB DivyaSampark, IIT Roorkee  
+    - Java Developer @ CodSoft  
+- 🌐 Built **10+ real projects**, ranging from REST APIs to responsive web apps  
+- 🥇 Ranked in top performers in coding contests at college  
+- 📚 Strong foundation in C, Java, JavaScript & MERN technologies  
+- 🚀 Continuous learner aiming for **20–30 LPA roles by 6th–7th sem**
 
-### 🧩 Recent Progress
-- ✅ Solved 250+ DSA problems across LeetCode and GFG  
-- ✅ Built 5+ web projects using MERN Stack  
-- ✅ Learned and implemented RESTful APIs with JWT authentication  
+---
+
+## 🧠 Learning Journey & Internships
+
+### 📌 DSA Progress
+- Mastering DSA with Java  
+- Topics covered: Arrays, Strings, Recursion, Sorting, Searching, LinkedList, Stack/Queue basics  
+- Goal: **600+ problems by mid-2025**  
+
+### 📌 Internships
+
+#### ⭐ Frontend Developer — Edunet (IBM)
+- Built responsive UIs with HTML, CSS, JS  
+- Improved design-to-code translation  
+- Collaborated using Git, project workflows & documentation  
+
+#### ⭐ Full Stack Developer — iHUB DivyaSampark (IIT Roorkee)
+- Worked on frontend + backend modules  
+- Built APIs, handled database logic & designed UI components  
+- Exposure to real-world team collaboration & scalable design  
+
+#### ⭐ Java Developer — CodSoft
+- Built Java modules using OOP, collections, file handling  
+- Wrote clean, testable backend code  
+- Improved problem-solving using Java logic  
 
 ---
 
@@ -78,19 +95,20 @@ Currently focusing on:
 
 ### ⚙️ Backend
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
@@ -100,28 +118,31 @@ Currently focusing on:
 
 | Platform | Highlights | Profile |
 |-----------|-------------|----------|
-| **GeeksforGeeks** | 250+ problems solved | [View Profile](https://www.geeksforgeeks.org/user/sourav-357/) |
-| **LeetCode** | Active problem-solving | [View Profile](https://leetcode.com/sourav-357/) |
-| **HackerRank** | 5★ in Problem Solving (Java/C++) | [View Profile](https://www.hackerrank.com/dashboard) |
+| **GeeksforGeeks** | 300+ problems solved | [View](https://www.geeksforgeeks.org/user/sourav-357/) |
+| **LeetCode** | Active daily problem solving | [View](https://leetcode.com/sourav-357/) |
+| **HackerRank** | 5★ Problem Solving | [View](https://www.hackerrank.com/dashboard) |
 
 ---
 
 ## 💻 Featured Projects
 
-### 🏦 Bankist App
-- **Description:** A simulated modern banking app implementing login, transfer, and account closing.  
-- **Tech:** HTML, CSS, JavaScript  
-- [🔗 Source Code](https://github.com/sourav-357/Bankist-App)
+### 🔐 Auth REST API — MERN
+- Built secure authentication with JWT  
+- Login, register, verify, CRUD operations  
+- Production-ready folder structure  
 
 ### ✈️ Wanderlust Travel Website
-- **Description:** Full-fledged travel booking web app developed during internship — with dynamic UI and data integration.  
-- **Tech:** HTML, CSS, JavaScript  
-- [🔗 Source Code](https://github.com/sourav-357/Wanderlust-Travel)
+- Fully functional travel website  
+- Dynamic interactions + clean UI  
+- Developed during internship  
 
-### 🔐 Auth REST APIs
-- **Description:** Secure backend authentication system using JWT with CRUD operations.  
-- **Tech:** Node.js, Express.js, MongoDB  
-- [🔗 Source Code](https://github.com/sourav-357/Auth-REST-API)
+### 🏦 Bankist App
+- Simulated bank UI  
+- Realistic features: login, transfer, close account  
+
+### 📝 Notes App (Full Stack)
+- JWT auth + CRUD notes  
+- Built using MERN stack  
 
 ---
 
@@ -138,14 +159,23 @@ Currently focusing on:
 
 ---
 
-## 🎯 2024–25 Roadmap
+## 🎯 Roadmap 2024–26
 
-- ✅ Master C++ and DSA (Target: 500+ problems by mid-2025)  
-- ✅ Build 3+ full-stack projects using MERN  
-- ⚙️ Learn System Design fundamentals  
-- 🧩 Participate in 2–3 hackathons  
-- 🚀 Start open-source contributions  
-- 🎓 Prepare for internships and FAANG-level interviews (by 6th sem)
+### 📌 Skill Goals
+- Master DSA in Java (Target: 800+ problems)
+- Advanced Java + Spring Boot  
+- MERN stack deep dive  
+- System Design (HLD + LLD)
+
+### 📌 Project Goals
+- 5+ Full Stack major projects  
+- Expand API & microservice knowledge  
+- Start open-source contributions  
+
+### 📌 Career Goals
+- Secure internships by 3rd–4th semester  
+- Aim for **20–30 LPA** product-based roles  
+- Build a strong GitHub + LinkedIn presence  
 
 ---
 
@@ -160,13 +190,12 @@ Currently focusing on:
 
 ---
 
-## 💬 Final Words
+## 💬 Final Thoughts
 
-Thanks for visiting!  
-I’m constantly improving my skills and aiming for excellence through consistency and hard work.  
-
-Let’s connect, collaborate, and build something meaningful together! 🚀  
+Thanks for visiting my profile!  
+I believe in consistent growth, real projects, and deep problem-solving.  
+Let’s collaborate, build, and grow together. 🚀  
 
 ---
 
-📄 **License:** MIT License – see the [LICENSE](LICENSE) file for details.
+📄 License: MIT License – see the LICENSE file for details.
