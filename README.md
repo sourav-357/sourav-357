@@ -33,9 +33,11 @@
 
 ## ✨ About Me
 
-Hi! I’m **Sourav Kumar**, a **CSE student (2024–2028)** driven by a simple mission:
+Hi! I’m **Sourav Kumar**, a **CSE student (2024–2028)** at UCET, VBU. I’m passionate about building efficient, scalable systems and constantly evolving as a tech professional, driven by a simple mission:
 
 **Build skills → Build projects → Build a great career.**
+
+My academic interests span across core programming, system-level thinking, and leveraging technology to improve my problem solving skills. I strive to excel in Software Development by strengthening my programming skills and applying best practices to solve real-world problems.
 
 I’m passionate about:
 - Data Structures & Algorithms (500+ problems solved and counting)
@@ -87,46 +89,82 @@ Every day is about getting **1% better** — whether it’s refining logic, writ
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Tech Stack
 
-### 🎨 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,express,git,github,vscode,replit" />
 </p>
 
-### ⚙️ Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-</p>
+<div align="center">
 
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+| Category         | Tools / Technologies                                          |
+|------------------|--------------------------------------------------------------|
+| **Code Editors**     | **VS Code** – My primary development environment. <br> **Replit** – For quick online prototyping and sharing code. |
+| **Version Control**  | **Git** – Tracking code history and managing changes.<br> **GitHub** – Hosting, sharing, and collaborating on projects. |
+| **Deployment**       | **GitHub Pages** – Hosting static web pages.<br> **Netlify** – Exploring for frontend deployment and CI/CD. |
+
+</div>
 
 ---
 
 ## 🏆 Practice Profiles
 
-| Platform | Highlights | Profile |
-|-----------|-------------|----------|
-| **GeeksforGeeks** | 300+ problems solved | [View](https://www.geeksforgeeks.org/user/sourav-357/) |
-| **LeetCode** | Active daily problem solving | [View](https://leetcode.com/sourav-357/) |
-| **HackerRank** | 5★ Problem Solving | [View](https://www.hackerrank.com/dashboard) |
 
+My dedication to continuous learning is reflected in my coursework and competitive programming endeavors:
+
+<table>
+  <tr>
+    <td width="100px"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="80" /></td>
+    <td>
+      <strong>🔥 Java Mastery</strong><br>
+      <ul>
+        <li>✔️ Core Java: Solid foundation in OOP principles, Collections Framework, and Exception Handling. ☕</li>
+        <li>✔️ Advanced Topics: Proficient in File I/O operations, Multi-threading, and JDBC for database connectivity. 🛠️</li>
+        <li>✔️ Practical Experience: Developed several Command Line Interface (CLI) applications using pure Java, showcasing proficiency in object-oriented design. 🖥️</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="100px"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230403183704/gfg_logo.png" alt="GFG Logo" width="80" /></td>
+    <td>
+      <strong>🧠 DSA Practice – GeeksforGeeks</strong><br>
+      <ul>
+        <li>✔️ Foundational Data Structures: Strong understanding of Arrays, Strings, Stack, and Queue. 📚</li>
+        <li>✔️ Tree Structures: Successfully navigated and solved numerous problems related to Trees & Binary Search Trees, strengthening my foundational understanding. 🌳</li>
+        <li>⏳ Advanced Algorithms: Currently focusing on Graphs, Greedy Algorithms, and Dynamic Programming. 📈</li>
+      </ul>
+      <a href="https://www.geeksforgeeks.org/user/riyans8254/" target="_blank">🔗 GFG Profile</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" width="80" /></td>
+    <td>
+      <strong>🧩 Java Challenges – HackerRank + GFG</strong><br>
+      <ul>
+        <li>✅ Problem Solving: Successfully solved 50+ diverse Java problems. 💯</li>
+        <li>✅ Core Concepts: Focused on mastering Patterns, Loops, Arrays, and Recursion. 🔄</li>
+        <li>🧠 Logic Building: Engaged in regular logic-building and problem-solving sessions. 💡</li>
+      </ul>
+      <a href="https://www.hackerrank.com/dashboard" target="_blank">🔗HackerRank Profile</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="80" /></td>
+    <td>
+      <strong>⚡ DSA Practice – LeetCode</strong><br>
+      <ul>
+        <li>✔️ Diverse Problems: Successfully tackled 50+ LeetCode problems, mastering patterns in Arrays, Strings, HashMap, and Binary Search to optimize solutions. 🔍</li>
+        <li>⏳ Skill Enhancement: Actively practicing Medium & Hard level challenges to enhance problem-solving skills and algorithmic thinking. 💪</li>
+      </ul>
+      <a href="https://leetcode.com/problemset/" target="_blank">🔗 LeetCode Profile</a>
+    </td>
+  </tr>
+</table>
+
+<br>
 ---
 
 ## 💻 Featured Projects
@@ -151,16 +189,36 @@ Every day is about getting **1% better** — whether it’s refining logic, writ
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<br />
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" width="100%" />
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=radical&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
+</br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=radical&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-357&theme=radical" alt="Profile Summary" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
