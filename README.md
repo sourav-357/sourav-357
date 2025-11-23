@@ -161,6 +161,7 @@ My dedication to continuous learning is reflected in my coursework and competiti
 </table>
 
 <br>
+
 ---
 
 ## 💻 Featured Projects
