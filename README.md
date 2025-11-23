@@ -21,7 +21,7 @@
 
 <div align="center">
   
-[✨ About Me](#-about-me) [🚀 Highlights & Achievements](#-highlights--achievements) [🧠 Learning Journey & Internships](#-learning-journey--internships) [🛠️ Tech Stack](#%EF%B8%8F-tech-stack) [🏆 Practice     Profiles](#-practice-profiles) [💻 Featured Projects](#-featured-projects) [📊 GitHub Stats](#-github-stats) [🎯 Roadmap 2024–26](#-roadmap-202426) [🤝 Connect With Me](#-connect-with-me) [💬 Final Thoughts]   (#-final-thoughts)
+[✨ About Me](#-about-me) [🚀 Highlights & Achievements](#-highlights--achievements) [🧠 Learning Journey & Internships](#-learning-journey--internships) [🛠️ Tech Stack](#%EF%B8%8F-tech-stack) [🏆 Practice     Profiles](#-practice-profiles) [💻 Featured Projects](#-featured-projects) [📊 GitHub Stats](#-github-stats) [🎯 Roadmap 2024–26](#-roadmap-202426) [🤝 Connect With Me](#-connect-with-me) [💬 Final Thoughts](#-final-thoughts)
   
 </div>
 
