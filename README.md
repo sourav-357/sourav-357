@@ -219,6 +219,10 @@ My dedication to continuous learning is reflected in my coursework and competiti
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" width="100%"/>
+</p>
+
 ---
 
 ## 🎯 Roadmap 2024–26
