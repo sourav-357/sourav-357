@@ -206,21 +206,13 @@ My dedication to continuous learning is reflected in my coursework and competiti
 <table width="100%" align="center">
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=radical&hide_border=true" width="100%" />
-</td>
-</tr>
-</table>
-
-<table width="100%" align="center">
-<tr>
-<td>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-357&theme=radical" alt="Profile Summary" width="100%"/>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" width="80%"/>
 </p>
 
 ---
