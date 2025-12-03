@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sourav%20Kumar&fontSize=60&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20@%20UCET%20Hazaribagh%20%7C%20Passionate%20Tech%20Explorer%20&descAlignY=60&descAlign=center" alt="Welcome Banner" />
 </div>
 
-
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&theme=radical&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sourav+Kumar+👋;CSE+Student+@+UCET+Hazaribagh;Full+Stack+%7C+DSA+Enthusiast;500%2B+DSA+Problems+Solved;Always+Learning+%26+Building+🚀"  
