@@ -66,6 +66,8 @@ Every day is about getting **1% better** — whether it’s refining logic, writ
 - Topics covered: Arrays, Strings, Recursion, Sorting, Searching, LinkedList, Stack/Queue basics  
 - Goal: **600+ problems by mid-2025**  
 
+---
+
 ### 📌 Internships
 
 #### ⭐ Frontend Developer — Edunet (IBM)
