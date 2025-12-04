@@ -195,6 +195,9 @@ My dedication to continuous learning is reflected in my coursework and competiti
 <tr>
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" width="100%" />
+  <img src="https://gprm.itsvg.in/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-git-main-kittinan.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" width="100%" />
+
 </td>
 <td>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=radical&hide_border=true" width="100%" />
