@@ -189,34 +189,31 @@ My dedication to continuous learning is reflected in my coursework and competiti
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
 
-<br />
-<table width="100%" align="center">
+<!-- Primary GitHub Stats (reliable services only) -->
+<table>
 <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" width="100%" />
-  <img src="https://gprm.itsvg.in/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" width="100%" />
-  <img src="https://github-readme-stats-git-main-kittinan.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" width="100%" />
-
+<td width="50%">
+  <img src="https://gprm.itsvg.in/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=radical&hide_border=true" width="100%" />
-</td>
-</tr>
-</table>
-</br>
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-357&theme=radical" alt="Profile Summary" width="100%"/>
+<td width="50%">
+  <img src="https://github-readme-stats-git-main-kittinan.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" width="80%"/>
-</p>
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-357&theme=radical" alt="Profile Summary" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" alt="GitHub Activity" />
+
+</div>
+
 
 ---
 
