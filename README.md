@@ -105,89 +105,6 @@ Every day is about getting **1% better** — whether it’s refining logic, writ
 
 ---
 
-## 🏆 Practice Profiles
-
-
-My dedication to continuous learning is reflected in my coursework and competitive programming endeavors:
-
-<table>
-  <tr>
-    <td width="100px"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="80" /></td>
-    <td>
-      <strong>🔥 Java Mastery</strong><br>
-      <ul>
-        <li>✔️ Core Java: Solid foundation in OOP principles, Collections Framework, and Exception Handling. ☕</li>
-        <li>✔️ Advanced Topics: Proficient in File I/O operations, Multi-threading, and JDBC for database connectivity. 🛠️</li>
-        <li>✔️ Practical Experience: Developed several Command Line Interface (CLI) applications using pure Java, showcasing proficiency in object-oriented design. 🖥️</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="100px"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230403183704/gfg_logo.png" alt="GFG Logo" width="80" /></td>
-    <td>
-      <strong>🧠 DSA Practice – GeeksforGeeks</strong><br>
-      <ul>
-        <li>✔️ Foundational Data Structures: Strong understanding of Arrays, Strings, Stack, and Queue. 📚</li>
-        <li>✔️ Tree Structures: Successfully navigated and solved numerous problems related to Trees & Binary Search Trees, strengthening my foundational understanding. 🌳</li>
-        <li>⏳ Advanced Algorithms: Currently focusing on Graphs, Greedy Algorithms, and Dynamic Programming. 📈</li>
-      </ul>
-      <a href="https://www.geeksforgeeks.org/user/riyans8254/" target="_blank">🔗 GFG Profile</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" width="80" /></td>
-    <td>
-      <strong>🧩 Java Challenges – HackerRank + GFG</strong><br>
-      <ul>
-        <li>✅ Problem Solving: Successfully solved 50+ diverse Java problems. 💯</li>
-        <li>✅ Core Concepts: Focused on mastering Patterns, Loops, Arrays, and Recursion. 🔄</li>
-        <li>🧠 Logic Building: Engaged in regular logic-building and problem-solving sessions. 💡</li>
-      </ul>
-      <a href="https://www.hackerrank.com/dashboard" target="_blank">🔗HackerRank Profile</a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="80" /></td>
-    <td>
-      <strong>⚡ DSA Practice – LeetCode</strong><br>
-      <ul>
-        <li>✔️ Diverse Problems: Successfully tackled 50+ LeetCode problems, mastering patterns in Arrays, Strings, HashMap, and Binary Search to optimize solutions. 🔍</li>
-        <li>⏳ Skill Enhancement: Actively practicing Medium & Hard level challenges to enhance problem-solving skills and algorithmic thinking. 💪</li>
-      </ul>
-      <a href="https://leetcode.com/problemset/" target="_blank">🔗 LeetCode Profile</a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## 💻 Featured Projects
-
-### 🔐 Auth REST API — MERN
-- Built secure authentication with JWT  
-- Login, register, verify, CRUD operations  
-- Production-ready folder structure  
-
-### ✈️ Wanderlust Travel Website
-- Fully functional travel website  
-- Dynamic interactions + clean UI  
-- Developed during internship  
-
-### 🏦 Bankist App
-- Simulated bank UI  
-- Realistic features: login, transfer, close account  
-
-### 📝 Notes App (Full Stack)
-- JWT auth + CRUD notes  
-- Built using MERN stack  
-
----
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 
@@ -217,25 +134,6 @@ My dedication to continuous learning is reflected in my coursework and competiti
 
 ---
 
-## 🎯 Roadmap 2024–26
-
-### 📌 Skill Goals
-- Master DSA in Java (Target: 800+ problems)
-- Advanced Java + Spring Boot  
-- MERN stack deep dive  
-- System Design (HLD + LLD)
-
-### 📌 Project Goals
-- 5+ Full Stack major projects  
-- Expand API & microservice knowledge  
-- Start open-source contributions  
-
-### 📌 Career Goals
-- Secure internships by 3rd–4th semester  
-- Aim for **20–30 LPA** product-based roles  
-- Build a strong GitHub + LinkedIn presence  
-
----
 
 ## 🤝 Connect With Me
 
