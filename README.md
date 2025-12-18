@@ -80,10 +80,10 @@ My academic interests span across core programming, system-level thinking, and l
 
 | Platform | Profile | Activity |
 |----------|---------|----------|
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="35"/><br><sub>[**GeeksforGeeks**](https://geeksforgeeks.org/user/kavita_mahato/)</sub></p> | **[kavita_mahato](https://geeksforgeeks.org/user/kavita_mahato/)**| Strengthening DSA concepts in Java |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35"/><br><sub>[**LeetCode**](https://leetcode.com/kavita-mahato/)</sub></p> | **[kavita-mahato](https://leetcode.com/kavita-mahato/)**| Practicing DSA problems using Java |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width="50"/><br><sub>[**CodeChef**](https://www.codechef.com/users/kavita_mahato)</sub></p> | **[kavita_mahato](https://www.codechef.com/users/kavita_mahato)**| Practicing JavaScript & coding skills |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="35"/><br><sub>[**HackerRank**](https://www.hackerrank.com/kavita_mahato)</sub></p> | **[kavita_mahato](https://www.hackerrank.com/kavita_mahato)**| Solving Java programming challenges |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="35"/><br><sub>[**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/souravkucnzr)</sub></p> | **[Sourav Kumar](https://www.geeksforgeeks.org/profile/souravkucnzr)**| Strengthening DSA concepts in Java |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35"/><br><sub>[**LeetCode**](https://leetcode.com/u/Sourav_357/)</sub></p> | **[Sourav Kumar](https://leetcode.com/u/Sourav_357/)**| Practicing DSA problems using Java |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width="50"/><br><sub>[**CodeChef**](https://www.codechef.com/users/kavita_mahato)</sub></p> | **[Sourav Kumar](https://www.codechef.com/users/kavita_mahato)**| Practicing JavaScript & coding skills |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="35"/><br><sub>[**HackerRank**](https://www.hackerrank.com/kavita_mahato)</sub></p> | **[Sourav Kumar](https://www.hackerrank.com/kavita_mahato)**| Solving Java programming challenges |
 
 </div>
 
@@ -115,21 +115,11 @@ My academic interests span across core programming, system-level thinking, and l
 </table>
 </br>
 
-<table width="100%" align="center">
 <tr>
 <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=radical&hide_border=true" width="100%" />
 </td>
 </tr>
-</table>
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-357&theme=radical" alt="Profile Summary" width="100%"/>
-</td>
-</tr>
-</table>
 
 <!-- Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-357&theme=radical" alt="Profile Summary" />
