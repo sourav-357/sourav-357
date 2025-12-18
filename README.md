@@ -29,68 +29,38 @@
 
 ## ✨ About Me
 
-Hi! I’m **Sourav Kumar**, a **CSE student (2024–2028)** at UCET, VBU. I’m passionate about building efficient, scalable systems and constantly evolving as a tech professional, driven by a simple mission:
-
-**Build skills → Build projects → Build a great career.**
+Hello! I'm **Sourav Kumar**, a first-year B.Tech. student majoring in **Computer Science** at UCET, VBU. I’m passionate about building efficient, scalable systems and constantly evolving as a tech professional.
 
 My academic interests span across core programming, system-level thinking, and leveraging technology to improve my problem solving skills. I strive to excel in Software Development by strengthening my programming skills and applying best practices to solve real-world problems.
 
-I’m passionate about:
-- Data Structures & Algorithms (500+ problems solved and counting)
-- Full Stack Development (MERN + Java backend)
-- System Design fundamentals  
-- Building meaningful products that scale
-
-Every day is about getting **1% better** — whether it’s refining logic, writing cleaner code, or learning a new concept.
-
 ---
 
-## 🚀 Highlights & Achievements
+## 💡 Technical Proficiencies
 
-- 🧩 **Solved 500+ DSA problems** across LeetCode, GFG & HackerRank  
-- 💻 **Completed 3 internships** in my first year itself  
-    - Frontend Developer @ Edunet (IBM)  
-    - Full Stack Developer @ iHUB DivyaSampark, IIT Roorkee  
-    - Java Developer @ CodSoft  
-- 🌐 Built **10+ real projects**, ranging from REST APIs to responsive web apps  
-- 🥇 Ranked in top performers in coding contests at college  
-- 📚 Strong foundation in C, Java, JavaScript & MERN technologies  
-- 🚀 Continuous learner aiming for **20–30 LPA roles by 6th–7th sem**
+### 🧑‍💻 Programming Languages
+- JAVA (Actively learning with DSA focus) – Developing problem-solving skills using OOP and core Java concepts.
+- C  *(proficient)* -  My foundational language for understanding memory, pointers, and logic building.
+- C++  *(basic understading)*
+- JavaScript – For building dynamic user interfaces and handling web interactivity.
+- Python - Strong foundation in fundamentals and control flow.
 
----
+### 🎨 Frontend Technologies
+- **HTML5** – Structuring modern web content with semantic tags.  
+- **CSS3** – Styling and layout techniques including Flexbox and Grid.  
+- **JavaScript (DOM & Events)** – Making static pages interactive and responsive.  
 
-## 🧠 Learning Journey & Internships
+## 🖥️ Backend Technologies *(Exploring)*
 
-### 📌 DSA Progress
-- Mastering DSA with Java  
-- Topics covered: Arrays, Strings, Recursion, Sorting, Searching, LinkedList, Stack/Queue basics  
-- Goal: **600+ problems by mid-2025**  
-
----
-
-### 📌 Internships
-
-#### ⭐ Frontend Developer — Edunet (IBM)
-- Built responsive UIs with HTML, CSS, JS  
-- Improved design-to-code translation  
-- Collaborated using Git, project workflows & documentation  
-
-#### ⭐ Full Stack Developer — iHUB DivyaSampark (IIT Roorkee)
-- Worked on frontend + backend modules  
-- Built APIs, handled database logic & designed UI components  
-- Exposure to real-world team collaboration & scalable design  
-
-#### ⭐ Java Developer — CodSoft
-- Built Java modules using OOP, collections, file handling  
-- Wrote clean, testable backend code  
-- Improved problem-solving using Java logic  
-
+- **Basic Node.js & Express.js** – Getting started with server-side development and APIs.  
+- **REST APIs (Intro)** – Understanding request/response architecture for client-server communication.  
+- **CLI Tools** – Using command-line for file manipulation and simple automation.
+  
 ---
 
 ## 🛠️ Tools & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,express,git,github,vscode,replit" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,express,git,github,vscode,replit,react,mongodb" />
 </p>
 
 <div align="center">
@@ -104,24 +74,62 @@ Every day is about getting **1% better** — whether it’s refining logic, writ
 </div>
 
 ---
+  
+ ## 📌 Coding Profiles
+<div align="center">
+
+| Platform | Profile | Activity |
+|----------|---------|----------|
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="35"/><br><sub>[**GeeksforGeeks**](https://geeksforgeeks.org/user/kavita_mahato/)</sub></p> | **[kavita_mahato](https://geeksforgeeks.org/user/kavita_mahato/)**| Strengthening DSA concepts in Java |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35"/><br><sub>[**LeetCode**](https://leetcode.com/kavita-mahato/)</sub></p> | **[kavita-mahato](https://leetcode.com/kavita-mahato/)**| Practicing DSA problems using Java |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width="50"/><br><sub>[**CodeChef**](https://www.codechef.com/users/kavita_mahato)</sub></p> | **[kavita_mahato](https://www.codechef.com/users/kavita_mahato)**| Practicing JavaScript & coding skills |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="35"/><br><sub>[**HackerRank**](https://www.hackerrank.com/kavita_mahato)</sub></p> | **[kavita_mahato](https://www.hackerrank.com/kavita_mahato)**| Solving Java programming challenges |
+
+</div>
+
+---
+
+ ## 🎯 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/learning-DSA%20in%20Java-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/building-Full%20Stack%20Projects-orange?style=for-the-badge&logo=webcomponents.org&logoColor=white" />
+</p>
+
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 
 <!-- Primary GitHub Stats (reliable services only) -->
-<table>
+<br />
+<table width="100%" align="center">
 <tr>
-<td width="50%">
-  <img src="https://gprm.itsvg.in/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" width="100%" />
 </td>
-<td width="50%">
-  <img src="https://github-readme-stats-git-main-kittinan.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=radical&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
+</br>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=radical&hide_border=true" width="100%" />
 </td>
 </tr>
 </table>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=radical&hide_border=true" alt="GitHub Streak" />
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-357&theme=radical" alt="Profile Summary" width="100%"/>
+</td>
+</tr>
+</table>
 
 <!-- Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-357&theme=radical" alt="Profile Summary" />
