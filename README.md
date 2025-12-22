@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://leetcode.com/u/Sourav_357/"><img src="https://img.shields.io/badge/LeetCode-300%2B-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/souravkucnzr"><img src="https://img.shields.io/badge/GfG-300%2B-8134AF?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Sourav_357/"><img src="https://img.shields.io/badge/LeetCode-200%2B-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/souravkucnzr"><img src="https://img.shields.io/badge/GfG-150%2B-8134AF?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Currently seeking **Software Engineering internships** for Summer 2026. Experien
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-357&theme=react&hide_border=true&background=0f111a" />
+  <img src="https://streak-stats.demolab.com/?user=sourav-357" alt="Streak Stats" />
 </div>
 
 ---
