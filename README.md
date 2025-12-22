@@ -14,7 +14,7 @@
   </a>
 </p>
 
----
+***
 
 ## 🏗️ Engineering Philosophy
 
@@ -23,7 +23,7 @@
 CSE undergrad at **Vinoba Bhave University** (7.7 CGPA), focused on full‑stack development and strong DSA fundamentals.  
 Working towards **Summer 2026 Software Engineering internships** with a mix of real projects and 300+ problems on LeetCode & GFG.
 
----
+***
 
 ## 🔥 Production Projects
 
@@ -33,7 +33,7 @@ Working towards **Summer 2026 Software Engineering internships** with a mix of r
 | **NASA Mission Control** | NASA Kepler mission dashboard with CSV ingestion, habitable planet filtering, launch CRUD APIs, and responsive UI | React, Node.js, Express, MongoDB | [GitHub](https://github.com/sourav-357/Nasa-launch) |
 | **Crypto World** | Real-time crypto dashboard using public APIs, dynamic search, infinite scroll, and responsive Tailwind UI | React, Public APIs, Tailwind CSS | [Live](https://crypto-world-ok55.vercel.app) |
 
-> 💡 Pin these three repositories on your profile so they appear right under this README.
+> 💡 Other exciting projects are in the repo list section. 
 
 ---
 
@@ -47,21 +47,20 @@ Working towards **Summer 2026 Software Engineering internships** with a mix of r
 - Completed structured full‑stack training with Node.js, Express, and MongoDB.  
 - Designed **12 REST APIs** for authentication, profile matching, and connection workflows.
 
----
+***
 
 ## 🛠️ Tech Stack
 
-const souravStack = {
-languages: ["Java (DSA)", "JavaScript ES6+", "C/C++", "Python"],
-frontend: ["React", "HTML5", "CSS3", "Tailwind CSS"],
-backend: ["Node.js", "Express.js", "REST APIs", "JWT Auth"],
-database: ["MongoDB", "Mongoose"],
-tools: ["Git", "GitHub", "Postman", "VS Code", "Vercel"],
-interests: ["System Design", "Scalable Architectures", "Performance Optimization"]
+const souravStack = {  
+&nbsp;&nbsp;languages: ["Java (DSA)", "JavaScript ES6+", "C/C++", "Python"],  
+&nbsp;&nbsp;frontend: ["React", "HTML5", "CSS3", "Tailwind CSS"],  
+&nbsp;&nbsp;backend: ["Node.js", "Express.js", "REST APIs", "JWT Auth"],  
+&nbsp;&nbsp;database: ["MongoDB", "Mongoose"],  
+&nbsp;&nbsp;tools: ["Git", "GitHub", "Postman", "VS Code", "Vercel"],  
+&nbsp;&nbsp;interests: ["System Design", "Scalable Architectures", "Performance Optimization"]  
 };
 
-
----
+***
 
 ## 📈 GitHub & DSA Stats
 
@@ -71,14 +70,25 @@ interests: ["System Design", "Scalable Architectures", "Performance Optimization
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sourav-357&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?user=sourav-357&theme=react&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<!-- Extra Pinned Repos (shows more than 6) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourav-357&repo=Dev-Tinder&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourav-357&repo=Nasa-launch&theme=react&hide_border=true" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 **Problem Solving**:  
 - 300+ problems across **Arrays, Strings, Hashing, Recursion, Sorting, Searching, Trees, Graphs, DP** on LeetCode & GFG.  
 - Focused on writing clean, optimized solutions with good time–space tradeoffs.
 
----
+***
 
 ## 🎯 Current Focus (2024–26)
 
