@@ -1,158 +1,79 @@
-<!-- 🚀 Welcome Banner -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sourav%20Kumar&fontSize=60&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20@%20UCET%20Hazaribagh%20%7C%20Passionate%20Tech%20Explorer%20&descAlignY=60&descAlign=center" alt="Welcome Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sourav+Kumar!+%F0%9F%91%8B;Building+scalable+full-stack+apps;300%2B+LeetCode+%26+GFG+solved;Open+to+collaborations+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&theme=radical&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sourav+Kumar+👋;CSE+Student+@+UCET+Hazaribagh;Full+Stack+%7C+DSA+Enthusiast;500%2B+DSA+Problems+Solved;Always+Learning+%26+Building+🚀"  
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://leetcode.com/u/Sourav_357/"><img src="https://img.shields.io/badge/LeetCode-300%2B-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/souravkucnzr"><img src="https://img.shields.io/badge/GfG-300%2B-8134AF?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📝 Table of Contents
+## About Me
+CSE undergrad at **Vinoba Bhave University** (7.7 CGPA). Passionate about crafting scalable full-stack applications and mastering DSA for system design. Currently building production-grade projects with React, Node.js, and MongoDB while grinding 300+ problems on LeetCode & GFG [file:1][web:6].
+
+Currently seeking **Software Engineering internships** for Summer 2026. Experienced in end-to-end development from real-world projects like **DevTinder** (JWT auth, 15+ REST APIs) and **NASA Mission Control** (Kepler data processing) [file:1].
+
+---
+
+## Featured Projects
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **[DevTinder](https://github.com/sourav-357/Dev-Tinder)** | Production-style developer networking platform with JWT auth, protected routes, paginated discovery feed, and connection workflows (interested/ignored/accepted/rejected) | React, Node.js, Express, MongoDB, JWT | [GitHub](https://github.com/sourav-357/Dev-Tinder) |
+| **[NASA Mission Control](https://github.com/sourav-357/Nasa-launch)** | Full-stack app processing NASA Kepler data to identify habitable exoplanets. Features CSV ingestion, launch CRUD APIs, and responsive dashboard | React, Node.js, Express, MongoDB | [GitHub](https://github.com/sourav-357/Nasa-launch) |
+| **[Crypto World](https://crypto-world-ok55.vercel.app)** | Real-time cryptocurrency dashboard integrating multiple public APIs with dynamic search and responsive design | React, Public APIs, Tailwind CSS | [Live Demo](https://crypto-world-ok55.vercel.app) [file:1] |
+
+---
+
+## Experience
+- **Frontend Web Developer Intern @ Edunet Foundation** (Aug-Sep 2025): Built & deployed **WonderLust** travel website with interactive UI, form validation, and mobile-first design [file:1].
+- **Full Stack Trainee @ iHub DivyaSampark, IIT Roorkee** (Oct 2024-Jan 2025): Designed 12 REST APIs for authentication & profile matching workflows [file:1].
+
+---
+
+## Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,java,cpp,html,css,tailwind,git,github,vscode&perline=8" />
+</div>
+
+**Languages**: Java (DSA), JavaScript ES6+, C/C++, Python  
+**Full Stack**: React, Node.js, Express, MongoDB, Mongoose, REST APIs, JWT  
+**Tools**: Git/GitHub, Postman, VS Code [file:1]
+
+---
+
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=react&hide_border=true&bg_color=0f111a&title_color=f1f1f1&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=react&hide_border=true&bg_color=0f111a&title_color=f1f1f1&text_color=c9d1d9" width="41%" />
+</div>
 
 <div align="center">
-  
-[✨ About Me](#-about-me) [🚀 Highlights & Achievements](#-highlights--achievements) [🧠 Learning Journey & Internships](#-learning-journey--internships) [🛠️ Tech Stack](#%EF%B8%8F-tech-stack) [🏆 Practice     Profiles](#-practice-profiles) [💻 Featured Projects](#-featured-projects) [📊 GitHub Stats](#-github-stats) [🎯 Roadmap 2024–26](#-roadmap-202426) [🤝 Connect With Me](#-connect-with-me) [💬 Final Thoughts](#-final-thoughts)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-357&theme=react&hide_border=true&background=0f111a" />
 </div>
 
 ---
 
-## ✨ About Me
+## Currently Learning & Building
+- 🔄 **Advanced DSA**: Trees, Graphs, DP, System Design patterns
+- 🛠️ **Full Stack Mastery**: Next.js 15, TypeScript, Docker
+- 🎯 **Target**: FAANG-level internships through consistent contributions & open source [web:4]
 
-Hello! I'm **Sourav Kumar**, a first-year B.Tech. student majoring in **Computer Science** at UCET, VBU. I’m passionate about building efficient, scalable systems and constantly evolving as a tech professional.
-
-My academic interests span across core programming, system-level thinking, and leveraging technology to improve my problem solving skills. I strive to excel in Software Development by strengthening my programming skills and applying best practices to solve real-world problems.
+**📈 LeetCode Progression**: 300+ problems (Arrays, Strings, Hashing, Recursion, Sorting) [file:1]
 
 ---
 
-## 💡 Technical Proficiencies
-
-### 🧑‍💻 Programming Languages
-- JAVA (Actively learning with DSA focus) – Developing problem-solving skills using OOP and core Java concepts.
-- C  *(proficient)* -  My foundational language for understanding memory, pointers, and logic building.
-- C++  *(basic understading)*
-- JavaScript – For building dynamic user interfaces and handling web interactivity.
-- Python - Strong foundation in fundamentals and control flow.
-
-### 🎨 Frontend Technologies
-- **HTML5** – Structuring modern web content with semantic tags.  
-- **CSS3** – Styling and layout techniques including Flexbox and Grid.  
-- **JavaScript (DOM & Events)** – Making static pages interactive and responsive.  
-
-## 🖥️ Backend Technologies *(Exploring)*
-
-- **Basic Node.js & Express.js** – Getting started with server-side development and APIs.  
-- **REST APIs (Intro)** – Understanding request/response architecture for client-server communication.  
-- **CLI Tools** – Using command-line for file manipulation and simple automation.
-  
----
-
-## 🛠️ Tools & Tech Stack
-
+## Connect
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,express,git,github,vscode,replit,react,mongodb" />
+  <a href="https://linkedin.com/in/sourav357"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:xsouravkumar357@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sourav-357?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="tel:+919693547456"><img src="https://img.shields.io/badge/Phone-009688?style=for-the-badge&logo=phone&logoColor=white" /></a>
 </p>
 
 <div align="center">
-
-| Category         | Tools / Technologies                                          |
-|------------------|--------------------------------------------------------------|
-| **Code Editors**     | **VS Code** – My primary development environment. <br> **Replit** – For quick online prototyping and sharing code. |
-| **Version Control**  | **Git** – Tracking code history and managing changes.<br> **GitHub** – Hosting, sharing, and collaborating on projects. |
-| **Deployment**       | **GitHub Pages** – Hosting static web pages.<br> **Netlify** – Exploring for frontend deployment and CI/CD. |
-
+  <strong>Let's build something awesome together! 🚀</strong>
 </div>
 
 ---
-  
- ## 📌 Coding Profiles
-<div align="center">
-
-| Platform | Profile | Activity |
-|----------|---------|----------|
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="35"/><br><sub>[**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/souravkucnzr)</sub></p> | **[Sourav Kumar](https://www.geeksforgeeks.org/profile/souravkucnzr)**| Strengthening DSA concepts in Java |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35"/><br><sub>[**LeetCode**](https://leetcode.com/u/Sourav_357/)</sub></p> | **[Sourav Kumar](https://leetcode.com/u/Sourav_357/)**| Practicing DSA problems using Java |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width="50"/><br><sub>[**CodeChef**](https://www.codechef.com/users/kavita_mahato)</sub></p> | **[Sourav Kumar](https://www.codechef.com/users/kavita_mahato)**| Practicing JavaScript & coding skills |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="35"/><br><sub>[**HackerRank**](https://www.hackerrank.com/kavita_mahato)</sub></p> | **[Sourav Kumar](https://www.hackerrank.com/kavita_mahato)**| Solving Java programming challenges |
-
-</div>
-
----
-
- ## 🎯 Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/learning-DSA%20in%20Java-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/building-Full%20Stack%20Projects-orange?style=for-the-badge&logo=webcomponents.org&logoColor=white" />
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<div align="center">
-
-<!-- Primary GitHub Stats (reliable services only) -->
-<br />
-<table width="100%" align="center">
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=radical&hide_border=true" width="100%" />
-</td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav-357&theme=radical&hide_border=true" width="100%" />
-</td>
-</tr>
-</table>
-</br>
-
-
-<!-- Profile Summary -->
-<br />
-<table width="100%" align="center">
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=radical&hide_border=true" width="100%" />
-</td>
-</tr>
-</table>
-</br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-357&theme=react-dark" alt="GitHub Activity" />
-
-</div>
-
-
----
-
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/sourav-357"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sourav357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sourav357@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/sourav-357/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
-
----
-
-## 💬 Final Thoughts
-
-Thanks for visiting my profile!  
-I believe in consistent growth, real projects, and deep problem-solving.  
-Let’s collaborate, build, and grow together. 🚀  
-
----
-
-📄 License: MIT License – see the LICENSE file for details.
