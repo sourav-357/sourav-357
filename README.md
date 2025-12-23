@@ -67,18 +67,39 @@ Computer Science Engineering student at **Vinoba Bhave University** with a stron
 
 ---
 
-## 🛠️ Technical Skills
+---
 
-<div align="center">
-  
-| **Languages** | **Frontend** | **Backend** | **Database** | **Tools & Others** |
-|:---:|:---:|:---:|:---:|:---:|
-| Java | React | Node.js | MongoDB | Git & GitHub |
-| JavaScript (ES6+) | HTML5 | Express.js | Mongoose | Postman |
-| Python | CSS3 | REST APIs | | VS Code |
-| C/C++ | Tailwind CSS | JWT Auth | | Vercel |
+## 🛠 Tech Arsenal
 
-</div>
+### Languages
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
+![C++](https://img.shields.io-badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![REST](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+
 
 ---
 
