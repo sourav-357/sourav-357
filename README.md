@@ -7,7 +7,7 @@
   🎯 Actively seeking **Summer 2026 Software Engineering Internships**
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success" />
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-created" />
     <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
   
