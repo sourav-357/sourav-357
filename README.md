@@ -69,20 +69,15 @@ Computer Science Engineering student at **Vinoba Bhave University** with a stron
 
 ## 🛠 Technical Skills
 
-**Languages:**  
-Java, JavaScript (ES6+), C, C++, Python  
+**Languages:** : Java, JavaScript (ES6+), C, C++, Python  
 
-**Frontend:**  
-React, HTML5, CSS3, Tailwind CSS  
+**Frontend:** : React, HTML5, CSS3, Tailwind CSS  
 
-**Backend:**  
-Node.js, Express.js, REST APIs  
+**Backend:** : Node.js, Express.js, REST APIs  
 
-**Database:**  
-MongoDB, Mongoose  
+**Database:** : MongoDB, Mongoose  
 
-**Tools:**  
-Git, GitHub, Postman, VS Code, Vercel
+**Tools:** : Git, GitHub, Postman, VS Code, Vercel
 
 
 ---
