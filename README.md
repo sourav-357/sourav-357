@@ -100,16 +100,28 @@ Computer Science Engineering student at **Vinoba Bhave University** with a stron
 ---
 
 ## 📈 GitHub Statistics
+<p align="center">
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=86400)
+<img src="https://img.shields.io/badge/GitHub%20User-sourav--357-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=86400)
+<img src="https://img.shields.io/badge/Profile%20Views-Visitor-0D1117?style=for-the-badge&logo=eye&logoColor=white" />
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=sourav-357&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-  
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Language-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Language-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Language-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Tools-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Tools-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
 
 ---
 
