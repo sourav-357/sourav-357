@@ -24,42 +24,19 @@ I work with a **backend-first engineering mindset**, emphasizing:
 
 ---
 
-## ⭐ Flagship Project
+## Projects
 
-### Production-Grade Learning Management System (LMS)
-**MERN · AI · Payments · Analytics**
+### Learning Management System (LMS) - (**MERN · AI · Payments · Analytics**)
 
 🔗 **Live Preview:** https://edutech-lms-platform-steel.vercel.app/  
 📦 **GitHub Repository:** https://github.com/sourav-357/edutech-lms-platform
 
-- Built a **commercial-grade edtech LMS** inspired by real startup platforms
-- Implemented **JWT authentication with httpOnly cookies** and strict role-based access (Admin/User)
-- Designed **Stripe payment pipeline** with order verification and enrollment consistency
-- Integrated **Google Gemini AI** for:
-  - Natural-language course discovery
-  - Automatic MCQ quiz generation with explanations
-- Developed **admin analytics dashboard** (users, revenue, enrollments, daily metrics)
-- Implemented scalable systems for courses, modules, quizzes, comments, and purchases
-- Handled secure media uploads using **Cloudinary**
-- Backend-first architecture with modular controllers, routes, and middleware
-
-**Engineering Highlights**
 - 25+ REST APIs across auth, courses, payments, analytics, and AI services
 - Schema-level access control (hidden courses, purchased content)
 - Environment-based configuration and secure secret handling
 - Production-style error handling and validation
 
-**Tech Stack**
-- **Frontend:** React 19, Vite, Tailwind CSS, Context API  
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose  
-- **Auth & Security:** JWT, bcrypt  
-- **Payments:** Stripe  
-- **AI:** Google Gemini  
-- **Media:** Cloudinary  
-
 ---
-
-## Projects
 
 ### DevTinder — Developer Networking Platform
 **React · Node · Express · MongoDB · JWT**
