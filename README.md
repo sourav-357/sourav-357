@@ -26,7 +26,8 @@ I work with a **backend-first engineering mindset**, emphasizing:
 
 ## Projects
 
-### Learning Management System (LMS) - (**MERN · AI · Payments · Analytics**)
+### Learning Management System (LMS) 
+**MERN · AI · Payments · Analytics**
 
 🔗 **Live Preview:** https://edutech-lms-platform-steel.vercel.app/  
 📦 **GitHub Repository:** https://github.com/sourav-357/edutech-lms-platform
