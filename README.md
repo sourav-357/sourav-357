@@ -17,25 +17,14 @@
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
 
-### `$ whoami`
+### `Who am I`
 
 ```ts
 const sourav: Engineer = {
   focus     : "Backend Systems & API Design",
   university: "Vinoba Bhave University (CS)",
   seeking   : "SWE Internship — Summer 2026",
-  location  : "India 🇮🇳",
-
-  principles: [
-    "Backend-first architecture",
-    "Strict API contracts + RBAC",
-    "Production-grade error handling",
-    "Correctness before cleverness",
-  ],
-
-  building  : ["TypeScript", "Next.js", "Docker", "CI/CD"],
-  superpower: "I design the API before the UI 🔧",
-};
+  location  : "India 🇮🇳"
 ```
 
 <br clear="right"/>
