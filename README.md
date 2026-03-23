@@ -215,12 +215,13 @@ const sourav: Engineer = {
 
 <div align="center">
 
-| Area | What I'm Learning |
-|------|------------------|
-| 🦺 Type Safety | TypeScript — typed APIs end-to-end |
-| ⚡ Full-Stack | Next.js — SSR, App Router, Server Actions |
-| 🐳 DevOps | Docker, CI/CD pipelines |
-| 🧠 DSA | Advanced Graphs & Dynamic Programming |
+| Area              | What I'm Learning                          |
+|-------------------|--------------------------------------------|
+| 🛠️ Core Backend   | Node.js + Express (deep dive) + PostgreSQL |
+| 🔐 Security       | JWT + RBAC + OWASP (Phase 1)               |
+| 📦 Production     | Redis, Docker, Jest testing, CI/CD         |
+| 🧠 DSA            | P01–P24 sequenced + P25 patterns           |
+| ☕ Java           | Manual implementations for interviews      |
 
 </div>
 
