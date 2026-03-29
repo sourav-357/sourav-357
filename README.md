@@ -1,15 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d4ff&height=220&section=header&text=Sourav%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%94%20API%20Architect%20%E2%80%94%20Problem%20Solver&descSize=18&descAlignY=60&descColor=a0c4ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d4ff&height=220&section=header&text=Sourav%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20—%20API%20Architect%20—%20Problem%20Solver&descSize=18&descAlignY=60&descColor=a0c4ff" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=🔧+Building+backends+that+actually+scale;📡+25%2B+REST+APIs+across+3+production+apps;🧠+300%2B+DSA+problems+%7C+LeetCode+%2B+GFG;🎯+Seeking+SWE+Internship+—+Summer+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=🔧+Building+scalable+backend+systems;📡+25%2B+Production+REST+APIs;🧠+300%2B+DSA+problems+solved;🚀+Ready+for+SWE+Internship+—+Summer+2026)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sourav-357&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav357)
 [![LeetCode](https://img.shields.io/badge/LeetCode-300%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sourav_357/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-300%2B-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/souravkucnzr)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-300%2B-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/souravkucnzr)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xsouravkumar357@gmail.com)
 
 </div>
 
@@ -17,15 +18,20 @@
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
 
-### `Who am I`
+## 👨‍💻 About Me
 
-```ts
-const sourav: Engineer = {
-  focus     : "Backend Systems & API Design",
-  university: "Vinoba Bhave University (CS)",
-  seeking   : "SWE Internship — Summer 2026",
-  location  : "India 🇮🇳"
+```typescript
+const sourav: SoftwareEngineer = {
+  name       : "Sourav Kumar",
+  focus      : "Backend Systems & API Design",
+  university : "Vinoba Bhave University (B.Tech CS)",
+  seeking    : "SWE Internship — Summer 2026",
+  location   : "India 🇮🇳",
+  passion    : "Building APIs that scale ⚡"
+}
 ```
+
+I'm a backend-focused engineer with **3+ years of coding experience** and a passion for designing clean, scalable systems. I believe in writing APIs that are reliable, well-documented, and production-ready from day one.
 
 <br clear="right"/>
 
@@ -35,23 +41,32 @@ const sourav: Engineer = {
 
 <div align="center">
 
-**Languages**
+**Languages I Master**
 
 [![Skills](https://skillicons.dev/icons?i=java,js,cpp,c,python,ts&theme=dark)](https://skillicons.dev)
 
 **Backend & Databases**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+**Frontend & UI**
 
-[![Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,vite&theme=dark)](https://skillicons.dev)
 
-**Tools & Platforms**
+**DevOps & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel&theme=dark)](https://skillicons.dev)
 
 </div>
+
+| **Category** | **Skills** |
+|---|---|
+| **Backend** | Node.js, Express.js, REST APIs, MVC Architecture |
+| **Databases** | MongoDB, PostgreSQL, Redis (caching) |
+| **Authentication** | JWT, OAuth2, httpOnly Cookies, RBAC |
+| **Frontend** | React, Tailwind CSS, Responsive Design |
+| **DevOps** | Docker, Git, GitHub Actions, Vercel Deployment |
+| **Testing** | Jest, Postman, Manual Testing |
 
 ---
 
@@ -62,15 +77,19 @@ const sourav: Engineer = {
 <td width="50%" valign="top">
 
 ### 🎓 LMS Platform
-**MERN · AI · Payments · Analytics**
+**MERN · AI · Razorpay · Advanced Analytics**
 
-> A production-grade Learning Management System with AI integration, Razorpay payments, and course analytics.
+Production-grade Learning Management System with AI tutoring, payment processing, and comprehensive course analytics dashboard.
 
-**What I built:**
-- `25+` REST APIs across auth, courses, payments & AI
-- Schema-level RBAC — hidden/purchased content control
-- Centralized error handling & validation middleware
-- Modular env-based backend architecture
+**Key Highlights:**
+- 25+ REST APIs (auth, courses, payments, AI chat)
+- Schema-level RBAC with content access control
+- Razorpay payment integration + refunds
+- Centralized error handling middleware
+- Modular, env-based architecture
+- Admin analytics dashboard
+
+**Tech:** Node.js, Express, MongoDB, React, Tailwind, Razorpay
 
 [![Live](https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=flat-square)](https://edutech-lms-platform-steel.vercel.app/)
 [![Repo](https://img.shields.io/badge/📁_Repository-161b22?style=flat-square&logo=github)](https://github.com/sourav-357/edutech-lms-platform)
@@ -81,13 +100,17 @@ const sourav: Engineer = {
 ### 🤝 DevTinder
 **React · Node · Express · MongoDB · JWT**
 
-> Developer networking platform — think LinkedIn meets Tinder, for engineers.
+Developer networking platform connecting engineers. Think LinkedIn meets Tinder, built for tech professionals.
 
-**What I built:**
-- Full-stack auth via JWT + `httpOnly` cookies
-- `15+` REST APIs with pagination, filtering, RBAC
-- Connection request workflows (send/accept/reject)
-- Scalable modular folder architecture
+**Key Highlights:**
+- Full-stack JWT + httpOnly cookie auth
+- 15+ REST APIs with pagination & filtering
+- Connection workflows (send/accept/reject)
+- Real-time notifications system
+- Advanced user search & profile matching
+- Scalable modular architecture
+
+**Tech:** React, Node.js, Express, MongoDB, JWT
 
 [![Live](https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=flat-square)](https://dev-tinder-lake.vercel.app/)
 [![Repo](https://img.shields.io/badge/📁_Repository-161b22?style=flat-square&logo=github)](https://github.com/sourav-357/Dev-Tinder)
@@ -98,14 +121,18 @@ const sourav: Engineer = {
 <td width="50%" valign="top">
 
 ### 🛸 NASA Mission Control
-**React · Node · Express · MongoDB**
+**React · Node · Express · MongoDB · CSV**
 
-> Backend-driven mission control dashboard for NASA's Kepler dataset.
+Backend-driven mission control dashboard for NASA's Kepler dataset with data processing pipeline.
 
-**What I built:**
-- CSV ingestion pipeline + habitable-planet filtering
-- CRUD APIs with full validation & persistent storage
-- Data correctness as a first-class priority
+**Key Highlights:**
+- CSV ingestion & validation pipeline
+- Habitable planet filtering algorithm
+- Full CRUD APIs with validation
+- Data persistence & querying
+- Real-time dashboard updates
+
+**Tech:** React, Node.js, Express, MongoDB
 
 [![Repo](https://img.shields.io/badge/📁_Repository-161b22?style=flat-square&logo=github)](https://github.com/sourav-357/nasa-launch-control)
 
@@ -113,45 +140,55 @@ const sourav: Engineer = {
 <td width="50%" valign="top">
 
 ### 📈 Crypto World
-**React · Tailwind CSS · Public APIs**
+**React · Tailwind · Real-time APIs**
 
-> Real-time cryptocurrency dashboard with optimized data fetching.
+Real-time cryptocurrency dashboard with advanced search and infinite scrolling for market tracking.
 
-**What I built:**
-- Debounced search + infinite scrolling
-- Optimized third-party API consumption
-- Responsive, performant UI with Tailwind
+**Key Highlights:**
+- Real-time crypto price feeds
+- Debounced search optimization
+- Infinite scrolling implementation
+- Chart visualizations
+- Mobile-responsive UI
+- Optimized API consumption
+
+**Tech:** React, Tailwind CSS, Chart.js, REST APIs
 
 [![Live](https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=flat-square)](https://crypto-world-ok55.vercel.app)
 [![Repo](https://img.shields.io/badge/📁_Repository-161b22?style=flat-square&logo=github)](https://github.com/sourav-357/crypto-world)
 
 </td>
 </tr>
-</table>
-
----
-
-## 💼 Experience
-
-<table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-**Frontend Web Developer Intern**
-`Edunet Foundation` · Aug – Sep 2025
+### ✈️ Travel Website
+**React · Tailwind · Responsive Design**
 
-- Deployed responsive travel website with reusable UI components
-- Focused on performance optimization and accessibility
+Modern, responsive travel booking website with intuitive UX and performance optimization.
+
+**Key Highlights:**
+- Responsive design (mobile-first)
+- Reusable UI components
+- Performance optimized
+- Accessibility compliant
+- Deployed via Vercel
+
+**Tech:** React, Tailwind CSS, HTML, CSS
+
+[![Repo](https://img.shields.io/badge/📁_Repository-161b22?style=flat-square&logo=github)](https://github.com/sourav-357)
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-**Full-Stack Development Trainee**
-`iHub DivyaSampark, IIT Roorkee` · Oct 2024 – Jan 2025
+### 🎮 More Projects Coming
+**Stay tuned for:**
+- Real-time chat application
+- URL shortener with analytics
+- E-commerce platform (Phase 2)
+- Blog CMS with Markdown support
 
-- Designed & implemented `12+` REST APIs
-- Authentication systems & profile management
-- Backend-intensive training: Node.js + MongoDB
+Check out my [GitHub profile](https://github.com/sourav-357) for the complete project list.
 
 </td>
 </tr>
@@ -159,24 +196,38 @@ const sourav: Engineer = {
 
 ---
 
-## 🧩 DSA & Problem Solving
+## 💼 Professional Experience
 
-<div align="center">
-
-```
- Arrays · Strings · Hashing · Recursion · Trees · Graphs
- Dynamic Programming · Sliding Window · Backtracking
- Greedy · Searching · Sorting · Two Pointers
-```
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sourav_357/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-300%2B_Problems-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/souravkucnzr)
-
-</div>
+| Role | Organization | Duration | Highlights |
+|---|---|---|---|
+| **Frontend Web Developer Intern** | Edunet Foundation | Aug – Sep 2025 | • Deployed responsive travel website<br/>• Built reusable UI components<br/>• Performance & accessibility focus |
+| **Full-Stack Development Trainee** | iHub DivyaSampark, IIT Roorkee | Oct 2024 – Jan 2025 | • Designed & implemented 12+ REST APIs<br/>• Built authentication systems<br/>• MongoDB + Node.js backend training |
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 DSA & Problem-Solving
+
+```
+Arrays · Strings · Hashing · Recursion · Trees · Graphs · BFS/DFS
+Dynamic Programming · Sliding Window · Two Pointers · Greedy
+Backtracking · Binary Search · Heaps · Tries · Union-Find
+Bit Manipulation · Segment Trees · Topological Sort
+```
+
+**Platforms:**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sourav_357/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-300%2B_Problems-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/souravkucnzr)
+
+**Notable Problem Categories:**
+- ⭐ Daily Coding Practice
+- ⭐ Competitive Programming
+- ⭐ Interview Preparation (LeetCode 75)
+- ⭐ System Design Fundamentals
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -201,7 +252,7 @@ const sourav: Engineer = {
 
 ---
 
-## 📡 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -211,37 +262,81 @@ const sourav: Engineer = {
 
 ---
 
-## 🔭 Currently Exploring
+## 🎓 Learning Path & Currently Exploring
 
 <div align="center">
 
-| Area              | What I'm Learning                          |
-|-------------------|--------------------------------------------|
-| 🛠️ Core Backend   | Node.js + Express (deep dive) + PostgreSQL |
-| 🔐 Security       | JWT + RBAC + OWASP (Phase 1)               |
-| 📦 Production     | Redis, Docker, Jest testing, CI/CD         |
-| 🧠 DSA            | P01–P24 sequenced + P25 patterns           |
-| ☕ Java           | Manual implementations for interviews      |
+| Area | Learning Focus | Status |
+|---|---|---|
+| 🛠️ **Core Backend** | Node.js mastery, PostgreSQL deep dive | 📚 In Progress |
+| 🔐 **Security** | JWT, RBAC, OWASP Top 10, input validation | 📚 In Progress |
+| 📦 **Production** | Redis caching, Docker, Jest, CI/CD pipelines | 📚 In Progress |
+| 🧠 **DSA** | Advanced patterns, competitive programming | 📚 Ongoing |
+| ☕ **Java** | OOP, collections, manual implementations | 📚 Refreshing |
+| 🔄 **System Design** | Scalability, databases, microservices | 🎯 Next Focus |
 
 </div>
 
 ---
 
+## 📜 Certifications & Achievements
+
+- ✅ Full-Stack Development Certification (iHub DivyaSampark, IIT Roorkee)
+- ✅ Frontend Development Certification (Edunet Foundation)
+- ✅ 300+ LeetCode Problems Solved
+- ✅ 300+ GeeksforGeeks Problems Solved
+- 🎯 Pursuing: System Design & Microservices
+
+---
+
+## 🎯 What Makes Me Different
+
+✨ **API-First Mindset** — I design APIs with contracts first, thinking about scalability from day one.
+
+✨ **Backend Depth** — Strong foundation in databases, authentication, error handling, and production practices.
+
+✨ **Problem Solver** — 300+ DSA problems solved; comfortable with complex algorithmic challenges.
+
+✨ **Full-Stack Capable** — While backend-focused, I can build complete applications and understand the full lifecycle.
+
+✨ **Production Ready** — My code is well-documented, tested, and ready for real-world deployment.
+
+---
+
+## 🔭 Open Source & Community
+
+- 👀 Actively exploring open-source contributions
+- 💬 Love discussing backend architecture and system design
+- 🤝 Open to mentoring and collaborating
+
+---
+
 <div align="center">
 
-### 📬 Let's Build Something
+### 📬 Let's Connect & Build Something
+
+**Ready for:**
+- 🚀 Software Engineering Internships (Summer 2026)
+- 💻 Freelance backend projects
+- 🤝 Collaboration on open source
+- 📖 Technical discussions & mentoring
+
+<br/>
 
 [![Email](https://img.shields.io/badge/Email-xsouravkumar357%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xsouravkumar357@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sourav357-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav357)
 [![GitHub](https://img.shields.io/badge/GitHub-sourav--357-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourav-357)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sourav_357-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sourav_357/)
 
 <br/>
 
-> *"I don't just write code — I design systems. The API contract is the product."*
+> **"I don't just write code—I architect systems. The API contract is the product."**
+>
+> **"Scalability is not an afterthought; it's a design principle."**
 
 <br/>
 
-**Open to Software Engineering Internships — Summer 2026** 🚀
+**⭐ If you find my work interesting, star my repos! It helps me reach more people.**
 
 </div>
 
