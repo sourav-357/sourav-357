@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d4ff&height=220&section=header&text=Sourav%20Kumar&fontSize=72&fontColor=ffffff&desc=Backend%20Engineer%20—%20API%20Architect&descSize=18&descAlignY=60&descColor=a0c4ff" alt="Sourav Kumar - Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d4ff&height=300&section=header&text=Sourav%20Kumar&fontSize=72&fontColor=ffffff&textAlignY=35&desc=Backend%20Oriented%20Full%20Stack%20Developer&descSize=18&descAlignY=65&descColor=a0c4ff" alt="Sourav Kumar - Header"/>
 </p>
+
+<br><br>
 
 ## About Me
 
