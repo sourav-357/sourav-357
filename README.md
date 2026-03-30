@@ -37,7 +37,7 @@
 - **📈 Crypto World Dashboard:** A real-time cryptocurrency tracker. *Tech:* React, Tailwind CSS, REST APIs.  
   - Fetched live price feeds and implemented **infinite scrolling** on coin lists.  
   - Added search with debouncing and performance optimizations.  
-  - [Live Demo](https://crypto-world-ok55.vercel.app) | [Source](https://github.com/sourav-357/crypto-world)
+  - [Live Demo](https://crypto-world-psi.vercel.app/) | [Source](https://github.com/sourav-357/crypto-world)
 
 ## 💼 Experience
 
