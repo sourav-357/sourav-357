@@ -21,7 +21,8 @@
 
 - **🎓 EduTech LMS Platform:** A production-ready Learning Management System with AI tutoring and analytics.
 <br>
-*Tech:* Node.js, Express, MongoDB, React, Tailwind, Razorpay.  
+*Tech:* Node.js, Express, MongoDB, React, Tailwind, Razorpay.
+
   - Implemented 25+ REST APIs (auth, courses, payments, AI chat) with **schema-level RBAC**.  
   - Integrated **Razorpay** for secure payments and refunds.  
   - Modular architecture with centralized error handling and logging.  
@@ -29,7 +30,8 @@
 
 - **🤝 DevTinder:** A full-stack networking app for developers (like “LinkedIn meets Tinder”).
 <br> 
-*Tech:* React, Node.js, Express, MongoDB, JWT.  
+*Tech:* React, Node.js, Express, MongoDB, JWT.
+
   - Developed 15+ REST APIs for user auth, profiles, connections, and messaging.  
   - Added real-time notifications and advanced profile matching.  
   - Secure JWT + httpOnly cookie authentication.  
@@ -37,14 +39,16 @@
 
 - **🛸 NASA Mission Control:** Dashboard for NASA’s Kepler data with a CSV processing pipeline. 
 <br>
-*Tech:* React, Node.js, Express, MongoDB.  
+*Tech:* React, Node.js, Express, MongoDB.
+ 
   - Built data ingestion with validation and a **habitable planet filter** algorithm.  
   - Created CRUD APIs for mission data and a real-time frontend dashboard.  
   - [Source](https://github.com/sourav-357/nasa-launch-control) (No live link)
 
 - **📈 Crypto World Dashboard:** A real-time cryptocurrency tracker. 
 <br>
-*Tech:* React, Tailwind CSS, REST APIs.  
+*Tech:* React, Tailwind CSS, REST APIs.
+
   - Fetched live price feeds and implemented **infinite scrolling** on coin lists.  
   - Added search with debouncing and performance optimizations.  
   - [Live Demo](https://crypto-world-psi.vercel.app/) | [Source](https://github.com/sourav-357/crypto-world)
