@@ -20,7 +20,6 @@
 ## 🚀 Featured Projects
 
 - **🎓 EduTech LMS Platform:** A production-ready Learning Management System with AI tutoring and analytics.
-<br>
 *Tech:* Node.js, Express, MongoDB, React, Tailwind, Razorpay.
 
   - Implemented 25+ REST APIs (auth, courses, payments, AI chat) with **schema-level RBAC**.  
@@ -29,7 +28,6 @@
   - [Live Demo](https://edutech-lms-platform-steel.vercel.app/) | [Source](https://github.com/sourav-357/edutech-lms-platform)
 
 - **🤝 DevTinder:** A full-stack networking app for developers (like “LinkedIn meets Tinder”).
-<br> 
 *Tech:* React, Node.js, Express, MongoDB, JWT.
 
   - Developed 15+ REST APIs for user auth, profiles, connections, and messaging.  
@@ -38,7 +36,6 @@
   - [Live Demo](https://dev-tinder-lake.vercel.app/) | [Source](https://github.com/sourav-357/Dev-Tinder)
 
 - **🛸 NASA Mission Control:** Dashboard for NASA’s Kepler data with a CSV processing pipeline. 
-<br>
 *Tech:* React, Node.js, Express, MongoDB.
  
   - Built data ingestion with validation and a **habitable planet filter** algorithm.  
@@ -46,7 +43,6 @@
   - [Source](https://github.com/sourav-357/nasa-launch-control) (No live link)
 
 - **📈 Crypto World Dashboard:** A real-time cryptocurrency tracker. 
-<br>
 *Tech:* React, Tailwind CSS, REST APIs.
 
   - Fetched live price feeds and implemented **infinite scrolling** on coin lists.  
