@@ -19,24 +19,28 @@
 
 ## 🚀 Featured Projects
 
-- **🎓 EduTech LMS Platform:** A production-ready Learning Management System with AI tutoring and analytics. *Tech:* Node.js, Express, MongoDB, React, Tailwind, Razorpay.  
+- **🎓 EduTech LMS Platform:** A production-ready Learning Management System with AI tutoring and analytics. 
+*Tech:* Node.js, Express, MongoDB, React, Tailwind, Razorpay.  
   - Implemented 25+ REST APIs (auth, courses, payments, AI chat) with **schema-level RBAC**.  
   - Integrated **Razorpay** for secure payments and refunds.  
   - Modular architecture with centralized error handling and logging.  
   - [Live Demo](https://edutech-lms-platform-steel.vercel.app/) | [Source](https://github.com/sourav-357/edutech-lms-platform)
 
-- **🤝 DevTinder:** A full-stack networking app for developers (like “LinkedIn meets Tinder”). *Tech:* React, Node.js, Express, MongoDB, JWT.  
+- **🤝 DevTinder:** A full-stack networking app for developers (like “LinkedIn meets Tinder”). 
+*Tech:* React, Node.js, Express, MongoDB, JWT.  
   - Developed 15+ REST APIs for user auth, profiles, connections, and messaging.  
   - Added real-time notifications and advanced profile matching.  
   - Secure JWT + httpOnly cookie authentication.  
   - [Live Demo](https://dev-tinder-lake.vercel.app/) | [Source](https://github.com/sourav-357/Dev-Tinder)
 
-- **🛸 NASA Mission Control:** Dashboard for NASA’s Kepler data with a CSV processing pipeline. *Tech:* React, Node.js, Express, MongoDB.  
+- **🛸 NASA Mission Control:** Dashboard for NASA’s Kepler data with a CSV processing pipeline. 
+*Tech:* React, Node.js, Express, MongoDB.  
   - Built data ingestion with validation and a **habitable planet filter** algorithm.  
   - Created CRUD APIs for mission data and a real-time frontend dashboard.  
   - [Source](https://github.com/sourav-357/nasa-launch-control) (No live link)
 
-- **📈 Crypto World Dashboard:** A real-time cryptocurrency tracker. *Tech:* React, Tailwind CSS, REST APIs.  
+- **📈 Crypto World Dashboard:** A real-time cryptocurrency tracker. 
+*Tech:* React, Tailwind CSS, REST APIs.  
   - Fetched live price feeds and implemented **infinite scrolling** on coin lists.  
   - Added search with debouncing and performance optimizations.  
   - [Live Demo](https://crypto-world-psi.vercel.app/) | [Source](https://github.com/sourav-357/crypto-world)
