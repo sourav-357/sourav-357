@@ -17,6 +17,10 @@
 - **DevOps & Tools:** Docker, Git, GitHub Actions, CI/CD, Vercel  
 - **Other:** React, Tailwind CSS, Postman, Jest
 
+
+
+
+
 ## 🚀 Featured Projects
 
 - **🎓 EduTech LMS Platform:** A production-ready Learning Management System with AI tutoring and analytics.
