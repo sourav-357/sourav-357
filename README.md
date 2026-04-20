@@ -7,7 +7,7 @@
 
 ## About Me
 
-**Backend Engineer** with 3+ years of experience building scalable APIs and systems. I specialize in **Node.js** and **TypeScript**, and I’m passionate about clean architecture and performance. Currently seeking a Software Engineering Internship for Summer 2026. 
+**Backend Engineer** with 3+ years of experience building scalable APIs and systems. I’m passionate about clean architecture and performance. Currently seeking a Software Engineering Internship for Summer 2026. 
 
 ## 🛠️ Skills & Tech Stack
 
@@ -16,10 +16,6 @@
 - **Databases:** MongoDB, PostgreSQL, Redis (caching)  
 - **DevOps & Tools:** Docker, Git, GitHub Actions, CI/CD, Vercel  
 - **Other:** React, Tailwind CSS, Postman, Jest
-
-
-
-
 
 ## 🚀 Featured Projects
 
